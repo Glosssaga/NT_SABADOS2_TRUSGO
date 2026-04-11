@@ -1,0 +1,6 @@
+,id_oficina,nombre_oficina,direccion,departamento,ciudad,telefono,fecha_apertura
+0,,Sucursal Oeste,Avenida 456 #78-90,Cundinamarca,Cali,6048792657,2017/08/29
+1,6419.0,Sucursal Este,Avenida 456 #78-90,Antioquia,Barranquilla,6081447881,
+2,9854.0,Oficina Principal,Carrera 789 #12-34,Cundinamarca,Bucaramanga,6024478332,2012/11/17
+3,1219.0,Oficina Secundaria,Avenida 456 #78-90,Antioquia,Medellín,6087610054,
+4,892.0,Oficina Secundaria,Avenida 456 #78-90,Santander,Barranquilla,6097739666,

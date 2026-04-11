@@ -1,0 +1,47 @@
+[
+    {
+        "id_oficina":null,
+        "nombre_oficina":"Sucursal Oeste",
+        "direccion":"Avenida 456 #78-90",
+        "departamento":"Cundinamarca",
+        "ciudad":"Cali",
+        "telefono":"6048792657",
+        "fecha_apertura":"2017\/08\/29"
+    },
+    {
+        "id_oficina":6419.0,
+        "nombre_oficina":"Sucursal Este",
+        "direccion":"Avenida 456 #78-90",
+        "departamento":"Antioquia",
+        "ciudad":"Barranquilla",
+        "telefono":"6081447881",
+        "fecha_apertura":null
+    },
+    {
+        "id_oficina":9854.0,
+        "nombre_oficina":"Oficina Principal",
+        "direccion":"Carrera 789 #12-34",
+        "departamento":"Cundinamarca",
+        "ciudad":"Bucaramanga",
+        "telefono":"6024478332",
+        "fecha_apertura":"2012\/11\/17"
+    },
+    {
+        "id_oficina":1219.0,
+        "nombre_oficina":"Oficina Secundaria",
+        "direccion":"Avenida 456 #78-90",
+        "departamento":"Antioquia",
+        "ciudad":"Medell\u00edn",
+        "telefono":"6087610054",
+        "fecha_apertura":null
+    },
+    {
+        "id_oficina":892.0,
+        "nombre_oficina":"Oficina Secundaria",
+        "direccion":"Avenida 456 #78-90",
+        "departamento":"Santander",
+        "ciudad":"Barranquilla",
+        "telefono":"6097739666",
+        "fecha_apertura":null
+    }
+]
