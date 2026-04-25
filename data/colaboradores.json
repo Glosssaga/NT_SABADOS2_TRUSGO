@@ -1,0 +1,32 @@
+[
+    {
+        "id_colaboradora":110,
+        "cargo":"Dise\u00f1ador",
+        "cedula":"4210516902",
+        "id_oficina":304
+    },
+    {
+        "id_colaboradora":200,
+        "cargo":"Gerente",
+        "cedula":"2825574822",
+        "id_oficina":454
+    },
+    {
+        "id_colaboradora":293,
+        "cargo":"Soporte T\u00e9cnico",
+        "cedula":"1924872347",
+        "id_oficina":" 392 "
+    },
+    {
+        "id_colaboradora":412,
+        "cargo":"Soporte T\u00e9cnico",
+        "cedula":"5587946612",
+        "id_oficina":274
+    },
+    {
+        "id_colaboradora":132,
+        "cargo":"Desarrollador",
+        "cedula":"6319900499",
+        "id_oficina":343
+    }
+]
