@@ -22,6 +22,7 @@ os.makedirs(DATA_DIR, exist_ok=True)
 from utils.tablaOficinas import simular_oficinas
 from notebook.limpiezatablaoficinas import limpiar_datos_oficinas
 from utils.tablaColaboradores import generar_colaboradores
+from notebook.descripcionOficinas import describir_datos
 from utils.descripcionSucursalClientes import describir_datos
 
 
@@ -105,6 +106,13 @@ def ejecutar_pipeline(num_registros=1000, guardar_sucios=True, verbose=True):
     print(
         f"\n[OK] Datos limpios guardados en data/simulaciones_limpias.json y data/simulaciones_limpias.csv"
     )
+
+    # DESCRIPCION DEL DATASET
+    print("\n" + "=" * 60)
+    print("DESCRIPCION DEL DATASET LIMPIO")
+    print("=" * 60)
+    
+    describir_datos(simulaciones_ordenadas)
 
     print("\n" + "=" * 60)
     print("PROCESO COMPLETADO")
