@@ -1,20 +1,17 @@
 import pandas as pd
 
-from utils.tablaColaboradores import generar_colaboradores
+from utils.simulacion import generar_simulacion
+from notebook.limpieza import limpiar_datos 
 
-colaboradores = generar_colaboradores(5)
 
-simulaciones_ordenadas = pd.DataFrame(colaboradores)
+# Lllamando a las rutinas de simulacion
+simulaciones = generar_simulacion(10) 
+#print(simulaciones)
 
-#convirtiendo nuestra simulacion en dos diferentes formatos
+#Llamando a pandas para crear data frames de los datos de entradas
+simulaciones_ordenadas= pd.DataFrame(simulaciones)
+print(simulaciones_ordenadas)
 
-#json
-
-simulaciones_ordenadas.to_json("colaboradores.json",orient="records",indent=4)
-
-#csv
-simulaciones_ordenadas.to_csv("colaboradores.csv")
-
-print("Archivos generados:") 
-print("colaboradores.json")
-print("colaboradores.csv")  
+# Llamando a la función de limpieza de datos
+simulaciones_limpias=limpiar_datos(simulaciones_ordenadas)
+print(simulaciones_limpias)
