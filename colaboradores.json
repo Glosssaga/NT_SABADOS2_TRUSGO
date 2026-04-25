@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "id_colaboradora":281.0,
         "cargo":"Gerente",
         "cedula":"7174345680",
@@ -5998,5 +5999,35 @@
         "cargo":"Gerente",
         "cedula":"2592102242",
         "id_oficina":449
+=======
+        "id_colaboradora":null,
+        "cargo":null,
+        "cedula":"invalid_cedula",
+        "id_oficina":483
+    },
+    {
+        "id_colaboradora":131.0,
+        "cargo":"Soporte T\u00e9cnico",
+        "cedula":"7399178360",
+        "id_oficina":161
+    },
+    {
+        "id_colaboradora":187.0,
+        "cargo":"Dise\u00f1ador",
+        "cedula":"9905823120",
+        "id_oficina":310
+    },
+    {
+        "id_colaboradora":373.0,
+        "cargo":"Despachador",
+        "cedula":"7442350130",
+        "id_oficina":" 21 "
+    },
+    {
+        "id_colaboradora":357.0,
+        "cargo":"Despachador",
+        "cedula":"1161784122",
+        "id_oficina":412
+>>>>>>> 30de302d06c27d995b6110291ae5e87100b81cd4
     }
 ]

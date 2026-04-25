@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 id_colaboradora,cargo,cedula,id_oficina
 281.0,Gerente,7174345680,371
 22.0,Gerente,9045040521,380
@@ -999,3 +1000,11 @@ id_colaboradora,cargo,cedula,id_oficina
 199.0,Soporte Técnico,6528211707,148
 5.0,Diseñador,8177807098,54
 206.0,Gerente,2592102242,449
+=======
+,id_colaboradora,cargo,cedula,id_oficina
+0,,,invalid_cedula,483
+1,131.0,Soporte Técnico,7399178360,161
+2,187.0,Diseñador,9905823120,310
+3,373.0,Despachador,7442350130, 21 
+4,357.0,Despachador,1161784122,412
+>>>>>>> 30de302d06c27d995b6110291ae5e87100b81cd4

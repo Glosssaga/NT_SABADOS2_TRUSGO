@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 import sys
 import os
@@ -137,3 +138,25 @@ if __name__ == "__main__":
     print("✓ TODOS LOS PROCESOS COMPLETADOS")
     print("=" * 60)  
 
+=======
+import pandas as pd
+
+from utils.tablaColaboradores import generar_colaboradores
+
+colaboradores = generar_colaboradores(5)
+
+simulaciones_ordenadas = pd.DataFrame(colaboradores)
+
+#convirtiendo nuestra simulacion en dos diferentes formatos
+
+#json
+
+simulaciones_ordenadas.to_json("colaboradores.json",orient="records",indent=4)
+
+#csv
+simulaciones_ordenadas.to_csv("colaboradores.csv")
+
+print("Archivos generados:") 
+print("colaboradores.json")
+print("colaboradores.csv")  
+>>>>>>> 30de302d06c27d995b6110291ae5e87100b81cd4
