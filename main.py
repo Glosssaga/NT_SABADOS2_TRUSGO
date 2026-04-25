@@ -22,11 +22,8 @@ os.makedirs(DATA_DIR, exist_ok=True)
 from utils.tablaOficinas import simular_oficinas
 from notebook.limpiezatablaoficinas import limpiar_datos_oficinas
 from utils.tablaColaboradores import generar_colaboradores
-<<<<<<< HEAD
 from notebook.descripcionOficinas import describir_datos
-=======
 from utils.descripcionSucursalClientes import describir_datos
->>>>>>> 482016bd5423edc3f64fba3e2045e365e649cf12
 
 
 def ejecutar_pipeline(num_registros=1000, guardar_sucios=True, verbose=True):
