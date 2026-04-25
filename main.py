@@ -41,7 +41,7 @@ def ejecutar_pipeline(num_registros=1000, guardar_sucios=True, verbose=True):
     simulaciones = simular_oficinas(num_registros)
     simulaciones_sucio = pd.DataFrame(simulaciones)
 
-    print(f"✓ Se generaron {len(simulaciones_sucio)} registros de oficinas")
+    print(f"[OK] Se generaron {len(simulaciones_sucio)} registros de oficinas")
     
     if verbose:
         print(f"\nColumnas: {list(simulaciones_sucio.columns)}")
@@ -55,9 +55,9 @@ def ejecutar_pipeline(num_registros=1000, guardar_sucios=True, verbose=True):
 
     # Guardar datos SUCIOS (opcional)
     if guardar_sucios:
-        simulaciones_sucio.to_json("data/simulaciones.json", orient="records", indent=4)
+        simulaciones_sucio.to_json("data/simulaciones.json", orient="records", indent=4, date_format="iso")
         simulaciones_sucio.to_csv("data/simulaciones.csv", index=False)
-        print(f"\n✓ Datos sin limpiar guardados en data/simulaciones.json y data/simulaciones.csv")
+        print(f"\n[OK] Datos sin limpiar guardados en data/simulaciones.json y data/simulaciones.csv")
 
     if verbose:
         print(f"\n{simulaciones_sucio.info()}")
@@ -71,7 +71,7 @@ def ejecutar_pipeline(num_registros=1000, guardar_sucios=True, verbose=True):
 
     simulaciones_ordenadas = limpiar_datos_oficinas(simulaciones_sucio)
 
-    print(f"✓ Limpieza completada")
+    print(f"[OK] Limpieza completada")
     print(f"\nEstadísticas DESPUÉS de limpiar:")
     print(f"  - Total registros: {len(simulaciones_ordenadas)}")
     print(f"  - Registros eliminados: {len(simulaciones_sucio) - len(simulaciones_ordenadas)}")
@@ -83,10 +83,10 @@ def ejecutar_pipeline(num_registros=1000, guardar_sucios=True, verbose=True):
         print(f"\n{simulaciones_ordenadas.info()}")
 
     # Guardar datos LIMPIOS
-    simulaciones_ordenadas.to_json("data/simulaciones_limpias.json", orient="records", indent=4)
+    simulaciones_ordenadas.to_json("data/simulaciones_limpias.json", orient="records", indent=4, date_format="iso")
     simulaciones_ordenadas.to_csv("data/simulaciones_limpias.csv", index=False)
 
-    print(f"\n✓ Datos limpios guardados en data/simulaciones_limpias.json y data/simulaciones_limpias.csv")
+    print(f"\n[OK] Datos limpios guardados en data/simulaciones_limpias.json y data/simulaciones_limpias.csv")
 
     print("\n" + "=" * 60)
     print("PROCESO COMPLETADO")
@@ -111,7 +111,7 @@ def ejecutar_colaboradores(num_registros=1000, verbose=True):
     colaboradores_datos = generar_colaboradores(num_registros)
     df_colaboradores = pd.DataFrame(colaboradores_datos)
     
-    print(f"✓ Se generaron {len(df_colaboradores)} registros de colaboradores")
+    print(f"[OK] Se generaron {len(df_colaboradores)} registros de colaboradores")
     
     if verbose:
         print(f"\nColumnas: {list(df_colaboradores.columns)}")
@@ -120,10 +120,10 @@ def ejecutar_colaboradores(num_registros=1000, verbose=True):
         print(f"\n{df_colaboradores.info()}")
     
     # Guardar colaboradores
-    df_colaboradores.to_json("colaboradores.json", orient="records", indent=4)
+    df_colaboradores.to_json("colaboradores.json", orient="records", indent=4, date_format="iso")
     df_colaboradores.to_csv("colaboradores.csv", index=False)
     
-    print(f"\n✓ Datos de colaboradores guardados en colaboradores.json y colaboradores.csv")
+    print(f"\n[OK] Datos de colaboradores guardados en colaboradores.json y colaboradores.csv")
     
     print("\n" + "=" * 60)
     print("PROCESO DE COLABORADORES COMPLETADO")
@@ -145,7 +145,7 @@ if __name__ == "__main__":
     ejecutar_colaboradores(num_registros=1000, verbose=True)
     
     print("\n" + "=" * 60)
-    print("✓ TODOS LOS PROCESOS COMPLETADOS")
+    print("[OK] TODOS LOS PROCESOS COMPLETADOS")
     print("=" * 60)  
 
 

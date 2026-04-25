@@ -51,10 +51,6 @@ def simular_oficinas(numero_oficinas):
             "telefono"     : f"60{random.randint(10000000, 99999999)}",
             "fecha_apertura": fecha_simulada.strftime("%Y/%m/%d"),
         }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> develop
         # Inyectando errores controlados 
         probabailidadError=random.random()
         if probabailidadError<0.1:
@@ -75,12 +71,3 @@ def simular_oficinas(numero_oficinas):
         oficinas.append(oficina)
 
     return oficinas
-
-<<<<<<< HEAD
-=======
-=======
-        oficinas.append(oficina)
-
-    return oficinas
->>>>>>> 30de302d06c27d995b6110291ae5e87100b81cd4
->>>>>>> develop
