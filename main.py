@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
->>>>>>> develop
 import sys
 import os
 import pandas as pd
@@ -10,7 +5,6 @@ import pandas as pd
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from utils.tablaOficinas import simular_oficinas
-<<<<<<< HEAD
 
 simulaciones = simular_oficinas(5)
 
@@ -22,7 +16,7 @@ simulaciones_ordenadas.to_json("data/simulaciones.json",orient="records",indent=
 
 #csv
 simulaciones_ordenadas.to_csv("data/simulaciones.csv")
-=======
+
 from notebook.limpiezatablaoficinas import limpiar_datos_oficinas
 from utils.tablaColaboradores import generar_colaboradores
 
@@ -154,7 +148,7 @@ if __name__ == "__main__":
     print("✓ TODOS LOS PROCESOS COMPLETADOS")
     print("=" * 60)  
 
-=======
+
 import pandas as pd
 
 from utils.tablaColaboradores import generar_colaboradores
@@ -174,6 +168,4 @@ simulaciones_ordenadas.to_csv("colaboradores.csv")
 
 print("Archivos generados:") 
 print("colaboradores.json")
-print("colaboradores.csv")  
->>>>>>> 30de302d06c27d995b6110291ae5e87100b81cd4
->>>>>>> develop
+print("colaboradores.csv")
