@@ -47,9 +47,3 @@ def generar_simulacion(numeroCasaMatriz):
     return casasMatrices
 
 
-# MAIN (para ejecutar)
-if __name__ == "__main__":
-    datos = simular_casa_matriz_sucia(10)
-    
-    for d in datos:
-        print(d)
