@@ -16,7 +16,12 @@ os.makedirs(DATA_DIR, exist_ok=True)
 from utils.tablaOficinas import simular_oficinas
 from notebook.limpiezatablaoficinas import limpiar_datos_oficinas
 from utils.tablaColaboradores import generar_colaboradores
+<<<<<<< HEAD
 from notebook.limpiezaTablaCasaMatriz import cargar_simulacion_casa_matriz, limpieza_datos
+=======
+from notebook.descripcionOficinas import describir_datos
+from utils.descripcionSucursalClientes import describir_datos
+>>>>>>> 00150c26685abd87c13b68144a1e0d8830a849d6
 
 
 def ejecutar_pipeline(num_registros=1000, guardar_sucios=True, verbose=True):
@@ -100,9 +105,19 @@ def ejecutar_pipeline(num_registros=1000, guardar_sucios=True, verbose=True):
         f"\n[OK] Datos limpios guardados en data/simulaciones_limpias.json y data/simulaciones_limpias.csv"
     )
 
+    # DESCRIPCION DEL DATASET
+    print("\n" + "=" * 60)
+    print("DESCRIPCION DEL DATASET LIMPIO")
+    print("=" * 60)
+    
+    describir_datos(simulaciones_ordenadas)
+
     print("\n" + "=" * 60)
     print("PROCESO COMPLETADO")
     print("=" * 60 + "\n")
+
+    # Describir datos limpios
+    describir_datos(simulaciones_ordenadas)
 
     return simulaciones_ordenadas
 
@@ -144,6 +159,9 @@ def ejecutar_colaboradores(num_registros=1000, verbose=True):
     print("\n" + "=" * 60)
     print("PROCESO DE COLABORADORES COMPLETADO")
     print("=" * 60 + "\n")
+
+    # Describir datos de colaboradores
+    describir_datos(df_colaboradores)
 
     return df_colaboradores
 
