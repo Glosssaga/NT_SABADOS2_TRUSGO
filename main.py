@@ -16,12 +16,11 @@ os.makedirs(DATA_DIR, exist_ok=True)
 from utils.tablaOficinas import simular_oficinas
 from notebook.limpiezatablaoficinas import limpiar_datos_oficinas
 from utils.tablaColaboradores import generar_colaboradores
-<<<<<<< HEAD
 from notebook.limpiezaTablaCasaMatriz import cargar_simulacion_casa_matriz, limpieza_datos
-=======
+from notebook.descripcionOficinas import describir_datos
 from notebook.descripcionOficinas import describir_datos
 from utils.descripcionSucursalClientes import describir_datos
->>>>>>> 00150c26685abd87c13b68144a1e0d8830a849d6
+
 
 
 def ejecutar_pipeline(num_registros=1000, guardar_sucios=True, verbose=True):
