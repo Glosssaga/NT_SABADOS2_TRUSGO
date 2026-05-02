@@ -23,7 +23,7 @@ from utils.tablaOficinas import simular_oficinas
 from notebook.limpiezatablaoficinas import limpiar_datos_oficinas
 from utils.tablaColaboradores import generar_colaboradores
 from notebook.descripcionOficinas import describir_datos
-from utils.descripcionSucursalClientes import describir_datos
+from notebook.descripcionOficinas import describir_datos
 
 
 def ejecutar_pipeline(num_registros=1000, guardar_sucios=True, verbose=True):
