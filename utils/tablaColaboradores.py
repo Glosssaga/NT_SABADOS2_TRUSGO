@@ -1,39 +1,37 @@
-# Id_Colaboradora int varchar (10)
-#Cargo varchar(50)
-#Cedula varchar(20)
-#Id_Oficina int varchar (10)
-
 import random
 
+
 def generar_colaboradores(num_colaboradores):
-    
-    cargos = ["Gerente", "Despachador", "Desarrollador", "Diseñador", "Soporte Técnico"]
-    
+
+    cargos   = ["Gerente", "Despachador", "Desarrollador", "Diseñador", "Soporte Técnico"]
+    nombres  = ["Carlos", "Maria", "Juan", "Ana", "Pedro", "Laura", "Luis", "Sofia", "Jorge", "Diana"]
+    activos  = ["true", "false"]
+
     colaboradores = []
 
     for i in range(num_colaboradores):
-        
-        informacion_colaboradores = {
-            "id_colaboradora": random.randint(1, 500),
-            "cargo": random.choice(cargos),
-            "cedula": str(random.randint(1000000000, 9999999999)),
-            "id_oficina": random.randint(1, 500)
+
+        colaborador = {
+            "id_colaborador"    : f"COL{str(i + 1).zfill(3)}",
+            "nombre_colaborador": random.choice(nombres),
+            "cargo"             : random.choice(cargos),
+            "telefono"          : f"60{random.randint(10000000, 99999999)}",
+            "activo"            : random.choice(activos)
         }
 
         # Inyectando errores controlados
-        probabilidadError = random.random()
+        probabilidad = random.random()
 
-        if probabilidadError < 0.1:
-            informacion_colaboradores["id_colaboradora"] = random.choice([None, -1, 0])
-            informacion_colaboradores["cargo"] = None
-            informacion_colaboradores["cedula"] = "invalid_cedula"
+        if probabilidad < 0.1:
+            colaborador["id_colaborador"]     = random.choice([None, "", "0"])
+            colaborador["cargo"]              = None
+        elif probabilidad < 0.3:
+            colaborador["nombre_colaborador"] = " " + colaborador["nombre_colaborador"] + " "
+        elif probabilidad < 0.6:
+            colaborador["cargo"]              = colaborador["cargo"].upper()
+        elif probabilidad < 0.8:
+            colaborador["telefono"]           = f"60{random.randint(1000000, 9999999)}"
 
-        elif probabilidadError < 0.3:
-            informacion_colaboradores["id_oficina"] = " " + str(informacion_colaboradores["id_oficina"]) + " "  # inyectamos espacios
-
-        elif probabilidadError < 0.6:
-            informacion_colaboradores["cedula"] = informacion_colaboradores["cedula"].upper()  # inyectamos cedula en mayúsculas
-
-        colaboradores.append(informacion_colaboradores)
+        colaboradores.append(colaborador)
 
     return colaboradores

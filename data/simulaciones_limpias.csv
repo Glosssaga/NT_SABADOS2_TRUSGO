@@ -1,897 +1,969 @@
 id_oficina,nombre_oficina,direccion,departamento,ciudad,telefono,fecha_apertura
-339.0,oficina secundaria,carrera 789 #12-34,antioquia,cali,6079902749,2017-09-16
-7828.0,sucursal este,calle 123 #45-67,atlántico,medellín,6087110578,2017-10-03
-8495.0,sucursal sur,avenida 456 #78-90,valle del cauca,cali,6022453694,2026-01-01
-2414.0,oficina local,carrera 789 #12-34,atlántico,barranquilla,6075728729,2019-12-24
-8763.0,oficina local,calle 123 #45-67,atlántico,bucaramanga,6055181911,2019-03-16
-1.0,sucursal norte,calle 123 #45-67,cundinamarca,bogotá,6071031781,2011-11-07
-3851.0,sucursal norte,carrera 789 #12-34,atlántico,cali,6082508980,2017-03-08
-8075.0,oficina regional,calle 321 #54-76,atlántico,medellín,6027057247,2015-12-13
-7787.0,oficina secundaria,calle 123 #45-67,santander,bucaramanga,6041757854,2015-04-04
-3540.0,sucursal este,avenida 456 #78-90,antioquia,bucaramanga,6057898575,2011-02-10
-4098.0,oficina central,carrera 789 #12-34,antioquia,medellín,6019449158,2018-06-30
-4571.0,oficina local,calle 321 #54-76,atlántico,cali,6015189647,2012-11-16
-7530.0,oficina central,calle 321 #54-76,valle del cauca,bogotá,6025958662,2017-07-06
-1695.0,oficina regional,calle 321 #54-76,antioquia,barranquilla,608619091,2017-03-22
-4653.0,oficina principal,carrera 789 #12-34,antioquia,bucaramanga,6046307694,2013-01-26
-5813.0,oficina local,calle 321 #54-76,valle del cauca,barranquilla,6038546319,2026-01-01
-3693.0,sucursal oeste,avenida 456 #78-90,antioquia,bucaramanga,6070292161,2014-05-30
-6858.0,sucursal este,avenida 456 #78-90,cundinamarca,bogotá,6057597311,2011-07-08
-8300.0,sucursal este,calle 123 #45-67,cundinamarca,medellín,6060247951,2026-01-01
-3033.0,oficina principal,carrera 789 #12-34,santander,cali,6077855862,2017-01-24
-4937.0,oficina regional,calle 321 #54-76,antioquia,medellín,6078951985,2026-01-01
-511.0,sucursal sur,carrera 789 #12-34,cundinamarca,cali,6057210476,2011-10-11
-8203.0,sucursal oeste,calle 123 #45-67,valle del cauca,cali,6074263492,2018-11-25
-4628.0,sucursal oeste,carrera 789 #12-34,atlántico,medellín,6085815194,2015-12-11
-1656.0,oficina secundaria,avenida 654 #87-09,atlántico,barranquilla,6010219629,2026-01-01
-9240.0,oficina de ventas,calle 321 #54-76,atlántico,bucaramanga,6083711183,2018-12-12
-5488.0,sucursal oeste,avenida 654 #87-09,antioquia,bucaramanga,6065883472,2026-01-01
-3053.0,sucursal norte,avenida 456 #78-90,atlántico,barranquilla,6012211697,2026-01-01
-5694.0,sucursal sur,calle 123 #45-67,cundinamarca,bogotá,6010477896,2019-08-13
-6002.0,sucursal oeste,avenida 654 #87-09,santander,bucaramanga,6090150693,2026-01-01
-2389.0,oficina de ventas,calle 321 #54-76,santander,cali,6030415827,2012-03-27
-693.0,sucursal norte,avenida 654 #87-09,antioquia,bucaramanga,6082810911,2017-02-03
-4334.0,oficina principal,calle 123 #45-67,santander,bucaramanga,6073712096,2016-12-07
-9713.0,oficina local,avenida 654 #87-09,atlántico,medellín,6056201679,2018-10-25
-6394.0,oficina regional,avenida 654 #87-09,cundinamarca,cali,6019476047,2026-01-01
-5964.0,oficina local,avenida 654 #87-09,valle del cauca,bucaramanga,6022660921,2026-01-01
-5081.0,oficina secundaria,calle 123 #45-67,santander,barranquilla,6017822681,2016-01-09
-9112.0,oficina principal,calle 123 #45-67,valle del cauca,medellín,6077991904,2016-07-07
-6974.0,oficina regional,carrera 789 #12-34,antioquia,medellín,6064630247,2013-04-30
-3186.0,sucursal oeste,avenida 456 #78-90,santander,bogotá,6041345463,2015-01-24
-4490.0,oficina de ventas,carrera 789 #12-34,atlántico,medellín,6070141110,2017-07-06
-2117.0,oficina regional,carrera 789 #12-34,valle del cauca,cali,6016156412,2014-02-10
-7579.0,oficina regional,avenida 456 #78-90,antioquia,cali,6060861270,2014-10-29
-7198.0,oficina de ventas,avenida 456 #78-90,cundinamarca,medellín,6094126593,2026-01-01
-9387.0,oficina local,carrera 789 #12-34,valle del cauca,bucaramanga,6052925339,2026-01-01
-5471.0,sucursal este,avenida 654 #87-09,valle del cauca,cali,6027125021,2017-11-19
-4738.0,sucursal sur,calle 123 #45-67,santander,bucaramanga,6078089104,2018-03-17
-7797.0,oficina regional,avenida 654 #87-09,santander,barranquilla,6024926084,2026-01-01
-336.0,oficina regional,calle 321 #54-76,santander,bucaramanga,6061542878,2026-01-01
-80.0,oficina central,avenida 456 #78-90,antioquia,barranquilla,6076349955,2026-01-01
-574.0,oficina central,avenida 654 #87-09,antioquia,cali,6054645746,2015-06-24
-4934.0,sucursal sur,calle 321 #54-76,antioquia,cali,6044206752,2016-08-10
-9439.0,oficina regional,avenida 654 #87-09,cundinamarca,bogotá,6035227648,2013-08-08
-4163.0,oficina principal,avenida 654 #87-09,santander,barranquilla,6025932951,2026-01-01
-2277.0,oficina regional,calle 123 #45-67,antioquia,medellín,6046737247,2026-01-01
-5154.0,oficina local,calle 123 #45-67,cundinamarca,barranquilla,6062081872,2026-01-01
-1301.0,oficina local,avenida 456 #78-90,cundinamarca,medellín,6093158182,2026-01-01
-4533.0,oficina local,avenida 456 #78-90,cundinamarca,medellín,6065708908,2016-04-05
-8023.0,oficina central,calle 123 #45-67,atlántico,cali,6029942247,2018-02-04
-9546.0,oficina central,calle 123 #45-67,santander,medellín,6059172402,2010-02-03
-278.0,oficina de ventas,avenida 654 #87-09,atlántico,bucaramanga,6052780493,2015-03-04
-4800.0,sucursal sur,avenida 654 #87-09,atlántico,medellín,6084762913,2014-02-11
-6907.0,oficina principal,calle 123 #45-67,cundinamarca,cali,6050416452,2026-01-01
-9916.0,oficina principal,avenida 456 #78-90,valle del cauca,cali,6019950784,2026-01-01
-2249.0,oficina regional,carrera 789 #12-34,valle del cauca,barranquilla,6042947475,2010-05-01
-2590.0,oficina local,calle 123 #45-67,santander,bucaramanga,6011952023,2019-04-18
-4858.0,sucursal norte,calle 123 #45-67,valle del cauca,cali,6075400926,2018-11-17
-3200.0,oficina central,avenida 654 #87-09,valle del cauca,cali,6053518031,2026-01-01
-5018.0,oficina central,avenida 654 #87-09,antioquia,bucaramanga,6058122753,2019-03-30
-9667.0,oficina regional,avenida 654 #87-09,cundinamarca,medellín,607591988,2018-03-31
-482.0,sucursal oeste,avenida 654 #87-09,santander,barranquilla,6029255492,2017-09-05
-161.0,sucursal norte,carrera 789 #12-34,atlántico,medellín,6010986593,2019-12-18
-1266.0,sucursal norte,carrera 789 #12-34,valle del cauca,cali,6051298307,2012-05-04
-3211.0,oficina regional,avenida 654 #87-09,santander,bucaramanga,6084753816,2018-01-15
-1683.0,sucursal norte,calle 321 #54-76,valle del cauca,cali,6033648091,2018-12-06
-9066.0,sucursal sur,avenida 456 #78-90,atlántico,barranquilla,6035726188,2019-09-19
-2909.0,oficina regional,carrera 789 #12-34,valle del cauca,medellín,6053244293,2014-08-22
-9899.0,oficina regional,avenida 654 #87-09,santander,medellín,6080814086,2010-05-21
-9616.0,oficina principal,carrera 789 #12-34,cundinamarca,bogotá,6026400177,2019-11-14
-8996.0,oficina central,calle 321 #54-76,atlántico,bogotá,608380121,2016-09-20
-5980.0,oficina de ventas,avenida 456 #78-90,santander,bucaramanga,6040367048,2011-05-17
-6279.0,oficina de ventas,carrera 789 #12-34,atlántico,bucaramanga,6020108030,2016-09-23
-2878.0,sucursal este,avenida 456 #78-90,santander,bogotá,6077190932,2012-07-08
-1257.0,sucursal oeste,avenida 654 #87-09,cundinamarca,cali,6097714653,2026-01-01
-816.0,oficina regional,calle 321 #54-76,valle del cauca,bucaramanga,6048737750,2018-03-22
-9448.0,sucursal norte,avenida 654 #87-09,antioquia,medellín,6051287839,2014-03-15
-2243.0,oficina local,calle 321 #54-76,atlántico,bucaramanga,6070919757,2010-10-10
-2540.0,sucursal oeste,avenida 456 #78-90,santander,barranquilla,6040909283,2026-01-01
-9098.0,sucursal norte,avenida 654 #87-09,antioquia,bucaramanga,6057434183,2026-01-01
-1881.0,oficina de ventas,calle 123 #45-67,antioquia,barranquilla,6088475667,2026-01-01
-9405.0,oficina regional,calle 123 #45-67,valle del cauca,barranquilla,6067323543,2026-01-01
-3887.0,oficina local,avenida 654 #87-09,antioquia,bogotá,6051718124,2010-04-04
-402.0,oficina principal,avenida 456 #78-90,valle del cauca,medellín,6054322325,2011-09-10
-5209.0,oficina local,calle 123 #45-67,cundinamarca,barranquilla,6036068838,2012-07-29
-6186.0,sucursal este,calle 123 #45-67,santander,cali,6029363241,2014-01-01
-1778.0,oficina principal,avenida 456 #78-90,santander,medellín,6032298468,2016-03-02
-9514.0,sucursal este,calle 321 #54-76,cundinamarca,barranquilla,6024939791,2015-11-04
-8500.0,oficina regional,avenida 456 #78-90,santander,medellín,6062236736,2010-03-19
-737.0,sucursal norte,carrera 789 #12-34,santander,bogotá,6021085992,2016-01-03
-6849.0,oficina principal,avenida 654 #87-09,cundinamarca,medellín,6085584698,2019-06-10
-6844.0,sucursal oeste,avenida 654 #87-09,antioquia,barranquilla,6061047574,2016-10-21
-7605.0,oficina regional,calle 321 #54-76,valle del cauca,bogotá,6028751399,2026-01-01
-912.0,oficina central,carrera 789 #12-34,cundinamarca,bogotá,6078321768,2026-01-01
-628.0,sucursal norte,calle 123 #45-67,cundinamarca,bogotá,6045541445,2013-11-13
-942.0,oficina de ventas,avenida 456 #78-90,antioquia,bucaramanga,6083534042,2011-10-16
-393.0,sucursal este,carrera 789 #12-34,cundinamarca,barranquilla,6060664663,2011-04-29
-7699.0,oficina central,calle 321 #54-76,cundinamarca,bucaramanga,6016612339,2026-01-01
-3333.0,oficina local,avenida 654 #87-09,valle del cauca,medellín,6084772088,2026-01-01
-7630.0,oficina secundaria,avenida 654 #87-09,cundinamarca,bucaramanga,6087758385,2026-01-01
-5675.0,oficina secundaria,avenida 456 #78-90,santander,cali,6059724361,2026-01-01
-6826.0,oficina principal,calle 123 #45-67,antioquia,bogotá,6081887962,2026-01-01
-7328.0,sucursal sur,calle 123 #45-67,atlántico,cali,6034475608,2010-03-12
-7733.0,oficina central,carrera 789 #12-34,cundinamarca,bogotá,6083351118,2017-07-24
-222.0,oficina local,calle 123 #45-67,cundinamarca,medellín,6028222314,2018-03-17
-8588.0,oficina de ventas,avenida 456 #78-90,cundinamarca,barranquilla,6018307413,2026-01-01
-4083.0,oficina de ventas,avenida 456 #78-90,santander,bucaramanga,6091165746,2026-01-01
-9509.0,oficina secundaria,avenida 654 #87-09,cundinamarca,bogotá,609916326,2016-10-13
-5554.0,oficina central,avenida 654 #87-09,antioquia,cali,6066975617,2012-08-21
-4231.0,sucursal oeste,avenida 654 #87-09,valle del cauca,medellín,6045384481,2015-08-11
-628.0,oficina local,calle 123 #45-67,cundinamarca,medellín,6070737570,2026-01-01
-6967.0,oficina central,carrera 789 #12-34,atlántico,barranquilla,605738486,2015-01-14
-7328.0,sucursal norte,avenida 456 #78-90,valle del cauca,bogotá,6098248469,2016-12-04
-6738.0,sucursal oeste,calle 123 #45-67,santander,bogotá,6089091075,2015-06-08
-8612.0,oficina de ventas,carrera 789 #12-34,santander,bogotá,6037586416,2012-01-19
-3075.0,sucursal sur,avenida 654 #87-09,antioquia,bogotá,6014748554,2019-01-29
-3087.0,oficina local,calle 321 #54-76,valle del cauca,barranquilla,6055448515,2013-07-14
-6847.0,sucursal sur,avenida 456 #78-90,cundinamarca,bogotá,6012394339,2010-10-29
-979.0,sucursal este,avenida 456 #78-90,cundinamarca,bogotá,6084067653,2026-01-01
-1464.0,sucursal este,calle 321 #54-76,santander,bucaramanga,6075835425,2015-04-21
-948.0,oficina de ventas,carrera 789 #12-34,antioquia,cali,6029699748,2017-12-16
-5033.0,oficina regional,avenida 456 #78-90,cundinamarca,bogotá,6043948787,2013-07-21
-7830.0,oficina regional,calle 123 #45-67,antioquia,bucaramanga,6071749489,2018-02-13
-1091.0,oficina secundaria,carrera 789 #12-34,antioquia,barranquilla,6079587552,2013-10-27
-1249.0,oficina regional,avenida 654 #87-09,cundinamarca,barranquilla,6086492458,2026-01-01
-6754.0,oficina de ventas,calle 321 #54-76,cundinamarca,barranquilla,6025243650,2013-02-15
-916.0,sucursal este,calle 123 #45-67,antioquia,bogotá,6035814836,2018-05-24
-3519.0,sucursal este,avenida 654 #87-09,santander,barranquilla,6017666042,2026-01-01
-1516.0,sucursal este,avenida 654 #87-09,antioquia,barranquilla,6038828948,2016-10-24
-8528.0,oficina de ventas,calle 123 #45-67,atlántico,barranquilla,6047286853,2012-07-18
-9287.0,oficina central,avenida 654 #87-09,valle del cauca,cali,6070848552,2016-11-07
-8999.0,oficina secundaria,avenida 456 #78-90,atlántico,barranquilla,6095371750,2018-02-26
-543.0,oficina secundaria,calle 321 #54-76,antioquia,bogotá,6063022299,2018-04-14
-2015.0,oficina secundaria,avenida 654 #87-09,santander,medellín,6022079423,2026-01-01
-3414.0,oficina principal,avenida 654 #87-09,cundinamarca,bucaramanga,6050084078,2026-01-01
-2719.0,sucursal oeste,avenida 654 #87-09,cundinamarca,cali,6017243846,2026-01-01
-6892.0,oficina de ventas,avenida 654 #87-09,atlántico,cali,6070812021,2015-02-12
-2555.0,oficina regional,avenida 456 #78-90,cundinamarca,cali,6038054287,2026-01-01
-5325.0,sucursal norte,carrera 789 #12-34,antioquia,barranquilla,6035280632,2026-01-01
-8237.0,oficina regional,carrera 789 #12-34,santander,medellín,6099731444,2011-06-19
-4076.0,sucursal sur,calle 321 #54-76,valle del cauca,bucaramanga,6071298790,2026-01-01
-3158.0,oficina secundaria,calle 321 #54-76,valle del cauca,cali,6097651606,2026-01-01
-6397.0,oficina principal,avenida 456 #78-90,valle del cauca,barranquilla,6039373600,2026-01-01
-4518.0,oficina de ventas,avenida 456 #78-90,santander,bogotá,6097282833,2026-01-01
-1704.0,oficina regional,avenida 456 #78-90,cundinamarca,bucaramanga,6092076359,2010-06-27
-4151.0,sucursal norte,avenida 456 #78-90,antioquia,barranquilla,6081910184,2026-01-01
-3025.0,sucursal este,calle 123 #45-67,cundinamarca,cali,6030472696,2026-01-01
-913.0,oficina local,calle 321 #54-76,atlántico,medellín,6030018717,2011-09-21
-1017.0,oficina central,avenida 456 #78-90,antioquia,cali,6029710010,2011-10-17
-1351.0,oficina central,avenida 456 #78-90,valle del cauca,medellín,6048227992,2019-05-27
-1332.0,oficina local,avenida 456 #78-90,antioquia,medellín,6041092490,2017-11-20
-6219.0,sucursal oeste,calle 123 #45-67,cundinamarca,cali,6010813212,2012-03-06
-2161.0,oficina local,avenida 456 #78-90,santander,cali,6044883867,2019-01-18
-385.0,sucursal sur,calle 321 #54-76,antioquia,barranquilla,601224013,2018-12-03
-6914.0,oficina de ventas,avenida 456 #78-90,antioquia,cali,6065764393,2018-07-13
-9370.0,oficina principal,calle 123 #45-67,valle del cauca,medellín,6072278929,2016-01-25
-9899.0,oficina local,calle 123 #45-67,valle del cauca,cali,6039589258,2026-01-01
-4979.0,oficina principal,avenida 654 #87-09,antioquia,bogotá,6010155509,2026-01-01
-1706.0,sucursal norte,carrera 789 #12-34,santander,bogotá,6088493498,2011-06-08
-1322.0,sucursal sur,calle 321 #54-76,santander,bucaramanga,6076218915,2014-10-22
-4464.0,oficina secundaria,avenida 654 #87-09,santander,bucaramanga,606329157,2014-06-28
-5894.0,sucursal norte,calle 321 #54-76,atlántico,cali,6030449848,2026-01-01
-7365.0,sucursal este,calle 321 #54-76,santander,barranquilla,6022758428,2013-05-09
-3822.0,sucursal norte,calle 321 #54-76,cundinamarca,medellín,6028473934,2016-10-18
-8487.0,oficina regional,avenida 456 #78-90,atlántico,cali,6075297804,2026-01-01
-4872.0,oficina local,carrera 789 #12-34,valle del cauca,barranquilla,6087086759,2026-01-01
-5738.0,oficina regional,avenida 654 #87-09,santander,cali,6036121518,2017-04-24
-2544.0,oficina regional,calle 321 #54-76,santander,barranquilla,6090133839,2019-04-11
-4912.0,oficina de ventas,carrera 789 #12-34,antioquia,bucaramanga,6034705749,2012-08-01
-8310.0,oficina principal,avenida 654 #87-09,valle del cauca,bogotá,6086226391,2026-01-01
-1589.0,oficina regional,calle 321 #54-76,santander,bucaramanga,6048854903,2015-08-30
-892.0,oficina principal,carrera 789 #12-34,antioquia,medellín,6057641776,2010-03-04
-3735.0,oficina central,carrera 789 #12-34,atlántico,barranquilla,6020769286,2015-08-23
-7411.0,oficina de ventas,carrera 789 #12-34,cundinamarca,bucaramanga,6049672629,2026-01-01
-1330.0,oficina principal,calle 123 #45-67,santander,barranquilla,6098394260,2017-05-04
-8772.0,oficina secundaria,avenida 654 #87-09,antioquia,cali,6064753715,2026-01-01
-1532.0,oficina secundaria,avenida 654 #87-09,cundinamarca,barranquilla,6022892788,2010-01-27
-5150.0,sucursal sur,avenida 654 #87-09,atlántico,medellín,6090215456,2016-09-23
-3365.0,sucursal este,calle 123 #45-67,antioquia,bogotá,6048286091,2016-06-20
-8068.0,oficina local,calle 321 #54-76,antioquia,bogotá,6054081369,2026-01-01
-4651.0,sucursal oeste,calle 321 #54-76,atlántico,bucaramanga,608514593,2012-02-06
-2322.0,oficina de ventas,calle 123 #45-67,santander,barranquilla,6063289043,2019-01-25
-207.0,oficina regional,calle 123 #45-67,atlántico,cali,6036475134,2026-01-01
-8523.0,oficina regional,carrera 789 #12-34,atlántico,medellín,6015091216,2010-05-12
-5168.0,sucursal este,avenida 456 #78-90,valle del cauca,bucaramanga,6061278666,2026-01-01
-8402.0,sucursal este,calle 321 #54-76,santander,bucaramanga,606170784,2017-09-17
-7273.0,sucursal norte,avenida 654 #87-09,santander,bucaramanga,6053986706,2019-09-25
-1069.0,oficina local,avenida 456 #78-90,valle del cauca,bucaramanga,6032173679,2026-01-01
-1085.0,oficina local,calle 321 #54-76,atlántico,cali,6065466793,2026-01-01
-6711.0,oficina local,calle 321 #54-76,antioquia,barranquilla,6062166222,2011-07-25
-2415.0,sucursal norte,carrera 789 #12-34,antioquia,barranquilla,6070144923,2011-04-04
-7398.0,oficina regional,calle 321 #54-76,cundinamarca,medellín,6075112356,2026-01-01
-7340.0,oficina de ventas,avenida 654 #87-09,santander,medellín,6048660825,2013-06-28
-9593.0,sucursal oeste,avenida 456 #78-90,antioquia,medellín,6045335101,2026-01-01
-9528.0,oficina secundaria,avenida 654 #87-09,valle del cauca,bucaramanga,6013870531,2012-11-23
-6778.0,sucursal sur,avenida 654 #87-09,santander,medellín,6089980697,2012-04-11
-3711.0,oficina principal,avenida 654 #87-09,cundinamarca,bucaramanga,6082860786,2026-01-01
-8402.0,oficina secundaria,avenida 456 #78-90,antioquia,medellín,6015476201,2013-08-15
-2649.0,oficina secundaria,avenida 456 #78-90,valle del cauca,bucaramanga,6084806502,2014-05-18
-4153.0,oficina regional,avenida 654 #87-09,valle del cauca,bogotá,6035023063,2018-05-14
-5012.0,oficina de ventas,calle 321 #54-76,santander,bucaramanga,6074963656,2026-01-01
-315.0,oficina central,avenida 654 #87-09,atlántico,bogotá,6040965051,2026-01-01
-4318.0,sucursal oeste,calle 123 #45-67,atlántico,bogotá,6066841786,2011-09-27
-6269.0,sucursal este,carrera 789 #12-34,antioquia,barranquilla,6090363969,2015-07-17
-7841.0,sucursal sur,avenida 456 #78-90,santander,bogotá,6083263905,2014-01-25
-3176.0,oficina principal,avenida 654 #87-09,antioquia,barranquilla,6068374023,2018-02-22
-914.0,sucursal sur,carrera 789 #12-34,cundinamarca,medellín,6064390332,2012-04-18
-3415.0,sucursal oeste,calle 123 #45-67,atlántico,bucaramanga,6085392967,2010-07-18
-1368.0,oficina regional,avenida 654 #87-09,antioquia,bucaramanga,606167270,2010-02-04
-648.0,sucursal este,avenida 654 #87-09,antioquia,barranquilla,6091535951,2018-06-24
-1953.0,oficina secundaria,carrera 789 #12-34,antioquia,barranquilla,6073842798,2012-12-15
-7518.0,sucursal sur,calle 321 #54-76,atlántico,bogotá,6018674153,2017-10-06
-7784.0,sucursal oeste,carrera 789 #12-34,santander,barranquilla,6070414484,2010-04-10
-9664.0,oficina principal,carrera 789 #12-34,atlántico,bogotá,6027360995,2015-01-09
-7905.0,sucursal oeste,avenida 456 #78-90,valle del cauca,medellín,605992480,2016-03-28
-9344.0,sucursal este,avenida 654 #87-09,valle del cauca,bucaramanga,6017946199,2026-01-01
-4411.0,oficina central,calle 321 #54-76,santander,barranquilla,6030970604,2017-12-01
-5261.0,sucursal este,avenida 456 #78-90,santander,barranquilla,6092727746,2012-04-23
-3912.0,oficina secundaria,calle 123 #45-67,santander,cali,6071216241,2012-05-09
-1261.0,oficina regional,carrera 789 #12-34,valle del cauca,cali,6049955540,2026-01-01
-6411.0,oficina local,calle 123 #45-67,atlántico,cali,6039465537,2012-09-28
-717.0,oficina principal,avenida 456 #78-90,cundinamarca,bucaramanga,6020175112,2016-01-26
-5632.0,sucursal sur,calle 123 #45-67,valle del cauca,cali,6078558151,2012-05-08
-368.0,sucursal oeste,calle 123 #45-67,atlántico,medellín,6099765396,2026-01-01
-7035.0,sucursal norte,carrera 789 #12-34,santander,bogotá,6030461696,2026-01-01
-9824.0,sucursal norte,avenida 456 #78-90,atlántico,medellín,6072457565,2016-04-30
-8615.0,oficina de ventas,calle 123 #45-67,atlántico,cali,6054085764,2014-11-22
-1775.0,sucursal sur,carrera 789 #12-34,antioquia,medellín,6022960486,2012-12-10
-9640.0,sucursal sur,carrera 789 #12-34,atlántico,bogotá,6028200133,2012-03-18
-2687.0,oficina local,avenida 654 #87-09,valle del cauca,bucaramanga,6033276964,2010-02-12
-6868.0,sucursal norte,carrera 789 #12-34,antioquia,bogotá,6083917523,2026-01-01
-5723.0,oficina local,calle 123 #45-67,atlántico,bogotá,6041419869,2026-01-01
-5817.0,sucursal oeste,calle 321 #54-76,valle del cauca,medellín,6064074242,2019-11-02
-4581.0,sucursal sur,calle 123 #45-67,atlántico,medellín,6033293032,2015-06-16
-8893.0,oficina secundaria,carrera 789 #12-34,antioquia,cali,6017566358,2014-03-05
-9769.0,sucursal oeste,calle 123 #45-67,cundinamarca,bogotá,6026244265,2026-01-01
-2310.0,oficina local,calle 321 #54-76,santander,barranquilla,6012235955,2017-11-07
-1579.0,oficina principal,avenida 456 #78-90,cundinamarca,medellín,6014241132,2015-11-02
-6857.0,oficina secundaria,avenida 456 #78-90,antioquia,medellín,6011126326,2017-10-04
-7443.0,sucursal oeste,calle 123 #45-67,antioquia,cali,6084856986,2026-01-01
-1314.0,oficina local,avenida 456 #78-90,cundinamarca,cali,6078322993,2016-05-06
-647.0,sucursal este,avenida 654 #87-09,cundinamarca,bucaramanga,6022409370,2026-01-01
-947.0,oficina secundaria,calle 321 #54-76,valle del cauca,barranquilla,6044601719,2026-01-01
-2935.0,oficina local,calle 321 #54-76,atlántico,bucaramanga,6025600755,2014-09-17
-241.0,oficina de ventas,carrera 789 #12-34,antioquia,cali,6078173386,2018-02-06
-9411.0,oficina regional,carrera 789 #12-34,valle del cauca,medellín,6082117265,2026-01-01
-6557.0,sucursal oeste,calle 321 #54-76,valle del cauca,bogotá,6019634911,2026-01-01
-8997.0,oficina central,calle 321 #54-76,cundinamarca,cali,6073952557,2010-12-26
-439.0,sucursal norte,avenida 654 #87-09,santander,bucaramanga,6077671666,2026-01-01
-625.0,sucursal oeste,calle 123 #45-67,atlántico,medellín,6063257062,2026-01-01
-641.0,sucursal este,calle 123 #45-67,antioquia,barranquilla,6014706235,2026-01-01
-6052.0,oficina central,calle 321 #54-76,atlántico,barranquilla,6012266025,2011-01-10
-8576.0,sucursal oeste,avenida 456 #78-90,santander,bucaramanga,6075079872,2019-02-18
-5061.0,oficina de ventas,calle 321 #54-76,santander,bucaramanga,6067715298,2012-10-07
-9892.0,sucursal oeste,avenida 456 #78-90,antioquia,cali,6011710150,2019-10-05
-6391.0,oficina secundaria,calle 321 #54-76,santander,cali,6096748123,2015-10-18
-4983.0,oficina local,calle 321 #54-76,cundinamarca,cali,6075637970,2017-03-30
-2596.0,oficina secundaria,avenida 456 #78-90,cundinamarca,cali,6092722470,2011-05-31
-610.0,sucursal este,calle 123 #45-67,atlántico,bogotá,6044532567,2026-01-01
-7643.0,sucursal norte,avenida 654 #87-09,atlántico,bogotá,603108331,2017-06-01
-7114.0,oficina principal,avenida 654 #87-09,santander,medellín,6013666784,2016-11-07
-8903.0,sucursal oeste,carrera 789 #12-34,valle del cauca,cali,6018285805,2026-01-01
-2193.0,oficina regional,avenida 654 #87-09,atlántico,medellín,6092474681,2026-01-01
-3084.0,sucursal este,calle 321 #54-76,atlántico,medellín,6058640263,2014-10-23
-7461.0,oficina de ventas,carrera 789 #12-34,santander,medellín,6049081589,2026-01-01
-9557.0,sucursal este,avenida 456 #78-90,antioquia,bucaramanga,6096914504,2011-03-20
-710.0,sucursal norte,carrera 789 #12-34,cundinamarca,barranquilla,6058816469,2016-02-19
-5103.0,oficina regional,calle 321 #54-76,valle del cauca,cali,6083135000,2012-03-28
-5006.0,oficina local,avenida 456 #78-90,atlántico,bucaramanga,6098582664,2026-01-01
-277.0,sucursal sur,calle 123 #45-67,santander,medellín,6056268076,2019-04-01
-938.0,oficina de ventas,avenida 456 #78-90,valle del cauca,cali,6042003733,2017-08-18
-3452.0,oficina local,avenida 654 #87-09,santander,barranquilla,6044207289,2026-01-01
-7376.0,sucursal norte,calle 123 #45-67,cundinamarca,bucaramanga,6044959128,2012-12-28
-8822.0,oficina principal,avenida 456 #78-90,cundinamarca,bogotá,6091913197,2010-12-07
-806.0,oficina secundaria,carrera 789 #12-34,atlántico,cali,6047466341,2012-04-22
-6812.0,oficina principal,calle 321 #54-76,atlántico,bogotá,6063604245,2011-03-03
-5540.0,oficina central,calle 123 #45-67,cundinamarca,barranquilla,6081097514,2014-07-28
-1326.0,oficina regional,calle 321 #54-76,valle del cauca,bucaramanga,6070896723,2026-01-01
-4691.0,sucursal sur,calle 321 #54-76,atlántico,cali,6043021539,2011-08-03
-2901.0,oficina central,carrera 789 #12-34,cundinamarca,bogotá,6058504773,2019-05-14
-7384.0,oficina principal,calle 123 #45-67,atlántico,barranquilla,6082076088,2026-01-01
-9380.0,sucursal norte,calle 123 #45-67,atlántico,cali,6014167809,2013-11-21
-7546.0,oficina principal,calle 123 #45-67,atlántico,bucaramanga,6054223388,2017-04-02
-9312.0,oficina de ventas,calle 321 #54-76,cundinamarca,bogotá,6037404836,2018-12-26
-164.0,oficina central,calle 123 #45-67,cundinamarca,barranquilla,6067962806,2015-05-18
-2172.0,oficina secundaria,calle 321 #54-76,atlántico,bogotá,6016307298,2015-08-10
-7226.0,sucursal sur,avenida 654 #87-09,cundinamarca,medellín,6039706965,2016-06-19
-5755.0,oficina secundaria,avenida 456 #78-90,cundinamarca,bucaramanga,6020843377,2026-01-01
-7425.0,sucursal oeste,calle 123 #45-67,santander,medellín,6012957381,2010-04-10
-9946.0,oficina regional,avenida 654 #87-09,santander,medellín,6074663262,2018-03-27
-9238.0,oficina secundaria,calle 321 #54-76,antioquia,medellín,6052222167,2012-09-23
-2914.0,sucursal este,calle 321 #54-76,santander,cali,6073658772,2015-04-24
-4492.0,oficina de ventas,calle 123 #45-67,antioquia,bucaramanga,6017420986,2016-11-05
-9795.0,sucursal este,calle 123 #45-67,valle del cauca,medellín,6090196308,2010-09-10
-5681.0,oficina local,calle 321 #54-76,antioquia,cali,6026538777,2026-01-01
-508.0,oficina de ventas,calle 321 #54-76,valle del cauca,bucaramanga,6038906973,2026-01-01
-8046.0,oficina central,calle 321 #54-76,santander,medellín,6082953849,2016-10-29
-9045.0,oficina local,avenida 456 #78-90,cundinamarca,cali,6043027499,2018-10-06
-9423.0,sucursal norte,calle 321 #54-76,antioquia,barranquilla,6094218582,2015-06-26
-5954.0,oficina local,avenida 456 #78-90,santander,bogotá,6031476741,2013-12-27
-493.0,sucursal sur,calle 321 #54-76,atlántico,bogotá,6089539622,2016-04-08
-8931.0,sucursal este,avenida 456 #78-90,valle del cauca,bucaramanga,6029884546,2018-04-30
-1873.0,sucursal sur,calle 123 #45-67,atlántico,medellín,6027593792,2014-02-07
-4211.0,sucursal oeste,carrera 789 #12-34,santander,barranquilla,6041597659,2010-07-19
-7848.0,sucursal sur,calle 321 #54-76,santander,cali,6052326245,2014-10-22
-1327.0,sucursal norte,avenida 654 #87-09,cundinamarca,bogotá,6017048362,2016-12-10
-9741.0,oficina principal,carrera 789 #12-34,atlántico,medellín,6022160158,2019-05-01
-7634.0,sucursal sur,avenida 654 #87-09,atlántico,medellín,6040855868,2016-09-21
-3878.0,sucursal sur,calle 321 #54-76,valle del cauca,cali,6074812549,2010-09-04
-2398.0,oficina secundaria,calle 321 #54-76,valle del cauca,barranquilla,6064173676,2013-09-04
-1921.0,sucursal sur,calle 321 #54-76,cundinamarca,barranquilla,6023931879,2018-03-08
-6725.0,oficina secundaria,carrera 789 #12-34,cundinamarca,bucaramanga,6073678446,2012-05-04
-3363.0,sucursal este,calle 321 #54-76,santander,cali,6016218282,2014-09-29
-7979.0,oficina secundaria,avenida 456 #78-90,cundinamarca,bucaramanga,6049020976,2011-08-26
-1314.0,sucursal este,calle 123 #45-67,cundinamarca,bucaramanga,6028861181,2012-05-27
-9053.0,oficina local,avenida 456 #78-90,antioquia,bogotá,6069067948,2018-07-16
-78.0,sucursal sur,avenida 654 #87-09,santander,medellín,6046709215,2015-10-04
-1461.0,oficina central,carrera 789 #12-34,atlántico,bucaramanga,6042807920,2026-01-01
-6267.0,oficina central,calle 123 #45-67,valle del cauca,cali,6096562976,2026-01-01
-7237.0,oficina secundaria,avenida 654 #87-09,santander,bucaramanga,6034031988,2017-01-25
-6015.0,oficina de ventas,calle 321 #54-76,valle del cauca,barranquilla,6038510003,2026-01-01
-8849.0,oficina principal,avenida 654 #87-09,santander,bucaramanga,6054164594,2016-06-02
-7094.0,oficina principal,carrera 789 #12-34,antioquia,bucaramanga,6019922610,2013-09-11
-3472.0,oficina local,avenida 456 #78-90,cundinamarca,bucaramanga,6092005552,2026-01-01
-4843.0,oficina secundaria,calle 123 #45-67,santander,cali,6060777530,2014-12-20
-1062.0,oficina principal,carrera 789 #12-34,santander,bogotá,6010159824,2014-10-27
-3450.0,oficina local,avenida 654 #87-09,antioquia,bucaramanga,6016751932,2026-01-01
-3153.0,oficina regional,carrera 789 #12-34,cundinamarca,barranquilla,6020062092,2017-07-02
-7181.0,oficina central,carrera 789 #12-34,santander,cali,6016784335,2026-01-01
-7004.0,sucursal este,avenida 654 #87-09,antioquia,cali,6050667627,2019-03-10
-4401.0,oficina de ventas,carrera 789 #12-34,valle del cauca,medellín,6035797709,2016-03-23
-4198.0,oficina secundaria,avenida 456 #78-90,valle del cauca,bucaramanga,6031444583,2018-12-13
-8415.0,oficina de ventas,calle 321 #54-76,valle del cauca,bogotá,6019211769,2026-01-01
-9858.0,sucursal oeste,avenida 654 #87-09,santander,bogotá,6019549811,2011-02-11
-7458.0,sucursal norte,carrera 789 #12-34,valle del cauca,bucaramanga,6042725139,2011-08-08
-1357.0,sucursal este,avenida 654 #87-09,cundinamarca,bogotá,6046887065,2016-09-14
-5296.0,oficina secundaria,carrera 789 #12-34,valle del cauca,medellín,6080020059,2011-10-17
-4449.0,oficina principal,avenida 456 #78-90,cundinamarca,barranquilla,602133432,2018-02-24
-4132.0,oficina regional,carrera 789 #12-34,atlántico,bogotá,6069083646,2026-01-01
-6999.0,oficina regional,calle 123 #45-67,santander,medellín,6039327287,2026-01-01
-150.0,oficina de ventas,calle 123 #45-67,antioquia,barranquilla,6083597931,2011-09-23
-7326.0,sucursal sur,avenida 654 #87-09,antioquia,cali,6032731535,2026-01-01
-5392.0,oficina local,calle 321 #54-76,antioquia,bucaramanga,6058191223,2016-02-06
-1029.0,oficina local,calle 321 #54-76,cundinamarca,cali,6069863003,2015-06-21
-3922.0,oficina regional,calle 321 #54-76,valle del cauca,bucaramanga,6061910093,2010-07-20
-8981.0,oficina local,carrera 789 #12-34,cundinamarca,cali,6072044052,2010-03-13
-2882.0,sucursal este,calle 123 #45-67,valle del cauca,barranquilla,6043076297,2012-06-28
-5034.0,oficina secundaria,calle 123 #45-67,cundinamarca,medellín,6035957611,2010-01-09
-4273.0,sucursal este,calle 321 #54-76,atlántico,barranquilla,6070071202,2010-11-01
-578.0,sucursal este,calle 321 #54-76,antioquia,cali,6029318972,2016-12-29
-8257.0,sucursal sur,calle 321 #54-76,cundinamarca,barranquilla,6028937858,2019-08-11
-1651.0,oficina central,avenida 654 #87-09,santander,medellín,6079161467,2019-07-19
-7116.0,sucursal oeste,calle 123 #45-67,santander,medellín,6088335092,2011-02-28
-3567.0,sucursal este,avenida 654 #87-09,antioquia,cali,6058329541,2013-10-10
-1973.0,sucursal sur,calle 123 #45-67,valle del cauca,bogotá,6023237715,2026-01-01
-3757.0,sucursal oeste,carrera 789 #12-34,antioquia,cali,6045872910,2011-01-19
-2713.0,oficina secundaria,carrera 789 #12-34,santander,cali,6041815351,2026-01-01
-134.0,oficina principal,avenida 654 #87-09,cundinamarca,barranquilla,6082914661,2026-01-01
-6385.0,sucursal norte,calle 321 #54-76,santander,bogotá,6097757671,2026-01-01
-4321.0,oficina secundaria,avenida 654 #87-09,cundinamarca,medellín,6061710318,2010-04-02
-4438.0,oficina regional,calle 321 #54-76,valle del cauca,medellín,6034046533,2026-01-01
-6392.0,oficina central,calle 123 #45-67,atlántico,barranquilla,6083024435,2011-12-21
-7500.0,sucursal norte,avenida 456 #78-90,atlántico,cali,6045135345,2015-03-15
-1080.0,oficina secundaria,avenida 654 #87-09,santander,barranquilla,6074266331,2012-05-19
-6646.0,oficina regional,avenida 456 #78-90,atlántico,medellín,6057951840,2026-01-01
-1157.0,sucursal oeste,avenida 456 #78-90,atlántico,bucaramanga,6096470667,2017-10-05
-7510.0,oficina regional,avenida 456 #78-90,antioquia,bogotá,6078488110,2026-01-01
-4864.0,sucursal sur,calle 321 #54-76,valle del cauca,bucaramanga,6037037149,2026-01-01
-6766.0,oficina secundaria,avenida 654 #87-09,cundinamarca,barranquilla,6094335019,2010-04-26
-4563.0,sucursal oeste,avenida 456 #78-90,valle del cauca,barranquilla,6053900687,2026-01-01
-2074.0,oficina de ventas,carrera 789 #12-34,cundinamarca,bogotá,6061971546,2014-09-20
-9751.0,oficina central,calle 123 #45-67,antioquia,bogotá,6058140732,2026-01-01
-4526.0,sucursal este,carrera 789 #12-34,valle del cauca,medellín,6097263954,2026-01-01
-5280.0,oficina secundaria,avenida 654 #87-09,antioquia,cali,6092971036,2012-04-22
-5777.0,oficina de ventas,carrera 789 #12-34,santander,medellín,6076660044,2016-11-27
-7058.0,sucursal norte,avenida 654 #87-09,atlántico,bogotá,6074016759,2016-07-17
-7182.0,oficina de ventas,calle 321 #54-76,antioquia,bucaramanga,6074990153,2026-01-01
-6160.0,oficina central,calle 321 #54-76,valle del cauca,bogotá,6068628953,2017-06-24
-628.0,sucursal este,carrera 789 #12-34,cundinamarca,bucaramanga,6047182222,2026-01-01
-6260.0,sucursal este,avenida 654 #87-09,atlántico,bogotá,6086047308,2011-07-09
-8527.0,sucursal este,calle 321 #54-76,santander,bucaramanga,6049879919,2011-04-29
-6022.0,oficina principal,calle 123 #45-67,antioquia,cali,6098653048,2026-01-01
-8011.0,sucursal oeste,carrera 789 #12-34,valle del cauca,bogotá,6069996641,2012-02-27
-6659.0,oficina local,avenida 654 #87-09,santander,cali,6068236216,2026-01-01
-1506.0,sucursal oeste,carrera 789 #12-34,cundinamarca,bucaramanga,603460973,2013-11-12
-2524.0,oficina regional,carrera 789 #12-34,atlántico,barranquilla,6034899087,2015-11-22
-2109.0,sucursal oeste,calle 321 #54-76,antioquia,bogotá,607185510,2013-08-03
-3321.0,sucursal norte,calle 123 #45-67,santander,cali,6042274549,2026-01-01
-9819.0,oficina secundaria,calle 123 #45-67,santander,bogotá,6089215161,2026-01-01
-9557.0,oficina de ventas,carrera 789 #12-34,atlántico,bogotá,6030191977,2010-06-06
-5907.0,sucursal oeste,calle 123 #45-67,antioquia,barranquilla,6082763640,2013-11-22
-2049.0,sucursal norte,avenida 456 #78-90,antioquia,barranquilla,6096465201,2015-02-09
-8405.0,sucursal norte,carrera 789 #12-34,santander,cali,6024220466,2026-01-01
-8055.0,sucursal este,avenida 456 #78-90,santander,barranquilla,6026501721,2016-03-12
-3622.0,sucursal sur,carrera 789 #12-34,cundinamarca,barranquilla,6086021709,2013-10-18
-9840.0,oficina de ventas,calle 321 #54-76,antioquia,cali,603181901,2015-10-19
-5689.0,oficina regional,avenida 456 #78-90,antioquia,barranquilla,6098893878,2015-05-27
-3962.0,oficina secundaria,avenida 654 #87-09,antioquia,cali,6097818781,2012-07-23
-4667.0,oficina regional,avenida 654 #87-09,atlántico,bogotá,6067718154,2017-05-07
-8146.0,oficina regional,carrera 789 #12-34,antioquia,barranquilla,6031774225,2026-01-01
-5874.0,sucursal oeste,avenida 654 #87-09,antioquia,bogotá,6010699009,2026-01-01
-2540.0,oficina central,calle 123 #45-67,santander,bogotá,6064645453,2026-01-01
-9899.0,oficina central,calle 321 #54-76,atlántico,bucaramanga,6056160501,2010-08-23
-2646.0,sucursal este,carrera 789 #12-34,santander,barranquilla,6082520494,2026-01-01
-9405.0,oficina principal,carrera 789 #12-34,valle del cauca,barranquilla,6035939957,2026-01-01
-3108.0,oficina regional,avenida 456 #78-90,valle del cauca,barranquilla,6072810377,2011-01-12
-6208.0,oficina principal,carrera 789 #12-34,valle del cauca,bucaramanga,6083656199,2026-01-01
-3700.0,sucursal norte,calle 123 #45-67,valle del cauca,medellín,6033844899,2013-03-12
-4131.0,oficina central,avenida 654 #87-09,santander,bogotá,6032112309,2017-09-11
-6667.0,oficina de ventas,avenida 654 #87-09,antioquia,bogotá,6055409684,2016-02-20
-3239.0,oficina secundaria,calle 321 #54-76,valle del cauca,medellín,6091074505,2019-12-21
-3238.0,sucursal este,avenida 654 #87-09,antioquia,barranquilla,6033784139,2010-08-07
-4057.0,oficina secundaria,avenida 456 #78-90,valle del cauca,medellín,6014085609,2026-01-01
-1341.0,oficina central,calle 123 #45-67,santander,cali,6080627115,2026-01-01
-3048.0,oficina de ventas,avenida 654 #87-09,cundinamarca,medellín,606687722,2015-10-09
-3811.0,oficina regional,calle 321 #54-76,valle del cauca,bucaramanga,609417819,2015-04-20
-5344.0,sucursal norte,avenida 456 #78-90,antioquia,bogotá,6083165229,2026-01-01
-6663.0,oficina local,avenida 456 #78-90,antioquia,medellín,6039606884,2019-07-26
-5524.0,oficina central,calle 123 #45-67,antioquia,bogotá,6054374133,2012-01-28
-4353.0,oficina secundaria,avenida 456 #78-90,cundinamarca,medellín,606922152,2012-06-16
-8247.0,oficina principal,carrera 789 #12-34,santander,barranquilla,6026880731,2010-04-05
-1306.0,sucursal norte,avenida 456 #78-90,valle del cauca,bogotá,6024056565,2026-01-01
-3967.0,oficina regional,calle 321 #54-76,santander,barranquilla,6050370100,2016-05-02
-5376.0,sucursal este,avenida 654 #87-09,santander,cali,6089424566,2012-11-21
-7234.0,sucursal este,calle 321 #54-76,antioquia,medellín,6028690095,2026-01-01
-9376.0,oficina secundaria,calle 321 #54-76,valle del cauca,bucaramanga,6027783826,2026-01-01
-9691.0,oficina central,calle 123 #45-67,antioquia,bogotá,6022152632,2014-11-30
-3770.0,sucursal sur,avenida 654 #87-09,atlántico,bucaramanga,6067765410,2019-12-28
-2412.0,sucursal oeste,avenida 456 #78-90,atlántico,cali,6057954685,2026-01-01
-1407.0,oficina de ventas,carrera 789 #12-34,atlántico,medellín,6079450273,2026-01-01
-4654.0,sucursal norte,calle 123 #45-67,atlántico,medellín,6047326956,2014-04-18
-4865.0,sucursal oeste,calle 321 #54-76,cundinamarca,cali,6046807998,2010-01-24
-7113.0,sucursal sur,calle 321 #54-76,santander,bucaramanga,6056581061,2018-06-23
-5499.0,oficina local,calle 123 #45-67,valle del cauca,bogotá,6089624239,2026-01-01
-8370.0,oficina de ventas,calle 123 #45-67,santander,bucaramanga,6097147364,2018-05-02
-2037.0,sucursal sur,calle 321 #54-76,atlántico,barranquilla,6017026890,2026-01-01
-833.0,oficina regional,calle 123 #45-67,santander,bucaramanga,6058582077,2013-10-24
-3409.0,sucursal oeste,avenida 654 #87-09,valle del cauca,medellín,6039830477,2013-09-02
-2099.0,oficina regional,calle 321 #54-76,cundinamarca,bucaramanga,6012270806,2018-10-18
-487.0,oficina central,avenida 456 #78-90,cundinamarca,cali,6070447652,2026-01-01
-8783.0,oficina secundaria,calle 321 #54-76,valle del cauca,cali,6094980542,2026-01-01
-9723.0,sucursal norte,calle 321 #54-76,valle del cauca,bogotá,6076376705,2017-01-29
-7644.0,oficina de ventas,avenida 456 #78-90,antioquia,barranquilla,6013813957,2019-04-11
-9963.0,oficina local,calle 321 #54-76,antioquia,bucaramanga,6044221259,2019-09-24
-1568.0,oficina secundaria,carrera 789 #12-34,atlántico,bucaramanga,6015708632,2017-03-16
-9759.0,sucursal norte,carrera 789 #12-34,cundinamarca,cali,6073868429,2011-02-18
-2402.0,sucursal norte,calle 123 #45-67,santander,cali,6044948015,2026-01-01
-8069.0,sucursal este,calle 321 #54-76,santander,cali,6048754423,2018-03-17
-9518.0,oficina local,carrera 789 #12-34,atlántico,barranquilla,6075425694,2011-03-18
-2680.0,sucursal este,calle 321 #54-76,antioquia,cali,6016012402,2017-04-25
-7528.0,oficina local,avenida 456 #78-90,valle del cauca,barranquilla,609697979,2015-06-29
-2429.0,oficina regional,carrera 789 #12-34,valle del cauca,bogotá,6041432458,2010-09-06
-1760.0,sucursal oeste,carrera 789 #12-34,cundinamarca,medellín,6042819950,2026-01-01
-2120.0,oficina local,calle 123 #45-67,cundinamarca,cali,602422340,2013-05-22
-4436.0,oficina secundaria,avenida 654 #87-09,antioquia,bucaramanga,6098720961,2014-05-16
-7556.0,oficina principal,avenida 456 #78-90,cundinamarca,cali,6086857746,2016-07-31
-426.0,oficina secundaria,avenida 654 #87-09,valle del cauca,bogotá,6065374519,2017-11-24
-598.0,oficina de ventas,avenida 456 #78-90,antioquia,cali,6063344822,2018-10-25
-5184.0,sucursal este,carrera 789 #12-34,atlántico,bucaramanga,6094295489,2019-12-22
-2400.0,sucursal oeste,calle 321 #54-76,valle del cauca,bogotá,6060757380,2014-07-27
-9946.0,sucursal norte,avenida 456 #78-90,cundinamarca,cali,6083520946,2012-05-02
-885.0,sucursal norte,avenida 456 #78-90,antioquia,bogotá,607014918,2017-02-15
-1965.0,sucursal oeste,calle 321 #54-76,atlántico,barranquilla,6081530870,2013-10-15
-8075.0,sucursal oeste,calle 321 #54-76,valle del cauca,medellín,6061434833,2026-01-01
-6666.0,sucursal oeste,calle 123 #45-67,valle del cauca,barranquilla,6027259963,2019-06-02
-9055.0,sucursal oeste,avenida 654 #87-09,cundinamarca,barranquilla,6096788895,2026-01-01
-1371.0,sucursal norte,calle 321 #54-76,valle del cauca,barranquilla,6021029195,2026-01-01
-9843.0,oficina regional,avenida 654 #87-09,santander,cali,6083695080,2026-01-01
-3625.0,sucursal sur,carrera 789 #12-34,santander,medellín,6057388253,2010-11-15
-7054.0,sucursal este,carrera 789 #12-34,cundinamarca,bucaramanga,6065770254,2013-09-01
-3277.0,oficina de ventas,calle 321 #54-76,valle del cauca,barranquilla,607329440,2019-10-26
-8163.0,sucursal oeste,calle 123 #45-67,antioquia,medellín,6074930914,2015-08-11
-7076.0,sucursal este,calle 321 #54-76,cundinamarca,medellín,6064911113,2017-01-12
-5935.0,oficina central,calle 123 #45-67,santander,barranquilla,6096049005,2026-01-01
-4121.0,sucursal norte,calle 123 #45-67,cundinamarca,bucaramanga,6037100398,2026-01-01
-1167.0,oficina principal,carrera 789 #12-34,valle del cauca,bogotá,6082922638,2026-01-01
-2088.0,sucursal oeste,avenida 654 #87-09,valle del cauca,cali,6080349582,2019-08-22
-1077.0,oficina regional,avenida 654 #87-09,cundinamarca,barranquilla,6021770873,2017-12-20
-4439.0,oficina principal,calle 321 #54-76,cundinamarca,bogotá,6078264332,2026-01-01
-408.0,sucursal norte,avenida 456 #78-90,cundinamarca,bucaramanga,6079237184,2026-01-01
-6326.0,oficina secundaria,carrera 789 #12-34,valle del cauca,medellín,6098842017,2011-09-27
-4566.0,oficina secundaria,calle 123 #45-67,santander,cali,6015124531,2012-07-12
-1908.0,oficina regional,avenida 654 #87-09,cundinamarca,bogotá,6030458772,2011-07-20
-4542.0,sucursal sur,carrera 789 #12-34,cundinamarca,bucaramanga,606664646,2016-04-07
-4430.0,oficina de ventas,calle 321 #54-76,atlántico,bucaramanga,6044386908,2026-01-01
-3724.0,sucursal este,carrera 789 #12-34,cundinamarca,bucaramanga,6020511465,2026-01-01
-7378.0,oficina regional,avenida 654 #87-09,santander,barranquilla,6038849311,2019-12-19
-7360.0,oficina principal,calle 123 #45-67,antioquia,barranquilla,6086400832,2018-02-05
-6786.0,sucursal norte,calle 123 #45-67,antioquia,medellín,6060577945,2016-12-29
-9003.0,oficina local,calle 321 #54-76,valle del cauca,bogotá,6060263541,2011-09-30
-9965.0,oficina local,avenida 654 #87-09,valle del cauca,medellín,6054458355,2014-12-10
-1180.0,sucursal este,calle 321 #54-76,valle del cauca,bogotá,608468864,2012-08-17
-15.0,oficina regional,calle 123 #45-67,santander,medellín,6042110521,2018-09-13
-9749.0,oficina regional,avenida 456 #78-90,cundinamarca,medellín,6012047195,2013-07-06
-7544.0,sucursal norte,calle 123 #45-67,santander,bogotá,6095951428,2026-01-01
-2408.0,oficina secundaria,calle 321 #54-76,valle del cauca,bogotá,6045047823,2026-01-01
-9935.0,oficina secundaria,carrera 789 #12-34,antioquia,bogotá,6049655185,2017-06-08
-8310.0,oficina central,avenida 654 #87-09,cundinamarca,barranquilla,6086543806,2026-01-01
-6980.0,oficina principal,avenida 654 #87-09,valle del cauca,barranquilla,6092184363,2010-04-11
-7456.0,sucursal norte,carrera 789 #12-34,valle del cauca,bogotá,6047422081,2015-05-03
-782.0,sucursal norte,carrera 789 #12-34,cundinamarca,medellín,6074622336,2026-01-01
-1462.0,oficina local,calle 321 #54-76,valle del cauca,cali,6020332826,2015-03-22
-6647.0,sucursal norte,avenida 456 #78-90,antioquia,cali,607916973,2019-12-19
-6193.0,oficina secundaria,avenida 654 #87-09,atlántico,bogotá,6078369790,2026-01-01
-241.0,oficina central,carrera 789 #12-34,antioquia,bogotá,6027006963,2012-09-25
-8434.0,oficina de ventas,carrera 789 #12-34,cundinamarca,bucaramanga,6053661628,2012-02-09
-5501.0,sucursal norte,carrera 789 #12-34,cundinamarca,bogotá,6066517053,2019-05-14
-6056.0,sucursal sur,calle 123 #45-67,atlántico,bogotá,6019136760,2011-12-09
-5808.0,oficina local,avenida 654 #87-09,valle del cauca,cali,6095202315,2026-01-01
-2383.0,oficina secundaria,carrera 789 #12-34,santander,medellín,6055089946,2026-01-01
-9492.0,oficina central,avenida 456 #78-90,santander,cali,6011549565,2016-04-22
-5914.0,oficina de ventas,carrera 789 #12-34,antioquia,medellín,6014112156,2011-02-15
-2942.0,sucursal oeste,avenida 654 #87-09,valle del cauca,cali,6075881550,2026-01-01
-8299.0,sucursal oeste,avenida 654 #87-09,atlántico,bucaramanga,6036929341,2014-09-26
-1240.0,oficina principal,carrera 789 #12-34,santander,cali,6020161800,2026-01-01
-5265.0,oficina secundaria,calle 321 #54-76,antioquia,barranquilla,603944964,2018-09-19
-9173.0,oficina de ventas,calle 321 #54-76,valle del cauca,cali,6015656537,2013-02-23
-3071.0,oficina local,carrera 789 #12-34,valle del cauca,bucaramanga,6041352061,2026-01-01
-1824.0,sucursal oeste,carrera 789 #12-34,santander,medellín,6061156823,2026-01-01
-6511.0,sucursal sur,calle 123 #45-67,antioquia,medellín,6086298226,2026-01-01
-5012.0,sucursal este,carrera 789 #12-34,santander,medellín,6069518791,2016-11-26
-9705.0,oficina local,avenida 654 #87-09,cundinamarca,bogotá,608344383,2011-07-21
-842.0,sucursal este,calle 123 #45-67,valle del cauca,bogotá,602774839,2012-04-07
-1384.0,sucursal norte,carrera 789 #12-34,santander,barranquilla,6063741508,2026-01-01
-7147.0,oficina local,avenida 456 #78-90,antioquia,bucaramanga,6087183010,2010-11-17
-5435.0,oficina principal,avenida 654 #87-09,valle del cauca,bucaramanga,6068072524,2026-01-01
-6843.0,sucursal oeste,carrera 789 #12-34,valle del cauca,bucaramanga,6071735119,2026-01-01
-1209.0,oficina regional,calle 123 #45-67,antioquia,barranquilla,601246655,2015-12-26
-1044.0,oficina de ventas,carrera 789 #12-34,cundinamarca,cali,6062044416,2013-08-08
-861.0,oficina secundaria,avenida 456 #78-90,cundinamarca,medellín,6083167279,2014-07-31
-3616.0,oficina central,carrera 789 #12-34,cundinamarca,cali,6013165940,2016-07-30
-6764.0,oficina central,avenida 456 #78-90,atlántico,barranquilla,6066284025,2017-04-28
-8434.0,oficina local,calle 321 #54-76,cundinamarca,barranquilla,6071469420,2026-01-01
-8635.0,oficina principal,calle 321 #54-76,cundinamarca,barranquilla,6080180081,2016-04-29
-5135.0,oficina de ventas,carrera 789 #12-34,antioquia,bogotá,6033999819,2019-05-08
-7847.0,oficina de ventas,avenida 456 #78-90,santander,bucaramanga,6056415946,2015-02-14
-8953.0,sucursal oeste,carrera 789 #12-34,atlántico,bucaramanga,6027706080,2019-12-25
-8493.0,oficina central,calle 123 #45-67,atlántico,medellín,6030056796,2013-10-13
-6942.0,sucursal este,avenida 654 #87-09,cundinamarca,barranquilla,6055172686,2014-09-08
-2528.0,oficina local,avenida 654 #87-09,antioquia,cali,6058909910,2014-08-24
-7115.0,oficina secundaria,calle 321 #54-76,atlántico,barranquilla,6061352483,2026-01-01
-5314.0,oficina secundaria,avenida 654 #87-09,santander,medellín,6031374463,2026-01-01
-8032.0,sucursal este,carrera 789 #12-34,valle del cauca,bucaramanga,6062614329,2026-01-01
-8103.0,oficina de ventas,avenida 654 #87-09,valle del cauca,barranquilla,609278956,2019-05-02
-4950.0,sucursal norte,avenida 456 #78-90,antioquia,cali,6057318814,2026-01-01
-7466.0,sucursal oeste,carrera 789 #12-34,valle del cauca,cali,6022959026,2018-08-03
-8425.0,oficina central,calle 123 #45-67,atlántico,barranquilla,6086950646,2014-03-14
-5993.0,sucursal sur,calle 123 #45-67,cundinamarca,bogotá,6035707099,2010-12-25
-5273.0,oficina regional,calle 321 #54-76,santander,cali,6078186044,2014-12-12
-1993.0,oficina principal,avenida 654 #87-09,santander,bogotá,6093089828,2026-01-01
-3840.0,oficina principal,carrera 789 #12-34,antioquia,bogotá,6078069172,2014-09-01
-5690.0,oficina regional,carrera 789 #12-34,santander,cali,6078254445,2013-05-15
-9431.0,oficina central,avenida 654 #87-09,valle del cauca,cali,6040517905,2026-01-01
-8157.0,oficina central,avenida 654 #87-09,antioquia,cali,609718661,2016-03-05
-1794.0,oficina central,carrera 789 #12-34,valle del cauca,medellín,6011977934,2026-01-01
-7697.0,oficina secundaria,avenida 654 #87-09,cundinamarca,bogotá,6087834976,2026-01-01
-2694.0,oficina local,calle 321 #54-76,cundinamarca,bucaramanga,6058538154,2017-03-30
-7406.0,oficina secundaria,avenida 654 #87-09,valle del cauca,bucaramanga,6071705086,2026-01-01
-5474.0,sucursal este,carrera 789 #12-34,valle del cauca,medellín,6097193313,2026-01-01
-3317.0,sucursal este,avenida 456 #78-90,santander,bucaramanga,6044457133,2015-08-21
-3814.0,sucursal este,calle 123 #45-67,santander,bogotá,6062855901,2026-01-01
-8751.0,sucursal este,carrera 789 #12-34,cundinamarca,medellín,6081508504,2012-11-24
-3661.0,sucursal oeste,carrera 789 #12-34,atlántico,medellín,6012558280,2016-08-09
-5704.0,sucursal norte,carrera 789 #12-34,santander,barranquilla,6010761263,2026-01-01
-8570.0,sucursal oeste,calle 123 #45-67,atlántico,bucaramanga,6010468478,2016-01-04
-8883.0,oficina local,avenida 456 #78-90,antioquia,barranquilla,6075560139,2016-12-27
-9254.0,oficina central,calle 123 #45-67,cundinamarca,medellín,605641605,2011-12-06
-2108.0,sucursal norte,avenida 456 #78-90,valle del cauca,medellín,6076244049,2018-01-21
-1000.0,sucursal este,carrera 789 #12-34,atlántico,cali,6040413584,2012-02-02
-2851.0,sucursal sur,calle 123 #45-67,antioquia,bucaramanga,6024893111,2026-01-01
-360.0,oficina de ventas,calle 321 #54-76,antioquia,bogotá,6076559352,2019-11-24
-4229.0,oficina central,calle 321 #54-76,antioquia,cali,6012208732,2026-01-01
-9087.0,sucursal oeste,avenida 654 #87-09,santander,bucaramanga,6068011455,2012-06-28
-6710.0,oficina secundaria,avenida 654 #87-09,valle del cauca,barranquilla,6013399363,2018-01-08
-9039.0,oficina secundaria,calle 123 #45-67,cundinamarca,medellín,6079901464,2015-10-19
-4334.0,sucursal norte,calle 321 #54-76,atlántico,bucaramanga,6050559061,2011-05-16
-1394.0,oficina regional,carrera 789 #12-34,antioquia,barranquilla,6081383485,2019-12-27
-8017.0,sucursal sur,calle 321 #54-76,santander,medellín,6031477239,2014-10-26
-8679.0,sucursal este,calle 321 #54-76,antioquia,bucaramanga,6052307543,2012-10-30
-4876.0,sucursal sur,carrera 789 #12-34,antioquia,barranquilla,6034777340,2019-06-15
-5911.0,sucursal sur,calle 321 #54-76,valle del cauca,cali,6089767104,2026-01-01
-8982.0,sucursal este,calle 321 #54-76,santander,cali,6034888628,2014-05-28
-5038.0,oficina local,calle 123 #45-67,cundinamarca,barranquilla,6017136455,2016-04-14
-6034.0,oficina de ventas,calle 123 #45-67,santander,bucaramanga,6032378548,2026-01-01
-2447.0,sucursal norte,avenida 456 #78-90,valle del cauca,cali,6089592042,2015-12-26
-3433.0,oficina secundaria,carrera 789 #12-34,cundinamarca,barranquilla,6077017486,2011-10-23
-9961.0,oficina de ventas,calle 123 #45-67,valle del cauca,medellín,6062211002,2026-01-01
-4353.0,oficina principal,avenida 456 #78-90,cundinamarca,cali,6083351119,2011-05-07
-16.0,oficina regional,calle 321 #54-76,atlántico,cali,6053972998,2026-01-01
-9873.0,oficina secundaria,carrera 789 #12-34,valle del cauca,bogotá,6036163319,2026-01-01
-8461.0,oficina principal,carrera 789 #12-34,santander,medellín,6019601641,2013-10-27
-9987.0,oficina principal,avenida 654 #87-09,santander,medellín,6078500530,2026-01-01
-9123.0,oficina local,avenida 456 #78-90,cundinamarca,barranquilla,6027227880,2015-01-26
-4729.0,sucursal oeste,calle 321 #54-76,antioquia,bogotá,6015178139,2026-01-01
-5112.0,sucursal oeste,avenida 654 #87-09,atlántico,barranquilla,6024546038,2015-02-17
-6821.0,sucursal este,calle 321 #54-76,valle del cauca,bucaramanga,6070452935,2026-01-01
-8350.0,sucursal este,avenida 456 #78-90,atlántico,medellín,6031266027,2011-11-25
-2807.0,sucursal norte,calle 123 #45-67,antioquia,bucaramanga,6030194861,2011-03-14
-360.0,oficina principal,calle 321 #54-76,santander,bucaramanga,6068909028,2026-01-01
-5233.0,oficina principal,calle 321 #54-76,santander,cali,6053123169,2010-09-30
-8372.0,sucursal oeste,avenida 654 #87-09,antioquia,cali,6029168811,2013-03-16
-6272.0,sucursal norte,avenida 654 #87-09,atlántico,medellín,6083948794,2012-10-16
-4264.0,sucursal este,carrera 789 #12-34,atlántico,bucaramanga,6053105884,2011-03-08
-9423.0,oficina principal,calle 123 #45-67,santander,bucaramanga,6083418082,2026-01-01
-4567.0,oficina de ventas,avenida 456 #78-90,santander,medellín,6040625021,2017-11-02
-2116.0,sucursal este,carrera 789 #12-34,atlántico,bucaramanga,6068554785,2019-09-03
-4988.0,oficina local,carrera 789 #12-34,antioquia,bogotá,6084163201,2026-01-01
-7636.0,sucursal oeste,carrera 789 #12-34,atlántico,barranquilla,6017851746,2014-10-03
-9515.0,oficina de ventas,avenida 654 #87-09,antioquia,medellín,6085762541,2013-09-03
-9722.0,oficina secundaria,calle 321 #54-76,santander,bucaramanga,6061095590,2014-05-24
-1214.0,oficina central,calle 123 #45-67,atlántico,cali,6070759509,2018-01-14
-5063.0,sucursal oeste,calle 123 #45-67,santander,medellín,6051918054,2010-02-06
-4545.0,oficina principal,carrera 789 #12-34,santander,bogotá,6049202870,2011-04-12
-638.0,oficina de ventas,calle 123 #45-67,valle del cauca,bucaramanga,6043594247,2026-01-01
-3898.0,sucursal norte,carrera 789 #12-34,atlántico,medellín,6087973970,2026-01-01
-6245.0,sucursal oeste,avenida 456 #78-90,valle del cauca,barranquilla,602123992,2011-11-09
-9614.0,oficina principal,avenida 456 #78-90,atlántico,medellín,6036322979,2014-06-07
-7696.0,sucursal sur,avenida 456 #78-90,atlántico,bogotá,6026703996,2026-01-01
-5741.0,oficina central,calle 123 #45-67,atlántico,bogotá,602444703,2013-02-27
-6288.0,oficina principal,calle 321 #54-76,valle del cauca,barranquilla,6083306348,2015-08-13
-1662.0,oficina local,calle 321 #54-76,valle del cauca,bucaramanga,6031966338,2015-06-14
-6926.0,oficina de ventas,avenida 456 #78-90,atlántico,bucaramanga,6022707032,2017-05-13
-7748.0,oficina principal,calle 321 #54-76,antioquia,bucaramanga,6066515513,2026-01-01
-5692.0,sucursal sur,avenida 456 #78-90,valle del cauca,bucaramanga,6064614842,2010-12-03
-3208.0,oficina de ventas,calle 321 #54-76,valle del cauca,bucaramanga,6052314536,2018-10-25
-8461.0,oficina secundaria,avenida 456 #78-90,antioquia,barranquilla,6086392741,2026-01-01
-3662.0,sucursal sur,calle 123 #45-67,antioquia,bogotá,6022227313,2026-01-01
-431.0,sucursal norte,carrera 789 #12-34,cundinamarca,bogotá,6093230152,2015-10-02
-9227.0,oficina principal,calle 123 #45-67,santander,bucaramanga,6083066157,2015-08-17
-4534.0,oficina principal,calle 321 #54-76,santander,medellín,6010244514,2010-04-13
-9467.0,sucursal este,avenida 654 #87-09,cundinamarca,medellín,6020420552,2011-12-29
-1336.0,sucursal norte,calle 321 #54-76,atlántico,bucaramanga,6022193415,2018-02-24
-2968.0,oficina local,avenida 456 #78-90,valle del cauca,bucaramanga,6099522997,2016-10-08
-7407.0,sucursal norte,calle 123 #45-67,cundinamarca,medellín,6030024999,2013-04-12
-7387.0,oficina de ventas,carrera 789 #12-34,atlántico,bogotá,6057652043,2013-11-13
-7679.0,oficina principal,carrera 789 #12-34,valle del cauca,bogotá,6020374081,2010-04-09
-426.0,oficina local,calle 321 #54-76,valle del cauca,cali,6025697732,2019-05-14
-4877.0,oficina secundaria,avenida 456 #78-90,atlántico,bogotá,6014447988,2026-01-01
-8696.0,oficina central,avenida 654 #87-09,cundinamarca,medellín,6065596226,2026-01-01
-2528.0,sucursal sur,avenida 654 #87-09,valle del cauca,medellín,6052260417,2015-07-25
-9749.0,oficina regional,avenida 456 #78-90,valle del cauca,barranquilla,6068617904,2014-08-01
-9340.0,sucursal este,avenida 654 #87-09,santander,barranquilla,6012415128,2014-11-29
-3475.0,sucursal sur,calle 123 #45-67,antioquia,bogotá,6084540302,2010-11-19
-5620.0,oficina regional,avenida 654 #87-09,atlántico,cali,6041231886,2026-01-01
-2626.0,sucursal oeste,calle 123 #45-67,santander,barranquilla,6049254242,2014-07-03
-219.0,sucursal norte,calle 123 #45-67,antioquia,barranquilla,6019864368,2017-01-08
-8006.0,oficina local,avenida 654 #87-09,valle del cauca,bucaramanga,6067223269,2018-01-12
-4289.0,oficina central,avenida 456 #78-90,atlántico,barranquilla,6031020814,2026-01-01
-7878.0,oficina local,avenida 456 #78-90,valle del cauca,medellín,6078616856,2017-01-12
-1411.0,oficina de ventas,calle 123 #45-67,antioquia,barranquilla,6024551796,2026-01-01
-5860.0,oficina local,avenida 456 #78-90,antioquia,barranquilla,6094785923,2026-01-01
-5011.0,sucursal este,avenida 456 #78-90,valle del cauca,bucaramanga,6074619232,2026-01-01
-6.0,oficina secundaria,avenida 456 #78-90,antioquia,barranquilla,6019047490,2026-01-01
-9764.0,oficina de ventas,carrera 789 #12-34,valle del cauca,medellín,6089885733,2014-03-23
-6808.0,sucursal oeste,calle 123 #45-67,valle del cauca,bucaramanga,6096882485,2010-09-01
-3191.0,oficina local,calle 321 #54-76,antioquia,medellín,606838905,2017-11-19
-2973.0,oficina local,calle 321 #54-76,valle del cauca,bucaramanga,6095411365,2017-04-11
-1131.0,oficina de ventas,calle 321 #54-76,atlántico,bogotá,6073988033,2014-06-28
-9380.0,oficina local,carrera 789 #12-34,cundinamarca,bucaramanga,6085378432,2026-01-01
-2898.0,oficina de ventas,carrera 789 #12-34,valle del cauca,bucaramanga,6066581685,2012-11-28
-5471.0,sucursal este,calle 321 #54-76,santander,medellín,6075183432,2013-09-30
-3129.0,oficina central,calle 123 #45-67,antioquia,medellín,6057405481,2026-01-01
-2483.0,sucursal norte,avenida 654 #87-09,valle del cauca,medellín,6020287558,2026-01-01
-9103.0,sucursal norte,calle 321 #54-76,atlántico,cali,6013509215,2015-11-19
-289.0,sucursal sur,carrera 789 #12-34,antioquia,bucaramanga,6034640186,2026-01-01
-4480.0,oficina regional,calle 123 #45-67,atlántico,bucaramanga,6083340354,2026-01-01
-7874.0,oficina central,carrera 789 #12-34,valle del cauca,cali,6067391899,2015-09-10
-3971.0,sucursal norte,calle 123 #45-67,cundinamarca,bucaramanga,6035626822,2018-10-27
-3710.0,sucursal norte,avenida 654 #87-09,atlántico,bogotá,6076997197,2013-11-25
-4968.0,sucursal norte,calle 321 #54-76,antioquia,bogotá,6048661629,2019-11-16
-1140.0,sucursal sur,carrera 789 #12-34,atlántico,medellín,6070274787,2010-08-23
-4424.0,sucursal este,calle 123 #45-67,cundinamarca,barranquilla,6094419548,2016-11-16
-2299.0,oficina regional,carrera 789 #12-34,atlántico,bucaramanga,6019733452,2011-04-05
-1137.0,oficina de ventas,avenida 456 #78-90,cundinamarca,barranquilla,606362423,2019-11-27
-6568.0,oficina local,calle 123 #45-67,valle del cauca,cali,6025159447,2026-01-01
-4105.0,sucursal norte,calle 123 #45-67,antioquia,medellín,6013206604,2026-01-01
-9200.0,sucursal este,avenida 456 #78-90,antioquia,bucaramanga,6099469101,2026-01-01
-4319.0,oficina local,calle 123 #45-67,atlántico,bogotá,6085801598,2017-10-01
-6454.0,oficina regional,avenida 654 #87-09,antioquia,barranquilla,6055974311,2012-07-22
-7979.0,oficina local,carrera 789 #12-34,cundinamarca,medellín,6094592370,2011-07-20
-1144.0,oficina secundaria,calle 123 #45-67,antioquia,bogotá,6045397795,2026-01-01
-9611.0,oficina central,avenida 654 #87-09,cundinamarca,barranquilla,6028884353,2026-01-01
-7649.0,oficina local,carrera 789 #12-34,atlántico,bucaramanga,6095407956,2016-05-06
-1547.0,oficina de ventas,avenida 456 #78-90,antioquia,medellín,6063774452,2013-10-19
-629.0,oficina central,avenida 456 #78-90,cundinamarca,cali,604079134,2019-05-30
-8413.0,sucursal este,calle 123 #45-67,antioquia,medellín,6079047822,2026-01-01
-4377.0,oficina central,carrera 789 #12-34,valle del cauca,cali,6085209664,2026-01-01
-7802.0,sucursal norte,avenida 654 #87-09,atlántico,bucaramanga,6040374334,2026-01-01
-1408.0,oficina principal,calle 321 #54-76,valle del cauca,cali,6055688719,2014-05-09
-5714.0,sucursal norte,carrera 789 #12-34,santander,medellín,6044862038,2026-01-01
-2363.0,sucursal este,avenida 456 #78-90,valle del cauca,cali,6097846700,2026-01-01
-7246.0,oficina secundaria,calle 321 #54-76,santander,barranquilla,604999282,2016-10-04
-4463.0,sucursal oeste,calle 123 #45-67,antioquia,barranquilla,6061106984,2026-01-01
-1033.0,oficina de ventas,avenida 456 #78-90,cundinamarca,bucaramanga,6049959997,2026-01-01
-5294.0,sucursal este,calle 123 #45-67,atlántico,cali,6071985173,2016-06-16
-2112.0,oficina secundaria,calle 123 #45-67,valle del cauca,medellín,6097838226,2011-09-05
-6450.0,sucursal oeste,carrera 789 #12-34,atlántico,cali,6058232743,2026-01-01
-6534.0,oficina de ventas,avenida 654 #87-09,antioquia,bucaramanga,6011049022,2018-03-24
-7510.0,oficina secundaria,calle 123 #45-67,antioquia,barranquilla,6053014005,2017-06-24
-7483.0,oficina regional,avenida 654 #87-09,atlántico,cali,6023532702,2019-06-28
-1745.0,sucursal sur,avenida 654 #87-09,cundinamarca,bucaramanga,6038389291,2012-02-18
-7863.0,oficina regional,avenida 456 #78-90,cundinamarca,barranquilla,6051860048,2019-11-18
-5250.0,oficina regional,calle 123 #45-67,valle del cauca,bogotá,6025240952,2026-01-01
-177.0,sucursal oeste,calle 123 #45-67,santander,bucaramanga,6060334904,2012-12-09
-6606.0,sucursal norte,avenida 456 #78-90,antioquia,bucaramanga,6067861792,2014-06-26
-5908.0,oficina de ventas,carrera 789 #12-34,valle del cauca,medellín,6084177611,2015-08-22
-8012.0,oficina local,avenida 456 #78-90,cundinamarca,barranquilla,6057220930,2018-04-05
-4749.0,sucursal norte,avenida 654 #87-09,antioquia,bucaramanga,609706747,2019-07-19
-6915.0,sucursal este,calle 321 #54-76,cundinamarca,medellín,6045168262,2012-10-25
-7098.0,oficina principal,carrera 789 #12-34,antioquia,bucaramanga,6074735032,2016-04-23
-2010.0,sucursal sur,avenida 654 #87-09,atlántico,bucaramanga,607950537,2017-11-07
-3993.0,oficina local,carrera 789 #12-34,valle del cauca,medellín,6086847929,2013-12-01
-1830.0,oficina principal,calle 123 #45-67,atlántico,medellín,6094863760,2026-01-01
-4364.0,sucursal este,avenida 654 #87-09,valle del cauca,medellín,6037652345,2018-06-27
-1278.0,sucursal norte,calle 321 #54-76,cundinamarca,cali,6044348217,2026-01-01
-9427.0,oficina de ventas,calle 321 #54-76,cundinamarca,medellín,6082633580,2026-01-01
-738.0,oficina principal,carrera 789 #12-34,valle del cauca,cali,6080433154,2013-12-27
-6675.0,oficina secundaria,avenida 456 #78-90,santander,cali,6066553808,2019-04-09
-1963.0,sucursal este,calle 321 #54-76,cundinamarca,barranquilla,6030984269,2026-01-01
-1871.0,sucursal este,calle 321 #54-76,antioquia,barranquilla,6085606010,2017-03-26
-1849.0,sucursal sur,avenida 654 #87-09,cundinamarca,barranquilla,6054222962,2026-01-01
-4074.0,oficina central,carrera 789 #12-34,santander,bogotá,6089479562,2026-01-01
-5545.0,sucursal norte,avenida 654 #87-09,atlántico,medellín,6073599961,2017-02-28
-8206.0,sucursal oeste,calle 123 #45-67,cundinamarca,cali,6094025681,2011-04-07
-9131.0,sucursal norte,calle 123 #45-67,valle del cauca,bucaramanga,6085513661,2011-07-23
-1517.0,oficina central,avenida 456 #78-90,valle del cauca,medellín,609411426,2014-06-02
-8946.0,sucursal oeste,carrera 789 #12-34,atlántico,bogotá,6032829470,2016-09-25
-3229.0,sucursal este,avenida 456 #78-90,cundinamarca,bucaramanga,6045008238,2013-12-07
-3740.0,oficina principal,calle 321 #54-76,valle del cauca,barranquilla,6095477599,2010-03-11
-6413.0,oficina principal,calle 321 #54-76,atlántico,medellín,6023322822,2018-04-03
-8995.0,sucursal sur,calle 321 #54-76,santander,barranquilla,6053277791,2018-03-02
-8387.0,oficina central,carrera 789 #12-34,atlántico,barranquilla,602574935,2019-04-06
-8568.0,oficina regional,calle 321 #54-76,valle del cauca,cali,6061078895,2012-10-15
-7742.0,sucursal norte,avenida 456 #78-90,santander,cali,6080137588,2026-01-01
-4727.0,oficina local,avenida 654 #87-09,antioquia,bogotá,6066105268,2026-01-01
-9852.0,oficina central,carrera 789 #12-34,valle del cauca,cali,6040755161,2015-10-29
-4402.0,oficina principal,carrera 789 #12-34,antioquia,medellín,6071553977,2019-05-18
-7842.0,sucursal este,calle 123 #45-67,santander,barranquilla,6081966642,2026-01-01
-2518.0,oficina regional,calle 321 #54-76,cundinamarca,cali,609602326,2018-03-01
-3887.0,oficina central,avenida 654 #87-09,valle del cauca,medellín,6010307986,2010-06-09
-9858.0,oficina secundaria,calle 123 #45-67,cundinamarca,bogotá,6097858205,2026-01-01
-3783.0,oficina local,carrera 789 #12-34,antioquia,bogotá,6098271602,2017-02-19
-7623.0,sucursal este,avenida 456 #78-90,cundinamarca,cali,6077581151,2015-12-18
-3970.0,sucursal sur,calle 321 #54-76,cundinamarca,cali,6013345563,2016-11-03
-9148.0,oficina de ventas,calle 321 #54-76,antioquia,medellín,6076275380,2015-08-28
-306.0,sucursal norte,avenida 654 #87-09,santander,bogotá,6039802266,2018-01-14
-5486.0,oficina central,avenida 654 #87-09,atlántico,bucaramanga,6016413869,2013-08-14
-453.0,sucursal norte,carrera 789 #12-34,cundinamarca,barranquilla,6058845951,2019-09-05
-2574.0,sucursal este,avenida 456 #78-90,valle del cauca,medellín,6065159654,2026-01-01
-8092.0,sucursal sur,calle 123 #45-67,antioquia,bucaramanga,6058933145,2019-12-04
-2584.0,sucursal este,avenida 654 #87-09,valle del cauca,bogotá,6027066172,2016-03-22
-1427.0,oficina principal,calle 123 #45-67,santander,bucaramanga,6012216665,2026-01-01
-7661.0,oficina secundaria,carrera 789 #12-34,antioquia,bucaramanga,6086606477,2026-01-01
-4659.0,oficina secundaria,calle 321 #54-76,atlántico,barranquilla,6074143394,2010-07-19
-9910.0,sucursal sur,calle 321 #54-76,santander,cali,6072474157,2018-06-01
-2355.0,sucursal sur,avenida 654 #87-09,antioquia,barranquilla,6095100265,2016-10-03
-7968.0,oficina regional,calle 321 #54-76,cundinamarca,bucaramanga,6039190529,2013-10-14
-9598.0,oficina central,carrera 789 #12-34,valle del cauca,barranquilla,606958885,2012-01-16
-2623.0,oficina secundaria,avenida 654 #87-09,antioquia,medellín,6099588487,2014-03-19
-3291.0,oficina principal,carrera 789 #12-34,cundinamarca,bogotá,6078914394,2026-01-01
-2452.0,oficina principal,avenida 654 #87-09,valle del cauca,cali,6081073121,2026-01-01
-2805.0,oficina regional,carrera 789 #12-34,santander,bucaramanga,6029818751,2026-01-01
-3649.0,oficina local,carrera 789 #12-34,atlántico,barranquilla,601276843,2018-02-28
-2107.0,oficina local,calle 321 #54-76,atlántico,medellín,6048882980,2013-08-15
-5340.0,oficina principal,calle 123 #45-67,santander,bucaramanga,6061162148,2019-06-21
-2713.0,oficina de ventas,carrera 789 #12-34,atlántico,bucaramanga,6076820700,2026-01-01
-8564.0,sucursal oeste,calle 321 #54-76,cundinamarca,cali,6075424075,2026-01-01
-2631.0,oficina local,calle 123 #45-67,cundinamarca,medellín,6031905541,2026-01-01
-5858.0,sucursal norte,calle 321 #54-76,antioquia,cali,603794029,2011-10-31
-5925.0,oficina local,calle 123 #45-67,cundinamarca,medellín,6063693513,2026-01-01
-4677.0,sucursal sur,avenida 456 #78-90,atlántico,bucaramanga,6040326685,2015-04-02
-820.0,oficina local,carrera 789 #12-34,antioquia,bogotá,6081289995,2014-08-15
-2995.0,oficina secundaria,calle 123 #45-67,valle del cauca,medellín,6031017463,2016-02-27
-4691.0,sucursal oeste,calle 321 #54-76,antioquia,bucaramanga,6060723869,2026-01-01
-9262.0,sucursal oeste,avenida 456 #78-90,santander,medellín,6039600911,2026-01-01
-2420.0,oficina local,carrera 789 #12-34,atlántico,bogotá,6036312596,2018-09-14
-6469.0,sucursal sur,calle 321 #54-76,valle del cauca,medellín,6067620083,2019-11-16
-6935.0,oficina central,calle 123 #45-67,atlántico,medellín,6018170390,2017-04-13
-1521.0,sucursal este,calle 123 #45-67,santander,cali,6058950734,2017-02-15
-6824.0,sucursal norte,calle 123 #45-67,cundinamarca,barranquilla,606174575,2010-12-31
-6279.0,oficina central,calle 321 #54-76,valle del cauca,bucaramanga,6074265228,2015-08-28
-6269.0,oficina regional,calle 123 #45-67,santander,bogotá,6076828615,2010-03-11
-7585.0,sucursal este,avenida 654 #87-09,atlántico,bogotá,6026790127,2016-06-27
-298.0,sucursal norte,avenida 456 #78-90,cundinamarca,cali,6059277004,2026-01-01
-2590.0,oficina local,calle 123 #45-67,santander,cali,6020227383,2016-08-28
-9192.0,sucursal sur,carrera 789 #12-34,cundinamarca,bogotá,6071704001,2026-01-01
-490.0,sucursal oeste,avenida 654 #87-09,santander,cali,6026113298,2026-01-01
-5523.0,oficina regional,calle 123 #45-67,antioquia,bucaramanga,6044231945,2014-09-11
-6430.0,sucursal norte,avenida 456 #78-90,antioquia,cali,6023763839,2026-01-01
-2054.0,oficina local,avenida 456 #78-90,atlántico,cali,6093648079,2026-01-01
-3483.0,sucursal oeste,calle 321 #54-76,cundinamarca,bogotá,6047782234,2026-01-01
-3686.0,oficina secundaria,calle 321 #54-76,antioquia,bogotá,6058665122,2026-01-01
-5438.0,sucursal este,avenida 456 #78-90,valle del cauca,medellín,6057322241,2011-09-11
-5556.0,sucursal este,calle 123 #45-67,cundinamarca,cali,6078281887,2019-10-19
-7286.0,sucursal norte,calle 123 #45-67,antioquia,barranquilla,6022123793,2018-08-12
-3174.0,oficina principal,calle 123 #45-67,atlántico,medellín,6094626731,2014-08-07
-6096.0,oficina central,avenida 654 #87-09,valle del cauca,bucaramanga,6093206935,2016-07-26
-9445.0,oficina regional,calle 321 #54-76,valle del cauca,medellín,6031443511,2013-10-02
-2286.0,oficina local,calle 321 #54-76,antioquia,bogotá,6022643574,2026-01-01
-4120.0,oficina central,calle 321 #54-76,antioquia,bogotá,6080584059,2026-01-01
-9511.0,sucursal sur,carrera 789 #12-34,atlántico,cali,604409958,2013-02-11
-6148.0,oficina central,calle 123 #45-67,santander,medellín,6060265115,2026-01-01
-4796.0,sucursal sur,calle 321 #54-76,santander,bogotá,6066967946,2015-08-13
-1981.0,oficina central,avenida 456 #78-90,cundinamarca,barranquilla,6020844626,2017-10-31
-1383.0,sucursal norte,carrera 789 #12-34,cundinamarca,cali,6071114682,2014-04-02
-6250.0,sucursal oeste,avenida 456 #78-90,antioquia,medellín,6051790350,2026-01-01
-2341.0,oficina central,avenida 456 #78-90,antioquia,medellín,6012896465,2019-09-06
-7634.0,oficina local,calle 123 #45-67,santander,barranquilla,6022222001,2026-01-01
-9700.0,oficina secundaria,calle 321 #54-76,santander,medellín,6031224557,2010-06-16
-434.0,oficina regional,avenida 654 #87-09,cundinamarca,medellín,6032407879,2014-03-08
-2568.0,oficina secundaria,avenida 456 #78-90,antioquia,bogotá,6058638879,2026-01-01
-9171.0,oficina de ventas,avenida 654 #87-09,atlántico,cali,6045193515,2010-01-28
-8784.0,oficina de ventas,carrera 789 #12-34,valle del cauca,bucaramanga,6047412251,2026-01-01
-6125.0,oficina secundaria,carrera 789 #12-34,atlántico,barranquilla,6018664367,2026-01-01
-510.0,oficina central,carrera 789 #12-34,cundinamarca,barranquilla,6058054848,2018-03-21
-559.0,oficina secundaria,carrera 789 #12-34,atlántico,bogotá,6018513760,2010-11-16
-1526.0,oficina de ventas,avenida 654 #87-09,valle del cauca,bogotá,6082879600,2016-04-06
-3940.0,oficina regional,calle 321 #54-76,valle del cauca,medellín,6028839973,2026-01-01
-3814.0,oficina principal,avenida 654 #87-09,antioquia,medellín,6093007918,2026-01-01
-5464.0,sucursal este,calle 123 #45-67,valle del cauca,barranquilla,6099540330,2026-01-01
-7723.0,oficina secundaria,carrera 789 #12-34,valle del cauca,barranquilla,6064710096,2019-09-13
-9553.0,oficina local,avenida 456 #78-90,antioquia,cali,6069407515,2011-12-05
-7900.0,oficina de ventas,avenida 654 #87-09,atlántico,medellín,6042773550,2026-01-01
-3053.0,oficina principal,calle 321 #54-76,santander,medellín,6031520872,2012-11-30
-2974.0,sucursal sur,calle 321 #54-76,atlántico,bucaramanga,6036048237,2017-07-14
-2277.0,sucursal sur,avenida 654 #87-09,antioquia,barranquilla,6060278021,2010-02-02
-1967.0,oficina central,avenida 654 #87-09,antioquia,barranquilla,6098071798,2026-01-01
-5580.0,sucursal norte,carrera 789 #12-34,valle del cauca,bucaramanga,6052786331,2026-01-01
-8029.0,sucursal sur,calle 321 #54-76,santander,bucaramanga,6056511800,2026-01-01
-1429.0,oficina local,avenida 654 #87-09,valle del cauca,cali,6055949370,2010-08-29
-5214.0,oficina local,avenida 654 #87-09,valle del cauca,barranquilla,6047698289,2016-06-20
-5158.0,sucursal sur,calle 123 #45-67,antioquia,cali,6020266179,2014-11-21
-4815.0,oficina de ventas,avenida 654 #87-09,cundinamarca,cali,6031742238,2011-09-23
-8638.0,oficina secundaria,avenida 456 #78-90,valle del cauca,medellín,6091648144,2016-08-05
-6048.0,oficina de ventas,calle 123 #45-67,valle del cauca,bogotá,6010180716,2026-01-01
-6001.0,oficina central,calle 123 #45-67,cundinamarca,medellín,605400139,2015-12-19
-8943.0,oficina regional,carrera 789 #12-34,antioquia,cali,6022368491,2018-06-13
-1433.0,oficina principal,carrera 789 #12-34,antioquia,medellín,6071530877,2026-01-01
-3790.0,oficina local,calle 123 #45-67,valle del cauca,bogotá,6024316164,2015-03-12
-7699.0,oficina secundaria,carrera 789 #12-34,antioquia,bucaramanga,6021037264,2013-04-18
-6908.0,sucursal norte,calle 321 #54-76,santander,bogotá,6021693744,2026-01-01
-5077.0,oficina principal,calle 123 #45-67,valle del cauca,bogotá,6023177950,2012-07-24
-6688.0,oficina principal,avenida 456 #78-90,santander,bucaramanga,6030428777,2012-05-14
-616.0,oficina regional,avenida 456 #78-90,antioquia,barranquilla,6064060868,2026-01-01
-6261.0,sucursal este,avenida 654 #87-09,antioquia,bucaramanga,6086552235,2012-07-07
-7842.0,oficina regional,calle 123 #45-67,santander,barranquilla,6090062658,2010-10-05
-1938.0,sucursal este,avenida 456 #78-90,atlántico,medellín,6060230678,2013-03-20
-3650.0,oficina principal,carrera 789 #12-34,valle del cauca,barranquilla,6018392879,2013-03-13
-7125.0,oficina secundaria,carrera 789 #12-34,antioquia,barranquilla,6012013142,2010-06-19
-6012.0,oficina local,avenida 654 #87-09,antioquia,barranquilla,6060219045,2026-01-01
-6819.0,sucursal oeste,avenida 456 #78-90,valle del cauca,bucaramanga,608175863,2017-11-15
-7317.0,oficina principal,avenida 456 #78-90,cundinamarca,bucaramanga,6069565478,2016-09-15
-7371.0,sucursal norte,avenida 654 #87-09,atlántico,bucaramanga,6088508305,2019-06-04
-2122.0,oficina secundaria,calle 321 #54-76,valle del cauca,barranquilla,6019254881,2026-01-01
-6276.0,oficina de ventas,avenida 654 #87-09,santander,cali,6041221627,2012-07-13
-378.0,sucursal sur,carrera 789 #12-34,santander,cali,6049073015,2018-12-02
-7564.0,sucursal oeste,avenida 654 #87-09,cundinamarca,cali,6087350524,2026-01-01
-7045.0,oficina de ventas,carrera 789 #12-34,atlántico,medellín,6036353616,2018-11-24
-5632.0,sucursal oeste,avenida 456 #78-90,atlántico,bucaramanga,6013100174,2013-08-04
-8458.0,oficina local,calle 123 #45-67,santander,bogotá,6031159593,2026-01-01
-2142.0,sucursal este,carrera 789 #12-34,santander,cali,6023464244,2011-11-29
-4052.0,sucursal oeste,avenida 654 #87-09,santander,cali,6069290653,2013-02-23
-8779.0,oficina secundaria,calle 123 #45-67,cundinamarca,bogotá,6092313917,2017-07-31
-5406.0,oficina de ventas,avenida 456 #78-90,atlántico,bucaramanga,6081604155,2014-09-13
-7982.0,oficina regional,avenida 654 #87-09,valle del cauca,cali,6018288004,2012-12-05
-4189.0,sucursal norte,calle 123 #45-67,antioquia,barranquilla,6094874181,2017-11-03
-4728.0,oficina regional,carrera 789 #12-34,valle del cauca,cali,6020880333,2016-12-04
-2929.0,sucursal sur,avenida 456 #78-90,atlántico,bogotá,6075924188,2026-01-01
-1810.0,oficina de ventas,avenida 654 #87-09,valle del cauca,bucaramanga,6032002164,2010-01-14
-1497.0,oficina principal,calle 123 #45-67,cundinamarca,bogotá,6072111759,2014-10-13
-6300.0,sucursal sur,avenida 456 #78-90,santander,bogotá,6085177750,2015-07-31
-9310.0,oficina regional,calle 123 #45-67,valle del cauca,barranquilla,6059230020,2010-03-25
-9854.0,oficina local,calle 321 #54-76,cundinamarca,barranquilla,6092017356,2015-02-25
-5457.0,oficina de ventas,avenida 456 #78-90,atlántico,cali,6034199808,2018-08-18
-8496.0,oficina secundaria,calle 321 #54-76,atlántico,cali,6092781138,2026-01-01
-753.0,oficina secundaria,calle 321 #54-76,atlántico,bogotá,6060361616,2018-06-01
-4212.0,sucursal norte,avenida 654 #87-09,santander,medellín,6023799727,2026-01-01
-1682.0,sucursal norte,calle 321 #54-76,antioquia,bucaramanga,6056942907,2026-01-01
-3778.0,sucursal oeste,calle 321 #54-76,antioquia,cali,6088453278,2026-01-01
-3574.0,oficina regional,calle 123 #45-67,antioquia,medellín,6073554266,2026-01-01
-3293.0,oficina principal,avenida 654 #87-09,valle del cauca,cali,6037114496,2026-01-01
-7699.0,sucursal oeste,avenida 654 #87-09,cundinamarca,bogotá,6093623351,2026-01-01
-6338.0,sucursal oeste,avenida 456 #78-90,valle del cauca,bucaramanga,604816086,2013-04-13
-3568.0,sucursal este,calle 123 #45-67,antioquia,bucaramanga,6060506550,2026-01-01
-2925.0,oficina principal,calle 321 #54-76,atlántico,barranquilla,6094629550,2013-04-30
-8673.0,oficina de ventas,avenida 456 #78-90,antioquia,barranquilla,6017992313,2019-10-08
-1887.0,oficina secundaria,carrera 789 #12-34,antioquia,bucaramanga,6034747028,2012-11-09
+72.0,oficina regional,carrera 789 #12-34,Cundinamarca,CALI,6033972236,2016/04/26
+1057.0,oficina de ventas,calle 321 #54-76,Atlántico,Bogotá,6094043803,
+2323.0,sucursal oeste,carrera 789 #12-34,Atlántico,Medellín,6088671164,
+3896.0,oficina central,calle 123 #45-67,Santander,Cali,6088844132,2016/04/22
+1000.0,oficina central,calle 123 #45-67,Valle del Cauca,Medellín,6044525993,
+3404.0,sucursal norte,calle 123 #45-67,Antioquia,Bogotá,6022784589,
+6990.0,oficina secundaria,calle 123 #45-67,Santander,Bogotá,6065744478,2018/12/12
+6582.0,sucursal sur,avenida 654 #87-09,Antioquia,BOGOTÁ,6060498021,2018/10/05
+0.0,oficina secundaria,calle 321 #54-76,Antioquia,Bucaramanga,6070096040,2010/08/16
+7020.0,sucursal oeste,avenida 654 #87-09,Valle del Cauca,MEDELLÍN,6038963780,2017/05/24
+6051.0,sucursal sur,calle 123 #45-67,Antioquia,Barranquilla,6057149293,
+8220.0,sucursal sur,calle 321 #54-76,Cundinamarca,CALI,6075508344,2013/10/12
+-1.0,sucursal norte,calle 123 #45-67,Atlántico,Medellín,6046251187,2011/12/05
+4405.0,oficina central,calle 321 #54-76,Valle del Cauca,BOGOTÁ,6034684605,2013/10/04
+139.0,oficina local,calle 321 #54-76,Antioquia,Cali,6066621704,2011/07/16
+6522.0,sucursal norte,calle 321 #54-76,Santander,Bucaramanga,605035767,2016/12/14
+6902.0,sucursal este,calle 123 #45-67,Santander,MEDELLÍN,6085201128,2013/06/29
+6887.0,oficina local,avenida 456 #78-90,Antioquia,Cali,6082242231,
+8910.0,oficina secundaria,carrera 789 #12-34,Valle del Cauca,Cali,6080003247,
+1002.0,oficina principal,avenida 456 #78-90,Atlántico,CALI,6050544427,2016/01/11
+9297.0,sucursal sur,avenida 456 #78-90,Atlántico,MEDELLÍN,6085348117,2017/03/29
+8737.0,oficina regional,calle 123 #45-67,Santander,Medellín,6084526952,
+6939.0,sucursal sur,avenida 654 #87-09,Atlántico,Barranquilla,6050705723,
+5137.0,sucursal este,calle 123 #45-67,Valle del Cauca,BARRANQUILLA,6092979375,2017/10/13
+6815.0,sucursal norte,avenida 456 #78-90,Valle del Cauca,BARRANQUILLA,6011794339,2018/03/02
+6608.0,sucursal norte,avenida 456 #78-90,Valle del Cauca,CALI,6059232074,2011/09/28
+9375.0,oficina regional,avenida 654 #87-09,Santander,MEDELLÍN,6097952119,2019/01/23
+2575.0,oficina local,carrera 789 #12-34,Santander,Bucaramanga,6099296770,2015/07/30
+1129.0,sucursal norte,calle 321 #54-76,Antioquia,Cali,6097796494,
+9634.0,sucursal norte,carrera 789 #12-34,Valle del Cauca,MEDELLÍN,6025924266,2010/07/10
+1644.0,sucursal norte,avenida 654 #87-09,Cundinamarca,CALI,6086708046,2019/06/24
+4585.0,sucursal sur,calle 321 #54-76,Valle del Cauca,Bogotá,601657115,2015/11/07
+4194.0,oficina local,avenida 456 #78-90,Valle del Cauca,BOGOTÁ,6017499869,2016/09/03
+3219.0,oficina central,calle 123 #45-67,Santander,Medellín,6073514263,
+8363.0,oficina de ventas,avenida 456 #78-90,Valle del Cauca,CALI,6027755153,2017/05/04
+6313.0,sucursal este,avenida 456 #78-90,Cundinamarca,CALI,6054229168,2018/09/02
+1116.0,oficina local,calle 321 #54-76,Santander,BUCARAMANGA,6041255802,2012/07/08
+4391.0,sucursal sur,avenida 654 #87-09,Antioquia,Barranquilla,6052909326,
+5947.0,oficina local,calle 321 #54-76,Atlántico,Barranquilla,6014382742,2018/12/29
+403.0,oficina principal,calle 321 #54-76,Santander,Bucaramanga,601547203,2010/02/10
+1189.0,oficina central,carrera 789 #12-34,Antioquia,Bogotá,6068559616,2014/09/29
+-1.0,oficina principal,calle 321 #54-76,Antioquia,Bogotá,6047568128,2014/10/09
+6205.0,oficina de ventas,carrera 789 #12-34,Atlántico,Medellín,6059064114,
+7668.0,oficina de ventas,calle 321 #54-76,Antioquia,Bucaramanga,6072773283,
+3947.0,oficina local,calle 321 #54-76,Valle del Cauca,Bucaramanga,6043557208,2012/06/29
+8828.0,oficina local,calle 123 #45-67,Antioquia,BARRANQUILLA,6011872366,2010/05/27
+1182.0,sucursal este,avenida 654 #87-09,Atlántico,BOGOTÁ,6078384578,2019/08/30
+3754.0,oficina principal,calle 321 #54-76,Antioquia,Barranquilla,6012065850,
+9624.0,oficina secundaria,calle 321 #54-76,Antioquia,Cali,6067895106,2010/11/03
+400.0,oficina de ventas,calle 321 #54-76,Atlántico,CALI,6038189550,2015/01/05
+6401.0,oficina secundaria,avenida 456 #78-90,Santander,Bucaramanga,6063235686,
+1265.0,oficina secundaria,carrera 789 #12-34,Cundinamarca,BARRANQUILLA,6066417763,2014/10/10
+9082.0,oficina secundaria,avenida 654 #87-09,Santander,Barranquilla,6075337933,
+607.0,oficina regional,avenida 456 #78-90,Valle del Cauca,MEDELLÍN,6097391735,2011/08/12
+2834.0,oficina local,calle 321 #54-76,Antioquia,Barranquilla,6083581151,
+5345.0,oficina central,calle 321 #54-76,Santander,CALI,6014718813,2014/08/14
+324.0,sucursal oeste,avenida 456 #78-90,Antioquia,BOGOTÁ,6077585342,2015/08/02
+-1.0,oficina central,calle 321 #54-76,Antioquia,Medellín,6035813282,2012/04/10
+5307.0,oficina principal,avenida 456 #78-90,Valle del Cauca,Bogotá,6092968057,2010/07/13
+6813.0,oficina secundaria,avenida 654 #87-09,Santander,Barranquilla,6021479942,
+9727.0,sucursal oeste,carrera 789 #12-34,Santander,Bucaramanga,608339042,2019/06/23
+2452.0,oficina regional,avenida 456 #78-90,Atlántico,Cali,6053772548,2017/05/24
+3816.0,oficina central,avenida 456 #78-90,Antioquia,Barranquilla,6054239183,2011/04/07
+4618.0,oficina secundaria,calle 321 #54-76,Cundinamarca,Cali,6023847007,2017/08/05
+8966.0,oficina principal,calle 321 #54-76,Santander,Medellín,6080185746,
+8202.0,sucursal este,carrera 789 #12-34,Antioquia,Cali,6056403132,2016/10/28
+1009.0,sucursal oeste,avenida 654 #87-09,Atlántico,Bogotá,6071809401,
+7413.0,oficina central,calle 123 #45-67,Antioquia,Bogotá,6070592723,
+9503.0,sucursal norte,carrera 789 #12-34,Cundinamarca,Bucaramanga,6039629773,
+5721.0,sucursal sur,avenida 456 #78-90,Santander,BUCARAMANGA,6036987908,2012/06/17
+6735.0,sucursal este,calle 123 #45-67,Cundinamarca,Bucaramanga,602761035,2010/08/16
+6256.0,oficina central,avenida 456 #78-90,Cundinamarca,Bogotá,6098328099,
+9373.0,oficina local,calle 123 #45-67,Cundinamarca,BOGOTÁ,6017280655,2014/07/20
+2299.0,oficina local,calle 321 #54-76,Valle del Cauca,Bucaramanga,6011760912,2014/06/15
+9531.0,oficina principal,avenida 456 #78-90,Atlántico,CALI,6039270746,2017/03/25
+5880.0,oficina regional,calle 321 #54-76,Valle del Cauca,Cali,6051483711,2019/11/16
+5951.0,sucursal oeste,carrera 789 #12-34,Atlántico,BARRANQUILLA,6056359711,2014/04/25
+-1.0,oficina central,carrera 789 #12-34,Santander,Barranquilla,6023234270,2014/12/30
+7536.0,oficina regional,carrera 789 #12-34,Atlántico,Medellín,6095094296,
+923.0,oficina central,carrera 789 #12-34,Santander,BUCARAMANGA,6091840737,2010/07/22
+6703.0,sucursal oeste,avenida 456 #78-90,Antioquia,MEDELLÍN,6031105172,2010/09/29
+8909.0,sucursal norte,calle 321 #54-76,Cundinamarca,CALI,6028101902,2014/10/31
+9275.0,sucursal sur,avenida 654 #87-09,Atlántico,Barranquilla,6031973034,
+9868.0,oficina regional,carrera 789 #12-34,Santander,Medellín,6087826043,
+1709.0,sucursal oeste,avenida 456 #78-90,Cundinamarca,BARRANQUILLA,6038117029,2012/03/31
+4859.0,sucursal este,carrera 789 #12-34,Santander,BOGOTÁ,6028446841,2018/02/18
+932.0,sucursal oeste,calle 123 #45-67,Atlántico,CALI,6045097167,2014/09/04
+9120.0,sucursal sur,carrera 789 #12-34,Atlántico,MEDELLÍN,6055631516,2015/09/28
+6280.0,sucursal oeste,calle 321 #54-76,Santander,Cali,6027449234,2015/11/09
+8113.0,sucursal norte,calle 321 #54-76,Antioquia,CALI,6089038699,2014/01/27
+5990.0,sucursal este,carrera 789 #12-34,Antioquia,Cali,6090319610,
+1861.0,sucursal sur,carrera 789 #12-34,Valle del Cauca,Cali,6094391079,
+6124.0,oficina central,avenida 654 #87-09,Santander,Barranquilla,6074477540,2013/02/19
+6197.0,sucursal sur,avenida 654 #87-09,Antioquia,Medellín,6041938815,2015/01/15
+2176.0,sucursal norte,avenida 654 #87-09,Santander,Medellín,6021627648,2011/03/20
+5316.0,oficina principal,avenida 456 #78-90,Valle del Cauca,BARRANQUILLA,6062859206,2015/02/10
+8784.0,oficina local,avenida 654 #87-09,Valle del Cauca,CALI,6039789669,2014/03/26
+4032.0,sucursal este,calle 123 #45-67,Atlántico,Medellín,6069069616,2018/06/15
+1494.0,oficina regional,avenida 654 #87-09,Atlántico,Barranquilla,6052371609,
+3790.0,oficina regional,calle 123 #45-67,Santander,BARRANQUILLA,6084218381,2019/04/03
+5997.0,sucursal sur,carrera 789 #12-34,Atlántico,CALI,6069024597,2019/08/21
+3268.0,oficina central,avenida 456 #78-90,Atlántico,Bogotá,6078635908,2012/07/24
+7820.0,oficina central,avenida 456 #78-90,Valle del Cauca,BOGOTÁ,6085401157,2012/12/18
+8168.0,oficina regional,carrera 789 #12-34,Atlántico,BOGOTÁ,6015238571,2018/09/27
+0.0,oficina de ventas,avenida 654 #87-09,Santander,Medellín,6052832426,2019/10/31
+2957.0,sucursal este,calle 123 #45-67,SANTANDER,Bogotá,6028915603,2016/04/14
+100.0,sucursal norte,avenida 654 #87-09,Antioquia,CALI,6019092646,2018/03/26
+5782.0,sucursal norte,avenida 654 #87-09,Atlántico,Barranquilla,6039092210,
+8955.0,sucursal oeste,carrera 789 #12-34,Valle del Cauca,Medellín,6026036070,
+7921.0,sucursal oeste,avenida 654 #87-09,Antioquia,Cali,6028146085,2016/12/01
+9093.0,oficina local,calle 123 #45-67,Valle del Cauca,BARRANQUILLA,6072227941,2017/03/14
+3390.0,sucursal oeste,calle 321 #54-76,Antioquia,BOGOTÁ,6026883334,2015/12/02
+5885.0,oficina central,carrera 789 #12-34,Valle del Cauca,Bucaramanga,6030856085,
+4042.0,sucursal oeste,carrera 789 #12-34,Antioquia,Cali,6075751890,
+9448.0,oficina principal,avenida 654 #87-09,Atlántico,Cali,6041226054,
+1068.0,oficina regional,calle 123 #45-67,Santander,Bucaramanga,6047536006,2015/01/05
+2559.0,oficina de ventas,calle 123 #45-67,Valle del Cauca,Barranquilla,6046781702,
+9570.0,sucursal este,calle 321 #54-76,Cundinamarca,Barranquilla,6046195046,
+9006.0,oficina principal,calle 321 #54-76,Santander,Medellín,6077292867,
+6005.0,oficina de ventas,calle 123 #45-67,Valle del Cauca,Medellín,6033805386,
+3457.0,oficina principal,calle 123 #45-67,Antioquia,Cali,6076647672,
+7744.0,oficina principal,avenida 654 #87-09,Santander,MEDELLÍN,6098226065,2017/09/14
+0.0,oficina secundaria,calle 321 #54-76,Antioquia,Bogotá,6087566694,2019/11/16
+8387.0,sucursal oeste,calle 123 #45-67,Atlántico,Cali,6097873160,2019/04/24
+2157.0,sucursal este,calle 321 #54-76,Antioquia,Bogotá,6056040108,
+8463.0,oficina secundaria,avenida 654 #87-09,Cundinamarca,Cali,6059983260,
+9760.0,oficina secundaria,calle 123 #45-67,Atlántico,Cali,6094935657,
+7036.0,oficina secundaria,avenida 654 #87-09,Valle del Cauca,Medellín,605243744,2012/10/25
+5696.0,oficina local,avenida 654 #87-09,Cundinamarca,MEDELLÍN,6052354454,2015/03/17
+5093.0,oficina secundaria,avenida 654 #87-09,Valle del Cauca,Bucaramanga,6077735231,
+4651.0,oficina principal,calle 321 #54-76,Cundinamarca,BARRANQUILLA,6095686659,2011/02/23
+4147.0,sucursal este,avenida 456 #78-90,Atlántico,Medellín,6016322705,
+3537.0,sucursal sur,avenida 456 #78-90,Valle del Cauca,Medellín,602815883,2017/10/22
+3434.0,sucursal oeste,avenida 654 #87-09,Cundinamarca,Bucaramanga,6021005133,
+6098.0,sucursal este,calle 123 #45-67,Santander,Barranquilla,6083591818,
+8028.0,oficina principal,calle 321 #54-76,Santander,Medellín,6081788765,
+5320.0,sucursal sur,calle 123 #45-67,Valle del Cauca,BUCARAMANGA,6091732787,2015/05/20
+5220.0,oficina central,carrera 789 #12-34,Antioquia,Bogotá,6088186066,
+1552.0,sucursal este,carrera 789 #12-34,Valle del Cauca,Barranquilla,6052926076,
+0.0,sucursal este,carrera 789 #12-34,Santander,Bogotá,6088049129,2019/11/21
+6395.0,sucursal sur,avenida 456 #78-90,Antioquia,Barranquilla,609369454,2017/08/23
+5155.0,sucursal sur,calle 321 #54-76,Atlántico,Medellín,6016083661,
+115.0,oficina principal,calle 321 #54-76,Atlántico,Medellín,6015989503,2019/12/10
+1151.0,oficina secundaria,carrera 789 #12-34,Cundinamarca,Barranquilla,6015327899,2017/05/08
+8645.0,sucursal sur,avenida 654 #87-09,Valle del Cauca,MEDELLÍN,6064583769,2011/09/06
+2281.0,oficina regional,avenida 456 #78-90,Atlántico,Barranquilla,6047448320,
+8582.0,oficina de ventas,avenida 456 #78-90,Atlántico,Barranquilla,6067736372,2010/07/06
+5474.0,sucursal norte,carrera 789 #12-34,Atlántico,BARRANQUILLA,6078112423,2016/12/03
+3866.0,sucursal norte,calle 123 #45-67,Antioquia,Medellín,6046733483,
+1783.0,oficina principal,avenida 456 #78-90,Antioquia,Bogotá,6046063663,2019/01/03
+1741.0,oficina principal,calle 321 #54-76,Valle del Cauca,Bogotá,6011432645,
+4756.0,oficina local,calle 123 #45-67,Atlántico,Bogotá,6042772531,2019/05/01
+9421.0,oficina secundaria,calle 321 #54-76,Valle del Cauca,Medellín,6019111337,
+5217.0,oficina local,avenida 456 #78-90,Antioquia,BARRANQUILLA,6011819126,2012/04/05
+7155.0,oficina principal,avenida 456 #78-90,Santander,Bucaramanga,6019037386,
+1392.0,oficina secundaria,calle 321 #54-76,Valle del Cauca,BUCARAMANGA,6010242687,2016/04/29
+2140.0,oficina de ventas,calle 123 #45-67,Atlántico,CALI,6064379756,2015/09/01
+4230.0,oficina principal,avenida 654 #87-09,Valle del Cauca,Cali,6038931515,
+8050.0,sucursal norte,calle 321 #54-76,Valle del Cauca,MEDELLÍN,6039886700,2012/09/27
+3906.0,oficina principal,carrera 789 #12-34,Atlántico,BUCARAMANGA,6025063764,2018/04/28
+1464.0,sucursal sur,avenida 654 #87-09,Antioquia,Bogotá,6022980321,
+6797.0,oficina local,calle 321 #54-76,Antioquia,Cali,6096332384,
+622.0,sucursal oeste,calle 123 #45-67,Santander,BUCARAMANGA,6093962847,2015/02/14
+4158.0,sucursal este,avenida 456 #78-90,Atlántico,BARRANQUILLA,6015881091,2011/10/28
+5092.0,oficina secundaria,calle 123 #45-67,Valle del Cauca,Bogotá,6071387953,
+892.0,oficina de ventas,carrera 789 #12-34,Santander,Bogotá,6088180418,
+8164.0,oficina central,avenida 456 #78-90,Santander,BARRANQUILLA,6016887149,2018/04/22
+0.0,sucursal norte,calle 321 #54-76,Atlántico,Cali,6046019353,2018/11/24
+8594.0,sucursal este,calle 321 #54-76,Cundinamarca,BOGOTÁ,6089531984,2015/07/14
+5376.0,oficina regional,carrera 789 #12-34,Santander,Cali,6016523228,
+6715.0,oficina local,calle 123 #45-67,Cundinamarca,Cali,6060519345,
+4624.0,sucursal este,carrera 789 #12-34,Atlántico,Barranquilla,6050998495,
+2739.0,oficina principal,avenida 654 #87-09,Valle del Cauca,Medellín,602949585,2015/09/20
+1287.0,sucursal sur,calle 321 #54-76,Santander,BARRANQUILLA,6057164083,2015/03/23
+-1.0,oficina de ventas,avenida 654 #87-09,Cundinamarca,Bucaramanga,6030029684,2010/04/23
+8502.0,sucursal oeste,calle 321 #54-76,Cundinamarca,BARRANQUILLA,6084990984,2016/12/25
+9468.0,sucursal norte,calle 123 #45-67,Antioquia,Barranquilla,6011937422,
+853.0,oficina central,avenida 654 #87-09,Cundinamarca,MEDELLÍN,6056032326,2010/04/18
+7158.0,oficina de ventas,avenida 654 #87-09,Santander,MEDELLÍN,6098767894,2010/10/25
+6424.0,sucursal norte,avenida 456 #78-90,Santander,Cali,6099298824,
+6399.0,sucursal oeste,avenida 654 #87-09,Santander,Bucaramanga,6092381230,
+3999.0,oficina regional,avenida 456 #78-90,Valle del Cauca,MEDELLÍN,6058960789,2012/02/13
+6713.0,sucursal sur,avenida 654 #87-09,Santander,Barranquilla,6027452051,2012/08/04
+9662.0,sucursal sur,calle 123 #45-67,Santander,Bucaramanga,6074557996,
+5560.0,oficina secundaria,calle 321 #54-76,Santander,CALI,6093413869,2012/02/09
+6589.0,oficina local,calle 123 #45-67,Antioquia,Cali,6022461609,
+594.0,sucursal oeste,avenida 456 #78-90,Valle del Cauca,CALI,6069774850,2017/03/03
+5669.0,sucursal norte,avenida 654 #87-09,Cundinamarca,Bucaramanga,6040449470,
+7128.0,sucursal norte,calle 123 #45-67,Atlántico,Bogotá,6045935863,2017/09/15
+4157.0,oficina regional,avenida 654 #87-09,Atlántico,BUCARAMANGA,6018289145,2012/03/13
+9639.0,oficina principal,carrera 789 #12-34,Antioquia,BOGOTÁ,6082353743,2016/11/26
+5875.0,oficina regional,calle 123 #45-67,Santander,Bogotá,6086205602,2013/05/11
+7952.0,oficina de ventas,calle 123 #45-67,Antioquia,Barranquilla,6061103497,
+5223.0,oficina central,calle 123 #45-67,Santander,Medellín,6016891486,2014/07/09
+458.0,oficina de ventas,avenida 456 #78-90,Cundinamarca,Bogotá,6019465951,
+4861.0,oficina regional,carrera 789 #12-34,Santander,Bogotá,6089761062,2017/10/24
+6614.0,sucursal oeste,avenida 456 #78-90,Atlántico,BOGOTÁ,6030330093,2016/04/30
+2247.0,sucursal norte,calle 123 #45-67,Cundinamarca,Barranquilla,6038172711,
+932.0,oficina secundaria,avenida 456 #78-90,Santander,BARRANQUILLA,6066384822,2015/09/21
+1824.0,sucursal norte,avenida 456 #78-90,Antioquia,Medellín,6036486700,2014/04/30
+6961.0,oficina de ventas,avenida 456 #78-90,Santander,CALI,6099490583,2016/10/06
+-1.0,oficina local,calle 321 #54-76,Santander,Medellín,6082764680,2014/10/31
+2836.0,sucursal este,avenida 456 #78-90,Atlántico,Cali,6034037763,2011/05/01
+0.0,oficina central,calle 321 #54-76,Santander,Cali,6063727013,2018/04/18
+5614.0,sucursal sur,avenida 456 #78-90,Atlántico,Bogotá,6041641865,
+3549.0,oficina central,avenida 654 #87-09,Antioquia,Medellín,6089987909,
+9633.0,oficina secundaria,carrera 789 #12-34,Santander,Bucaramanga,6026906389,
+4321.0,sucursal norte,calle 321 #54-76,Valle del Cauca,Cali,6076739848,
+9752.0,sucursal este,carrera 789 #12-34,Cundinamarca,Barranquilla,602247824,2010/06/01
+8919.0,oficina regional,carrera 789 #12-34,Cundinamarca,Barranquilla,6069040787,
+7955.0,oficina central,avenida 654 #87-09,Valle del Cauca,Medellín,6057128997,2016/07/09
+7418.0,sucursal oeste,avenida 456 #78-90,Antioquia,Bucaramanga,6044371156,2010/06/29
+2747.0,oficina local,avenida 654 #87-09,Atlántico,Barranquilla,6070882528,
+2084.0,oficina regional,calle 321 #54-76,Antioquia,BOGOTÁ,6039107441,2013/12/09
+0.0,oficina local,avenida 456 #78-90,Atlántico,Barranquilla,6077170647,2014/10/15
+7074.0,sucursal este,carrera 789 #12-34,Santander,BARRANQUILLA,6071167318,2015/03/23
+7695.0,sucursal norte,carrera 789 #12-34,Cundinamarca,CALI,6025847360,2017/09/01
+8152.0,sucursal oeste,carrera 789 #12-34,Santander,Medellín,6069777623,2018/03/05
+9970.0,sucursal este,avenida 654 #87-09,Cundinamarca,Cali,6067105091,
+729.0,oficina central,avenida 654 #87-09,Cundinamarca,BARRANQUILLA,6053130379,2013/03/19
+1529.0,oficina secundaria,calle 321 #54-76,Santander,MEDELLÍN,6081736561,2011/01/23
+6552.0,sucursal este,avenida 456 #78-90,Valle del Cauca,Medellín,6023181783,
+7828.0,oficina central,avenida 654 #87-09,Cundinamarca,Medellín,6066578423,2014/08/13
+7667.0,sucursal sur,avenida 456 #78-90,Valle del Cauca,Cali,6034864045,
+641.0,oficina de ventas,avenida 654 #87-09,Antioquia,CALI,6049542312,2016/09/26
+0.0,sucursal norte,carrera 789 #12-34,Cundinamarca,Barranquilla,6038096202,2014/07/18
+2614.0,oficina principal,calle 123 #45-67,Antioquia,Cali,6090189970,
+7760.0,oficina regional,calle 123 #45-67,Atlántico,Bogotá,6020064615,
+8763.0,sucursal norte,carrera 789 #12-34,Cundinamarca,Bogotá,6080061092,2019/04/20
+7111.0,oficina secundaria,avenida 456 #78-90,Cundinamarca,Medellín,6080372633,2018/11/13
+6762.0,oficina secundaria,calle 321 #54-76,Santander,Bucaramanga,6066015639,2017/05/04
+9587.0,sucursal sur,calle 123 #45-67,Santander,CALI,6031434905,2018/08/14
+8754.0,oficina central,avenida 456 #78-90,Santander,BOGOTÁ,6022683083,2011/12/20
+5207.0,oficina de ventas,carrera 789 #12-34,Cundinamarca,Cali,6036724974,
+-1.0,sucursal este,calle 123 #45-67,Antioquia,Bucaramanga,6072697197,2014/10/31
+6497.0,oficina de ventas,avenida 456 #78-90,Santander,Medellín,606990883,2010/10/08
+8188.0,oficina principal,calle 321 #54-76,Antioquia,Bucaramanga,6046513474,
+4460.0,oficina secundaria,carrera 789 #12-34,Atlántico,Bogotá,6050331714,2013/11/24
+3157.0,oficina secundaria,calle 321 #54-76,Valle del Cauca,Cali,6027247430,
+4120.0,oficina local,avenida 456 #78-90,Atlántico,Barranquilla,6083565015,2012/08/28
+1158.0,oficina local,calle 123 #45-67,Valle del Cauca,Medellín,6022698471,2012/12/31
+7968.0,sucursal sur,avenida 654 #87-09,Valle del Cauca,BUCARAMANGA,6077199793,2017/04/03
+-1.0,sucursal norte,avenida 456 #78-90,Atlántico,Barranquilla,6095434429,2016/12/17
+5931.0,oficina local,calle 123 #45-67,Antioquia,BARRANQUILLA,6063763729,2010/01/11
+8645.0,oficina secundaria,calle 123 #45-67,Antioquia,Medellín,6048340345,2014/06/06
+3476.0,oficina central,carrera 789 #12-34,Atlántico,CALI,6016580290,2013/04/30
+-1.0,oficina secundaria,calle 321 #54-76,Santander,Barranquilla,6055604859,2019/08/09
+941.0,sucursal norte,avenida 654 #87-09,Valle del Cauca,Barranquilla,6077481949,2019/02/02
+2664.0,sucursal oeste,calle 123 #45-67,Valle del Cauca,Medellín,6075729251,
+4098.0,oficina regional,calle 321 #54-76,Cundinamarca,Cali,6029292901,
+3801.0,sucursal sur,avenida 456 #78-90,Santander,Barranquilla,6079728806,
+2983.0,sucursal este,calle 123 #45-67,Atlántico,BUCARAMANGA,6097036442,2012/11/25
+5213.0,sucursal oeste,calle 123 #45-67,Cundinamarca,BUCARAMANGA,6021226177,2011/10/08
+3065.0,oficina principal,calle 321 #54-76,Valle del Cauca,Cali,6042522288,
+2212.0,sucursal oeste,calle 321 #54-76,Valle del Cauca,BUCARAMANGA,6096195746,2019/09/21
+-1.0,oficina secundaria,avenida 456 #78-90,Antioquia,Bucaramanga,6091498986,2018/01/23
+2101.0,oficina principal,calle 123 #45-67,Antioquia,MEDELLÍN,6016788180,2011/04/20
+5976.0,sucursal este,avenida 654 #87-09,Antioquia,BUCARAMANGA,6049900000,2011/10/25
+9771.0,sucursal este,avenida 654 #87-09,Atlántico,MEDELLÍN,6091926043,2018/04/02
+2372.0,oficina central,carrera 789 #12-34,Valle del Cauca,MEDELLÍN,6065069601,2018/03/13
+5372.0,oficina principal,avenida 654 #87-09,Santander,CALI,6036258508,2016/11/16
+7418.0,oficina de ventas,calle 123 #45-67,Cundinamarca,Cali,6042506192,2017/05/14
+6426.0,oficina secundaria,avenida 456 #78-90,Santander,Medellín,6067626360,
+5445.0,oficina regional,avenida 456 #78-90,Santander,Bucaramanga,6036114359,
+9766.0,oficina regional,carrera 789 #12-34,Santander,Cali,6082603258,2015/12/01
+7834.0,sucursal norte,avenida 654 #87-09,Antioquia,Cali,6054356186,
+8948.0,sucursal este,calle 123 #45-67,Atlántico,CALI,6077606076,2013/10/17
+1545.0,sucursal norte,avenida 456 #78-90,Antioquia,MEDELLÍN,6092533845,2016/07/24
+7738.0,oficina regional,avenida 456 #78-90,Atlántico,Bucaramanga,6070113791,
+9797.0,oficina de ventas,avenida 654 #87-09,Valle del Cauca,Medellín,6039781105,
+4684.0,sucursal sur,calle 123 #45-67,Santander,Barranquilla,6097899757,2011/08/29
+4583.0,sucursal oeste,avenida 654 #87-09,Valle del Cauca,Medellín,6064005064,
+4978.0,sucursal norte,calle 123 #45-67,Atlántico,Bogotá,6046337923,
+5880.0,oficina local,avenida 456 #78-90,Valle del Cauca,Bogotá,6082161283,
+535.0,sucursal este,avenida 654 #87-09,Antioquia,Cali,6037759968,
+408.0,oficina regional,avenida 456 #78-90,Antioquia,Bogotá,6050353874,
+2621.0,oficina central,avenida 456 #78-90,Santander,BOGOTÁ,6033320095,2015/02/14
+-1.0,oficina secundaria,carrera 789 #12-34,Atlántico,Bucaramanga,6070741458,2017/07/31
+2188.0,oficina local,carrera 789 #12-34,Atlántico,Bogotá,6047014324,2013/07/21
+9120.0,sucursal este,avenida 456 #78-90,Atlántico,Medellín,6014219511,
+8483.0,sucursal este,avenida 456 #78-90,Atlántico,Medellín,6074816547,
+5986.0,oficina regional,avenida 654 #87-09,Valle del Cauca,BARRANQUILLA,6096449354,2011/11/21
+3261.0,sucursal norte,calle 123 #45-67,Atlántico,Bucaramanga,6080677161,2013/10/12
+3885.0,oficina regional,carrera 789 #12-34,Antioquia,BUCARAMANGA,6031475808,2012/03/15
+7035.0,sucursal oeste,carrera 789 #12-34,Cundinamarca,BARRANQUILLA,6072576565,2019/08/15
+-1.0,oficina de ventas,carrera 789 #12-34,Valle del Cauca,Barranquilla,6055458615,2014/01/31
+933.0,sucursal sur,calle 123 #45-67,Cundinamarca,Barranquilla,6062109622,2010/09/09
+7611.0,oficina local,calle 123 #45-67,Santander,Cali,6022177735,2014/03/30
+8667.0,oficina principal,avenida 456 #78-90,Santander,Medellín,6050783985,
+865.0,oficina central,calle 321 #54-76,Santander,Cali,6055922400,2011/01/09
+5387.0,oficina central,carrera 789 #12-34,Cundinamarca,Barranquilla,6051563995,2017/10/23
+5133.0,oficina local,avenida 456 #78-90,Atlántico,Barranquilla,6012450122,2018/12/25
+2674.0,oficina secundaria,carrera 789 #12-34,Antioquia,Cali,6017822235,2010/05/30
+7967.0,oficina local,avenida 654 #87-09,Valle del Cauca,Bogotá,6010246182,2014/10/12
+3621.0,sucursal este,calle 321 #54-76,Valle del Cauca,Barranquilla,6066594169,2011/09/11
+1275.0,sucursal sur,avenida 456 #78-90,Atlántico,CALI,6034447184,2013/05/22
+9033.0,sucursal oeste,avenida 654 #87-09,Valle del Cauca,MEDELLÍN,6074855053,2011/05/05
+5219.0,oficina regional,avenida 654 #87-09,Cundinamarca,Bucaramanga,6084324912,2012/01/06
+6105.0,oficina principal,calle 321 #54-76,Antioquia,Medellín,6042418592,2019/10/21
+9339.0,sucursal norte,carrera 789 #12-34,Cundinamarca,BARRANQUILLA,6016368462,2014/04/24
+2379.0,oficina central,carrera 789 #12-34,Valle del Cauca,Cali,604335854,2016/08/17
+897.0,sucursal oeste,carrera 789 #12-34,Cundinamarca,CALI,6060143625,2018/10/16
+5144.0,sucursal sur,carrera 789 #12-34,Valle del Cauca,BARRANQUILLA,6094935322,2019/04/18
+2694.0,sucursal norte,avenida 456 #78-90,Atlántico,MEDELLÍN,6070262981,2018/11/13
+3818.0,oficina de ventas,carrera 789 #12-34,Santander,Bucaramanga,6051241130,
+4942.0,oficina secundaria,carrera 789 #12-34,Antioquia,Cali,6065733050,
+5960.0,sucursal oeste,carrera 789 #12-34,Valle del Cauca,Barranquilla,6070832323,
+0.0,oficina central,carrera 789 #12-34,Valle del Cauca,Bucaramanga,6089100489,2014/08/24
+7568.0,oficina principal,calle 123 #45-67,Atlántico,Bogotá,6088196410,2011/10/20
+1560.0,oficina de ventas,avenida 654 #87-09,Cundinamarca,Medellín,606998611,2012/09/29
+9568.0,sucursal norte,carrera 789 #12-34,Atlántico,Barranquilla,6016188649,
+7952.0,sucursal este,avenida 654 #87-09,Cundinamarca,Bogotá,6058680200,2010/04/05
+9360.0,sucursal oeste,avenida 456 #78-90,Atlántico,BUCARAMANGA,6058253462,2013/04/27
+9068.0,sucursal sur,avenida 456 #78-90,Santander,BUCARAMANGA,6071822497,2016/01/10
+9427.0,oficina de ventas,avenida 456 #78-90,Antioquia,Barranquilla,6039182475,
+0.0,oficina regional,calle 321 #54-76,Valle del Cauca,Bogotá,6084578959,2017/11/10
+9452.0,oficina de ventas,carrera 789 #12-34,Santander,Bogotá,6095076003,2010/11/29
+1277.0,sucursal sur,avenida 456 #78-90,Valle del Cauca,Medellín,6017341724,2015/06/24
+-1.0,oficina secundaria,calle 123 #45-67,Atlántico,Cali,6046185972,2012/07/27
+9399.0,oficina de ventas,calle 123 #45-67,Antioquia,BOGOTÁ,6075438046,2015/04/11
+2093.0,sucursal oeste,carrera 789 #12-34,Santander,MEDELLÍN,6019821537,2013/07/11
+2884.0,sucursal sur,avenida 654 #87-09,Valle del Cauca,BOGOTÁ,6098404182,2019/04/16
+1737.0,sucursal oeste,avenida 654 #87-09,Antioquia,Cali,6011016363,2014/04/03
+0.0,oficina local,calle 123 #45-67,Valle del Cauca,Bucaramanga,6015169636,2013/01/24
+2067.0,oficina local,calle 321 #54-76,Antioquia,Cali,6089649978,
+4208.0,sucursal norte,calle 321 #54-76,Antioquia,Bucaramanga,6032326222,2017/03/27
+9787.0,sucursal norte,avenida 654 #87-09,Santander,BOGOTÁ,6079933793,2019/02/20
+5422.0,sucursal sur,avenida 654 #87-09,Atlántico,BOGOTÁ,6033619897,2019/12/06
+6027.0,oficina principal,avenida 456 #78-90,Santander,Bucaramanga,6026556666,
+-1.0,sucursal norte,calle 321 #54-76,Santander,Barranquilla,6061977281,2019/02/20
+4649.0,oficina regional,calle 123 #45-67,Antioquia,Bucaramanga,6084142142,2015/07/26
+321.0,sucursal oeste,calle 123 #45-67,Atlántico,BUCARAMANGA,6078421421,2015/06/05
+8820.0,oficina de ventas,calle 321 #54-76,Antioquia,Medellín,6084393130,
+8836.0,sucursal oeste,calle 321 #54-76,Santander,Bucaramanga,6010084439,
+9892.0,oficina secundaria,calle 321 #54-76,Valle del Cauca,Medellín,6013332500,
+5092.0,sucursal este,carrera 789 #12-34,Atlántico,Cali,6029148263,
+7440.0,oficina secundaria,avenida 456 #78-90,Santander,BUCARAMANGA,6099536105,2014/11/21
+6901.0,oficina de ventas,avenida 456 #78-90,Atlántico,CALI,6095586943,2019/12/27
+7368.0,sucursal norte,calle 321 #54-76,Valle del Cauca,Barranquilla,6028558364,2016/07/27
+2028.0,oficina local,carrera 789 #12-34,Antioquia,CALI,6032799556,2016/12/28
+1988.0,sucursal oeste,calle 123 #45-67,Santander,Cali,6077209076,
+9010.0,oficina regional,calle 123 #45-67,Antioquia,Barranquilla,6058398647,2010/08/02
+2160.0,oficina regional,calle 123 #45-67,Valle del Cauca,Cali,6074536283,2010/08/16
+1321.0,oficina central,calle 321 #54-76,Cundinamarca,BUCARAMANGA,6071675433,2017/01/11
+2117.0,oficina secundaria,calle 123 #45-67,Cundinamarca,Cali,6035127924,
+7241.0,oficina regional,avenida 456 #78-90,Atlántico,CALI,6019013673,2019/11/29
+3913.0,oficina regional,carrera 789 #12-34,Valle del Cauca,Medellín,6017491442,
+3098.0,sucursal oeste,calle 123 #45-67,Valle del Cauca,Bucaramanga,6059694027,
+-1.0,oficina central,avenida 654 #87-09,Atlántico,Bucaramanga,6043859087,2012/06/22
+182.0,oficina principal,calle 123 #45-67,Antioquia,BUCARAMANGA,6036273193,2016/03/25
+617.0,sucursal sur,carrera 789 #12-34,Santander,MEDELLÍN,6095691984,2015/09/04
+1302.0,sucursal este,calle 123 #45-67,Antioquia,Medellín,6090753622,2012/07/14
+6449.0,oficina local,avenida 456 #78-90,Valle del Cauca,Bogotá,6029544860,2013/01/13
+2775.0,oficina secundaria,calle 321 #54-76,Santander,Bogotá,603085068,2012/12/15
+6554.0,sucursal este,calle 321 #54-76,Antioquia,CALI,6071833230,2012/03/10
+2223.0,oficina principal,calle 123 #45-67,Antioquia,Cali,6092672304,2015/05/15
+8273.0,oficina principal,avenida 654 #87-09,Atlántico,BARRANQUILLA,6059257267,2017/10/09
+-1.0,oficina principal,carrera 789 #12-34,Cundinamarca,Barranquilla,6086311633,2012/12/23
+0.0,oficina central,avenida 456 #78-90,Cundinamarca,Bogotá,6047189721,2017/07/31
+0.0,sucursal norte,calle 123 #45-67,Antioquia,Cali,6040790256,2018/03/11
+8363.0,sucursal norte,carrera 789 #12-34,Atlántico,Bucaramanga,6054734017,2018/09/03
+0.0,oficina regional,calle 321 #54-76,Cundinamarca,Cali,6023039351,2010/07/29
+64.0,oficina de ventas,avenida 654 #87-09,Atlántico,Barranquilla,6084696018,2012/01/05
+8547.0,sucursal este,calle 123 #45-67,Santander,Bucaramanga,6087013824,2018/03/07
+7600.0,sucursal oeste,calle 321 #54-76,Santander,Bucaramanga,6019729888,
+6985.0,sucursal sur,avenida 654 #87-09,Cundinamarca,Medellín,6050267489,
+9507.0,oficina local,carrera 789 #12-34,Cundinamarca,Bogotá,6065030722,
+5584.0,oficina secundaria,calle 321 #54-76,Valle del Cauca,MEDELLÍN,6017334643,2010/07/09
+7043.0,oficina principal,carrera 789 #12-34,Cundinamarca,Barranquilla,6016019764,
+0.0,oficina de ventas,avenida 654 #87-09,Antioquia,Cali,6094122712,2015/08/14
+8740.0,oficina de ventas,calle 321 #54-76,Valle del Cauca,BOGOTÁ,6064691935,2016/05/17
+5393.0,oficina regional,carrera 789 #12-34,Valle del Cauca,Cali,6014897017,
+307.0,sucursal norte,calle 321 #54-76,Atlántico,Cali,6058005563,
+9660.0,oficina local,calle 321 #54-76,Cundinamarca,MEDELLÍN,6029097390,2013/06/17
+7347.0,oficina de ventas,carrera 789 #12-34,Atlántico,MEDELLÍN,6025651665,2017/02/10
+1726.0,sucursal oeste,avenida 654 #87-09,Atlántico,BARRANQUILLA,6027354564,2013/08/29
+540.0,sucursal este,avenida 456 #78-90,Antioquia,Bucaramanga,6066670009,
+347.0,sucursal este,avenida 456 #78-90,Antioquia,BOGOTÁ,6069096089,2017/09/16
+7929.0,sucursal este,carrera 789 #12-34,Santander,BUCARAMANGA,6089311500,2010/08/05
+6109.0,oficina de ventas,calle 123 #45-67,Atlántico,Bucaramanga,6015073937,
+6982.0,sucursal sur,calle 123 #45-67,Cundinamarca,Bucaramanga,6046496726,2014/09/30
+7074.0,oficina de ventas,carrera 789 #12-34,Valle del Cauca,Bucaramanga,6081727043,2017/06/20
+7095.0,sucursal este,carrera 789 #12-34,Cundinamarca,Bucaramanga,6094127781,
+2891.0,oficina principal,carrera 789 #12-34,Atlántico,Barranquilla,6042205656,
+5602.0,oficina principal,avenida 456 #78-90,Valle del Cauca,Bucaramanga,6021377440,
+0.0,sucursal oeste,calle 123 #45-67,Valle del Cauca,Bogotá,6029460642,2010/08/12
+7368.0,oficina local,carrera 789 #12-34,Antioquia,Bogotá,6097971792,
+141.0,sucursal norte,calle 321 #54-76,Antioquia,MEDELLÍN,6076765588,2017/08/27
+6340.0,oficina regional,avenida 654 #87-09,Santander,CALI,6058095679,2014/04/13
+1917.0,oficina principal,avenida 654 #87-09,Valle del Cauca,BOGOTÁ,6015904048,2010/07/25
+2986.0,oficina secundaria,avenida 456 #78-90,Santander,BARRANQUILLA,6090704997,2019/12/13
+8016.0,sucursal sur,calle 321 #54-76,Cundinamarca,CALI,6020246362,2018/10/14
+1016.0,oficina secundaria,avenida 654 #87-09,Cundinamarca,Medellín,6022293197,2017/11/19
+3286.0,oficina de ventas,carrera 789 #12-34,Cundinamarca,Barranquilla,6081205104,
+7253.0,oficina local,calle 321 #54-76,Cundinamarca,Barranquilla,6057937272,
+8904.0,sucursal norte,avenida 456 #78-90,Antioquia,Bogotá,6046702255,
+3275.0,sucursal oeste,calle 123 #45-67,Atlántico,Bucaramanga,6035155562,
+8202.0,oficina regional,calle 123 #45-67,Antioquia,Medellín,6056299277,
+4920.0,oficina de ventas,calle 123 #45-67,Cundinamarca,Bogotá,6068936661,
+1404.0,sucursal oeste,avenida 654 #87-09,Atlántico,CALI,6023968741,2012/01/06
+9599.0,oficina local,avenida 654 #87-09,Cundinamarca,BARRANQUILLA,6040203208,2012/10/26
+2081.0,oficina local,avenida 654 #87-09,Santander,BUCARAMANGA,6061223265,2015/07/26
+5461.0,oficina local,calle 321 #54-76,Santander,Bogotá,6044445321,2013/07/10
+6407.0,oficina local,carrera 789 #12-34,Antioquia,Barranquilla,6091916492,2010/06/02
+5074.0,sucursal oeste,avenida 456 #78-90,Antioquia,Barranquilla,6035543063,
+7780.0,sucursal norte,calle 123 #45-67,Cundinamarca,Cali,6073845979,2019/05/01
+9933.0,sucursal norte,avenida 456 #78-90,Cundinamarca,Barranquilla,6068820054,2014/05/12
+3266.0,oficina central,calle 321 #54-76,Atlántico,Bucaramanga,6068317118,
+5829.0,oficina de ventas,calle 123 #45-67,Santander,Cali,6075854091,
+3583.0,oficina central,calle 321 #54-76,Atlántico,Medellín,6097940825,2011/01/05
+254.0,oficina central,calle 123 #45-67,Cundinamarca,Bucaramanga,6041569595,2010/02/12
+2362.0,oficina de ventas,carrera 789 #12-34,Valle del Cauca,BOGOTÁ,6017449212,2014/12/16
+5717.0,oficina principal,avenida 654 #87-09,ANTIOQUIA,Barranquilla,6032259592,2015/03/13
+7510.0,oficina central,carrera 789 #12-34,Valle del Cauca,BARRANQUILLA,6024835981,2011/04/06
+7645.0,sucursal oeste,avenida 654 #87-09,Valle del Cauca,Cali,6078582982,
+3859.0,sucursal oeste,avenida 654 #87-09,Antioquia,CALI,6011310997,2014/06/05
+0.0,sucursal este,calle 321 #54-76,Valle del Cauca,Medellín,6031135493,2016/06/08
+4694.0,oficina central,carrera 789 #12-34,Atlántico,MEDELLÍN,6074085503,2019/06/27
+7349.0,oficina de ventas,calle 321 #54-76,Valle del Cauca,Cali,6042783251,2010/05/16
+0.0,oficina regional,avenida 654 #87-09,Atlántico,Bucaramanga,6079719420,2011/09/07
+331.0,sucursal este,carrera 789 #12-34,Santander,Medellín,6095847366,2019/07/29
+2391.0,oficina secundaria,avenida 654 #87-09,Cundinamarca,Bucaramanga,6093377876,2010/06/05
+8936.0,sucursal este,carrera 789 #12-34,Atlántico,MEDELLÍN,6072353319,2014/01/30
+7379.0,oficina secundaria,avenida 456 #78-90,Antioquia,Medellín,6087006531,2012/03/01
+6230.0,oficina regional,calle 123 #45-67,Atlántico,Barranquilla,6088646507,
+7455.0,oficina de ventas,avenida 654 #87-09,Atlántico,Medellín,6070291493,
+8823.0,sucursal sur,calle 321 #54-76,Atlántico,Barranquilla,6096448329,2010/08/24
+6715.0,sucursal este,calle 123 #45-67,Antioquia,Bucaramanga,6077525935,
+-1.0,oficina regional,avenida 456 #78-90,Antioquia,Bogotá,6090652055,2010/03/11
+8321.0,oficina principal,avenida 654 #87-09,Valle del Cauca,Medellín,6064405005,2011/10/01
+3510.0,sucursal oeste,carrera 789 #12-34,Santander,Medellín,6063458343,
+6164.0,oficina principal,avenida 456 #78-90,Atlántico,Bogotá,6089763589,
+344.0,oficina central,avenida 654 #87-09,Atlántico,Medellín,6013858957,
+1387.0,oficina principal,carrera 789 #12-34,Cundinamarca,Barranquilla,6064093994,
+5277.0,oficina secundaria,carrera 789 #12-34,Valle del Cauca,BOGOTÁ,6078158905,2012/12/08
+9431.0,sucursal oeste,avenida 654 #87-09,Cundinamarca,Cali,6025994963,2018/10/23
+3318.0,sucursal este,calle 321 #54-76,Cundinamarca,Barranquilla,6072842621,2014/05/11
+2207.0,oficina de ventas,carrera 789 #12-34,Antioquia,Barranquilla,6019308485,
+9587.0,sucursal oeste,avenida 654 #87-09,Antioquia,CALI,6016364294,2014/02/22
+6753.0,sucursal este,carrera 789 #12-34,Valle del Cauca,BARRANQUILLA,6026950420,2015/07/01
+5617.0,oficina local,calle 123 #45-67,Valle del Cauca,BARRANQUILLA,6078711420,2018/06/21
+-1.0,oficina de ventas,calle 321 #54-76,Antioquia,Bogotá,6070047136,2010/08/03
+-1.0,oficina de ventas,carrera 789 #12-34,Atlántico,Bucaramanga,6026785274,2013/06/04
+5451.0,oficina de ventas,carrera 789 #12-34,Valle del Cauca,Cali,6089417960,2011/06/13
+8174.0,sucursal sur,avenida 654 #87-09,Santander,MEDELLÍN,6019044368,2012/02/02
+8969.0,oficina central,carrera 789 #12-34,Cundinamarca,Bogotá,6098760467,
+4440.0,oficina central,avenida 456 #78-90,Atlántico,Barranquilla,6022417664,
+1639.0,oficina regional,carrera 789 #12-34,Atlántico,Medellín,606382578,2011/08/22
+6995.0,sucursal este,carrera 789 #12-34,Santander,Bucaramanga,6055065727,2017/09/10
+6112.0,oficina principal,calle 321 #54-76,Atlántico,Barranquilla,6037015780,2014/12/26
+2856.0,sucursal oeste,calle 321 #54-76,Santander,Barranquilla,6056980404,2018/01/03
+8979.0,oficina central,avenida 654 #87-09,Antioquia,Barranquilla,6022627467,
+4719.0,oficina central,calle 123 #45-67,Cundinamarca,Medellín,6041360500,
+1596.0,sucursal oeste,avenida 654 #87-09,Santander,Bogotá,6022036800,2016/08/01
+9586.0,sucursal norte,carrera 789 #12-34,Antioquia,Cali,6046037216,2019/04/12
+573.0,oficina de ventas,carrera 789 #12-34,Valle del Cauca,BARRANQUILLA,6015722290,2012/02/07
+-1.0,sucursal oeste,avenida 654 #87-09,Cundinamarca,Bogotá,6052655774,2017/06/02
+6750.0,sucursal este,carrera 789 #12-34,Atlántico,Bogotá,6016848828,
+9651.0,oficina de ventas,carrera 789 #12-34,Cundinamarca,Bucaramanga,6031418122,2010/02/03
+-1.0,oficina de ventas,carrera 789 #12-34,Atlántico,Bogotá,6079102296,2016/05/12
+-1.0,oficina secundaria,calle 123 #45-67,Antioquia,Medellín,6052603680,2018/08/26
+1190.0,sucursal norte,carrera 789 #12-34,Valle del Cauca,Medellín,601450357,2010/07/05
+2886.0,sucursal sur,avenida 456 #78-90,Valle del Cauca,BOGOTÁ,6036949034,2013/07/02
+9839.0,sucursal oeste,carrera 789 #12-34,Santander,Bogotá,6017104845,2014/08/12
+4242.0,sucursal norte,avenida 654 #87-09,Santander,Bucaramanga,6062150900,2014/04/13
+9541.0,oficina regional,carrera 789 #12-34,Atlántico,Bucaramanga,6087281539,
+7652.0,sucursal sur,avenida 456 #78-90,Antioquia,Bogotá,6026943798,
+1512.0,oficina regional,calle 123 #45-67,Valle del Cauca,Bogotá,6095333715,2018/06/04
+4948.0,oficina local,carrera 789 #12-34,Santander,Barranquilla,6070677360,
+3144.0,sucursal este,carrera 789 #12-34,Atlántico,Medellín,6040485689,
+3954.0,sucursal oeste,calle 321 #54-76,Antioquia,Bogotá,6065430121,2017/02/18
+1690.0,oficina local,carrera 789 #12-34,Valle del Cauca,Bogotá,6012858482,
+4509.0,oficina central,avenida 456 #78-90,Santander,Barranquilla,6031201026,2019/08/24
+269.0,oficina secundaria,avenida 654 #87-09,Valle del Cauca,Barranquilla,6093638158,2010/04/07
+1893.0,oficina central,avenida 654 #87-09,Santander,MEDELLÍN,6038454671,2017/05/30
+1863.0,oficina local,avenida 654 #87-09,Valle del Cauca,BARRANQUILLA,6048832743,2010/11/29
+7167.0,sucursal este,carrera 789 #12-34,Valle del Cauca,Barranquilla,6045263284,
+2087.0,oficina secundaria,carrera 789 #12-34,Antioquia,BUCARAMANGA,6081853359,2017/10/24
+6114.0,oficina de ventas,carrera 789 #12-34,Cundinamarca,Cali,6099161621,2013/07/20
+0.0,oficina regional,calle 321 #54-76,Atlántico,Barranquilla,6099031610,2015/12/04
+3957.0,oficina regional,calle 321 #54-76,Valle del Cauca,BOGOTÁ,6080789731,2016/10/28
+4559.0,sucursal norte,calle 321 #54-76,Antioquia,Bogotá,6084259048,
+4532.0,sucursal este,avenida 654 #87-09,Cundinamarca,BARRANQUILLA,6091972692,2014/07/29
+2844.0,sucursal norte,carrera 789 #12-34,Santander,MEDELLÍN,6047516771,2012/06/07
+9382.0,sucursal sur,avenida 654 #87-09,Santander,BUCARAMANGA,6040812993,2011/07/21
+4721.0,oficina central,avenida 654 #87-09,Antioquia,Medellín,6057257474,2013/06/12
+5194.0,sucursal norte,calle 123 #45-67,Cundinamarca,Bogotá,6064521796,
+1928.0,oficina principal,avenida 456 #78-90,Atlántico,Barranquilla,608132011,2011/08/21
+8323.0,oficina de ventas,avenida 456 #78-90,Cundinamarca,Bucaramanga,6061857598,2017/03/15
+2062.0,oficina principal,avenida 456 #78-90,Santander,BUCARAMANGA,6010826965,2014/04/17
+8393.0,sucursal oeste,calle 321 #54-76,Antioquia,BARRANQUILLA,6022423011,2015/04/08
+6845.0,oficina central,calle 123 #45-67,Valle del Cauca,Bogotá,6027453282,2018/01/10
+1430.0,oficina local,avenida 456 #78-90,Antioquia,CALI,6087239993,2016/05/05
+9777.0,oficina de ventas,carrera 789 #12-34,Antioquia,BOGOTÁ,6097167887,2017/05/15
+3629.0,oficina principal,calle 123 #45-67,Cundinamarca,BOGOTÁ,6089436930,2012/12/31
+5005.0,oficina secundaria,avenida 456 #78-90,Atlántico,Cali,6085403232,2016/11/01
+9168.0,oficina de ventas,avenida 654 #87-09,Valle del Cauca,CALI,6035775300,2012/11/08
+4621.0,oficina central,avenida 456 #78-90,Cundinamarca,MEDELLÍN,6088355422,2014/04/21
+1869.0,sucursal sur,calle 123 #45-67,Cundinamarca,Barranquilla,6084738329,2014/08/13
+8393.0,oficina regional,calle 123 #45-67,Atlántico,BUCARAMANGA,6076325186,2014/08/09
+0.0,sucursal este,avenida 456 #78-90,Cundinamarca,Cali,6045904920,2017/12/02
+6398.0,oficina de ventas,carrera 789 #12-34,Santander,CALI,6025774500,2018/01/27
+5668.0,oficina secundaria,avenida 456 #78-90,SANTANDER,Cali,6021886285,2016/10/17
+3930.0,oficina de ventas,calle 321 #54-76,Atlántico,Bogotá,609913478,2011/09/05
+7786.0,oficina local,calle 123 #45-67,Atlántico,Bogotá,6068583127,2019/01/16
+9256.0,sucursal oeste,carrera 789 #12-34,Antioquia,Barranquilla,6027552909,2019/03/27
+3687.0,oficina regional,avenida 654 #87-09,Cundinamarca,Cali,604796590,2014/09/27
+3816.0,oficina secundaria,calle 123 #45-67,Antioquia,Barranquilla,6029675408,2013/03/16
+2776.0,oficina central,calle 123 #45-67,Valle del Cauca,Cali,6014192207,
+932.0,oficina principal,calle 321 #54-76,Valle del Cauca,BOGOTÁ,6099861490,2013/08/28
+1623.0,oficina central,carrera 789 #12-34,Antioquia,Bucaramanga,6043153518,2014/06/21
+-1.0,oficina regional,carrera 789 #12-34,Atlántico,Barranquilla,6050519724,2018/03/07
+7976.0,oficina secundaria,calle 321 #54-76,Antioquia,Cali,6036317138,
+6484.0,oficina central,calle 321 #54-76,Cundinamarca,Bogotá,6016202398,2016/10/14
+-1.0,sucursal este,calle 321 #54-76,Valle del Cauca,Bogotá,6020617067,2019/02/04
+9264.0,sucursal norte,avenida 456 #78-90,Santander,Bogotá,6057932430,
+4834.0,sucursal oeste,calle 321 #54-76,Antioquia,MEDELLÍN,6019670816,2016/08/08
+4735.0,sucursal este,calle 123 #45-67,Antioquia,Medellín,6035654137,
+9390.0,oficina regional,avenida 654 #87-09,Atlántico,Bogotá,6085836154,2018/07/30
+9078.0,oficina de ventas,avenida 456 #78-90,Valle del Cauca,Medellín,6031915442,
+7861.0,oficina de ventas,carrera 789 #12-34,Cundinamarca,Bucaramanga,6069869907,
+7263.0,oficina principal,avenida 456 #78-90,Valle del Cauca,Bucaramanga,6022556801,
+6627.0,sucursal oeste,avenida 456 #78-90,Antioquia,BARRANQUILLA,6056486662,2012/08/02
+726.0,oficina principal,calle 123 #45-67,Antioquia,Bucaramanga,6044766326,
+7973.0,oficina de ventas,calle 321 #54-76,Valle del Cauca,Medellín,6095211644,
+17.0,sucursal sur,calle 321 #54-76,Antioquia,Bogotá,6057729631,
+3065.0,oficina principal,calle 123 #45-67,Santander,Bogotá,6042588797,
+121.0,oficina local,calle 123 #45-67,Atlántico,Barranquilla,606029839,2018/04/20
+9422.0,sucursal norte,carrera 789 #12-34,Antioquia,Bucaramanga,6028055887,2012/07/12
+8281.0,sucursal oeste,avenida 654 #87-09,Antioquia,Bucaramanga,6039951342,
+9297.0,sucursal oeste,avenida 654 #87-09,Cundinamarca,Barranquilla,6036546734,2016/02/01
+9887.0,sucursal norte,avenida 654 #87-09,Valle del Cauca,Bogotá,6027018025,2013/03/27
+3292.0,oficina regional,avenida 654 #87-09,Santander,Bogotá,6011065649,
+4071.0,sucursal sur,avenida 654 #87-09,Valle del Cauca,Barranquilla,6055357178,2019/03/08
+3495.0,oficina principal,calle 321 #54-76,Atlántico,BOGOTÁ,6083725154,2014/01/03
+8148.0,oficina de ventas,carrera 789 #12-34,SANTANDER,Bucaramanga,6012862164,2011/12/22
+1355.0,sucursal norte,calle 123 #45-67,Valle del Cauca,Bogotá,6035769710,
+0.0,oficina principal,carrera 789 #12-34,Cundinamarca,Bogotá,6044833560,2013/02/10
+7211.0,oficina de ventas,avenida 456 #78-90,Antioquia,Cali,6061839509,2016/11/15
+7058.0,sucursal oeste,avenida 654 #87-09,Cundinamarca,Barranquilla,6024213877,
+974.0,oficina de ventas,calle 321 #54-76,Santander,CALI,6037315751,2019/09/06
+2357.0,sucursal este,carrera 789 #12-34,Atlántico,Bogotá,605006873,2019/12/22
+2472.0,sucursal sur,calle 123 #45-67,Valle del Cauca,CALI,6080821685,2018/10/09
+2000.0,sucursal oeste,carrera 789 #12-34,Cundinamarca,Barranquilla,604795822,2018/02/05
+8243.0,oficina local,avenida 456 #78-90,Valle del Cauca,Bogotá,6077041202,
+8375.0,sucursal norte,carrera 789 #12-34,Cundinamarca,Bucaramanga,6029752067,
+9583.0,sucursal norte,calle 123 #45-67,Atlántico,Barranquilla,602734326,2019/08/18
+8825.0,oficina central,calle 123 #45-67,Santander,Bucaramanga,6060795499,2019/01/31
+5644.0,oficina principal,avenida 654 #87-09,Cundinamarca,BOGOTÁ,6017788669,2011/06/13
+-1.0,oficina principal,calle 123 #45-67,Atlántico,Medellín,6013906889,2012/09/28
+7930.0,oficina regional,calle 321 #54-76,Valle del Cauca,MEDELLÍN,6067389618,2013/11/12
+4010.0,oficina de ventas,avenida 654 #87-09,SANTANDER,Cali,6013024006,2012/04/04
+787.0,sucursal sur,carrera 789 #12-34,Valle del Cauca,Barranquilla,6012989427,2010/05/13
+4478.0,sucursal sur,avenida 456 #78-90,Santander,BUCARAMANGA,6020563080,2018/02/24
+7884.0,oficina local,calle 321 #54-76,Valle del Cauca,Bucaramanga,6015923395,
+6541.0,oficina central,carrera 789 #12-34,Antioquia,Medellín,6055616441,2019/07/12
+9321.0,oficina central,avenida 654 #87-09,Antioquia,Bogotá,6056906341,
+6034.0,oficina local,carrera 789 #12-34,Antioquia,MEDELLÍN,6012506363,2018/10/29
+4903.0,sucursal este,avenida 456 #78-90,Antioquia,Bucaramanga,6029725112,
+8779.0,sucursal oeste,calle 321 #54-76,Cundinamarca,Barranquilla,6051233561,2018/12/04
+6193.0,sucursal oeste,calle 321 #54-76,Santander,BOGOTÁ,6054980330,2011/12/16
+9597.0,sucursal norte,avenida 456 #78-90,Valle del Cauca,Medellín,6025642379,
+9958.0,oficina secundaria,avenida 654 #87-09,Cundinamarca,BARRANQUILLA,6065257357,2017/04/03
+123.0,sucursal sur,calle 321 #54-76,Valle del Cauca,Bogotá,6051093385,2013/09/12
+4673.0,sucursal oeste,carrera 789 #12-34,Antioquia,CALI,6079499421,2015/01/09
+973.0,oficina central,avenida 654 #87-09,Santander,Bogotá,6060470109,
+7670.0,sucursal oeste,carrera 789 #12-34,Santander,Medellín,6078144560,
+4993.0,oficina secundaria,calle 321 #54-76,Antioquia,MEDELLÍN,6052681625,2015/03/24
+6706.0,sucursal norte,carrera 789 #12-34,Cundinamarca,Bucaramanga,6042447372,2013/07/19
+3378.0,oficina central,calle 123 #45-67,Santander,CALI,6010762197,2017/07/24
+4160.0,oficina secundaria,calle 321 #54-76,Santander,Bucaramanga,6034764935,2011/12/23
+1047.0,oficina principal,calle 123 #45-67,Santander,Bucaramanga,6020159269,
+9308.0,sucursal oeste,calle 321 #54-76,Santander,MEDELLÍN,6075374602,2010/08/02
+9756.0,oficina local,avenida 456 #78-90,Antioquia,BUCARAMANGA,6035450478,2011/06/12
+9912.0,oficina local,calle 321 #54-76,Valle del Cauca,CALI,6038642778,2014/03/29
+3790.0,oficina de ventas,carrera 789 #12-34,Valle del Cauca,Bucaramanga,6067028499,2015/09/09
+993.0,sucursal sur,calle 321 #54-76,Valle del Cauca,Bogotá,6038111167,2013/09/19
+0.0,oficina de ventas,avenida 456 #78-90,Atlántico,Bogotá,6035727073,2018/12/25
+8696.0,oficina regional,calle 123 #45-67,Valle del Cauca,Bogotá,6048746604,
+3226.0,oficina secundaria,avenida 654 #87-09,Antioquia,Cali,6022194897,
+-1.0,oficina regional,avenida 654 #87-09,Valle del Cauca,Bucaramanga,6031849269,2016/09/07
+9655.0,oficina secundaria,carrera 789 #12-34,Santander,CALI,6017885331,2019/01/06
+5298.0,sucursal oeste,avenida 456 #78-90,Santander,Medellín,6057087773,2010/09/13
+6803.0,sucursal sur,calle 123 #45-67,Cundinamarca,BUCARAMANGA,6037755472,2010/11/29
+8504.0,oficina central,avenida 456 #78-90,Atlántico,Cali,6082008156,2013/04/27
+8404.0,sucursal este,avenida 654 #87-09,Cundinamarca,Bucaramanga,6059996393,2017/02/20
+9929.0,sucursal oeste,calle 123 #45-67,Antioquia,Bogotá,6030700166,
+8498.0,oficina de ventas,carrera 789 #12-34,Atlántico,Cali,6076164245,
+7013.0,sucursal sur,carrera 789 #12-34,Valle del Cauca,Bucaramanga,6029671411,2019/04/30
+1594.0,oficina secundaria,calle 123 #45-67,CUNDINAMARCA,Cali,6099370052,2011/04/20
+4384.0,oficina de ventas,avenida 654 #87-09,Atlántico,Bogotá,6080977046,2014/08/22
+5947.0,sucursal sur,avenida 654 #87-09,Santander,MEDELLÍN,6069699269,2015/12/02
+3855.0,oficina principal,avenida 456 #78-90,Santander,MEDELLÍN,6034201307,2013/10/22
+1089.0,sucursal norte,calle 123 #45-67,ATLÁNTICO,Bogotá,6056361558,2014/04/19
+8089.0,sucursal oeste,calle 123 #45-67,Santander,BOGOTÁ,6077110710,2019/08/30
+1856.0,sucursal oeste,avenida 456 #78-90,Atlántico,BARRANQUILLA,6021348746,2016/08/30
+8934.0,oficina local,calle 321 #54-76,Cundinamarca,Bucaramanga,6064074306,2016/02/15
+9344.0,sucursal sur,avenida 456 #78-90,Valle del Cauca,CALI,6099745710,2013/12/05
+9127.0,sucursal norte,calle 321 #54-76,Antioquia,Cali,6010027829,
+5907.0,oficina regional,calle 321 #54-76,Valle del Cauca,Medellín,6072339630,2014/07/01
+2522.0,oficina principal,calle 321 #54-76,Santander,BOGOTÁ,6041324377,2019/07/31
+5002.0,sucursal sur,calle 321 #54-76,Cundinamarca,Bogotá,6086362734,2017/03/23
+8808.0,oficina secundaria,avenida 456 #78-90,Valle del Cauca,CALI,6074903860,2014/05/06
+2999.0,sucursal este,carrera 789 #12-34,Valle del Cauca,BUCARAMANGA,6048340882,2019/05/24
+5344.0,sucursal este,avenida 456 #78-90,Valle del Cauca,Bogotá,6019368477,
+1479.0,oficina local,calle 321 #54-76,Cundinamarca,Bogotá,6054431307,
+1840.0,oficina de ventas,calle 321 #54-76,Antioquia,BUCARAMANGA,6060045023,2013/08/07
+5543.0,sucursal norte,avenida 456 #78-90,Cundinamarca,BOGOTÁ,6031327235,2010/12/15
+2871.0,oficina secundaria,calle 123 #45-67,Valle del Cauca,Cali,6047555649,2010/12/09
+1812.0,oficina principal,calle 123 #45-67,Valle del Cauca,Medellín,606198665,2018/12/03
+2291.0,sucursal este,calle 321 #54-76,Atlántico,Bucaramanga,6019893289,2017/07/09
+9180.0,sucursal este,calle 123 #45-67,Valle del Cauca,Bogotá,6086577382,
+0.0,oficina de ventas,avenida 456 #78-90,Santander,Bucaramanga,6061004201,2012/06/11
+4200.0,oficina de ventas,carrera 789 #12-34,Cundinamarca,Medellín,6097147416,2014/05/24
+0.0,oficina regional,calle 123 #45-67,Antioquia,Barranquilla,6051873818,2018/07/17
+4077.0,oficina central,avenida 654 #87-09,Valle del Cauca,Cali,6087351418,2011/11/14
+-1.0,sucursal norte,calle 123 #45-67,Antioquia,Barranquilla,6066266663,2012/07/29
+2543.0,sucursal oeste,avenida 654 #87-09,Atlántico,BUCARAMANGA,6012143335,2012/06/15
+5489.0,sucursal norte,avenida 654 #87-09,Atlántico,Bucaramanga,6085486358,
+7494.0,oficina secundaria,avenida 654 #87-09,Cundinamarca,Cali,6073867589,2011/02/16
+4884.0,sucursal sur,carrera 789 #12-34,Antioquia,Barranquilla,6014182337,
+8470.0,sucursal este,avenida 456 #78-90,Cundinamarca,Bucaramanga,6098159803,
+3328.0,oficina principal,avenida 456 #78-90,Santander,CALI,6046993103,2018/10/25
+6168.0,oficina de ventas,carrera 789 #12-34,Santander,Cali,6097237523,
+8553.0,oficina regional,calle 123 #45-67,Atlántico,Bucaramanga,6015553730,
+9667.0,oficina regional,avenida 456 #78-90,Valle del Cauca,Bucaramanga,6044840847,2014/08/16
+322.0,oficina central,avenida 654 #87-09,Cundinamarca,Bogotá,609914545,2014/12/30
+8810.0,oficina de ventas,avenida 654 #87-09,Atlántico,Barranquilla,6018062422,2014/12/08
+7684.0,oficina local,calle 321 #54-76,Valle del Cauca,BARRANQUILLA,6093178269,2014/06/15
+3087.0,sucursal sur,calle 123 #45-67,Cundinamarca,Cali,6027049264,
+8348.0,oficina regional,avenida 654 #87-09,Atlántico,Medellín,6086017704,
+7891.0,oficina local,avenida 456 #78-90,Atlántico,BOGOTÁ,6048167340,2019/10/03
+1424.0,oficina central,avenida 654 #87-09,Antioquia,BOGOTÁ,6013614018,2017/10/03
+279.0,sucursal sur,calle 123 #45-67,ANTIOQUIA,Medellín,6049230890,2013/09/19
+2952.0,oficina central,avenida 654 #87-09,Santander,CALI,6063473949,2018/12/25
+5061.0,sucursal norte,carrera 789 #12-34,Antioquia,Barranquilla,6062199145,2017/11/11
+5752.0,sucursal norte,avenida 456 #78-90,Cundinamarca,BARRANQUILLA,6093710820,2017/11/08
+849.0,oficina central,carrera 789 #12-34,Atlántico,Medellín,6041323386,
+0.0,sucursal norte,avenida 654 #87-09,Cundinamarca,Bogotá,6033773384,2018/08/01
+3126.0,sucursal sur,carrera 789 #12-34,Cundinamarca,Barranquilla,6091931340,2012/07/01
+2877.0,sucursal oeste,carrera 789 #12-34,Cundinamarca,BARRANQUILLA,6065993403,2019/07/31
+9728.0,oficina principal,calle 123 #45-67,Antioquia,Cali,6047866578,2019/09/27
+3640.0,sucursal este,avenida 654 #87-09,Atlántico,BOGOTÁ,6028537966,2014/09/28
+0.0,sucursal este,calle 123 #45-67,Antioquia,Bucaramanga,6070102882,2016/11/06
+3765.0,sucursal sur,avenida 654 #87-09,Cundinamarca,BARRANQUILLA,6032106677,2013/02/07
+4492.0,sucursal este,calle 321 #54-76,Valle del Cauca,Cali,6059248031,
+500.0,oficina de ventas,calle 321 #54-76,Valle del Cauca,CALI,6020159907,2010/12/09
+5778.0,oficina regional,carrera 789 #12-34,Valle del Cauca,BARRANQUILLA,6014867095,2018/05/26
+6644.0,sucursal norte,calle 321 #54-76,Atlántico,Barranquilla,6035663880,2017/12/30
+-1.0,oficina de ventas,calle 321 #54-76,Atlántico,Barranquilla,6030883248,2012/04/19
+8613.0,sucursal norte,carrera 789 #12-34,Santander,Bucaramanga,6020151024,2018/06/17
+49.0,oficina de ventas,carrera 789 #12-34,Cundinamarca,Medellín,6072443145,
+8207.0,sucursal este,avenida 456 #78-90,Cundinamarca,Medellín,6080101196,2010/05/29
+8631.0,sucursal norte,carrera 789 #12-34,Santander,CALI,6068800654,2010/02/05
+0.0,sucursal oeste,calle 321 #54-76,Cundinamarca,Bogotá,6088914297,2012/07/24
+7145.0,oficina local,carrera 789 #12-34,Atlántico,Bogotá,6081673365,2016/09/05
+3096.0,oficina de ventas,calle 321 #54-76,Valle del Cauca,Barranquilla,6021802121,2017/10/14
+1966.0,oficina de ventas,calle 321 #54-76,Atlántico,MEDELLÍN,6034299969,2012/05/18
+391.0,sucursal sur,avenida 456 #78-90,Santander,BUCARAMANGA,6055657443,2015/02/27
+3214.0,oficina secundaria,avenida 456 #78-90,Atlántico,Cali,6060869852,2017/05/21
+3480.0,oficina secundaria,avenida 654 #87-09,Valle del Cauca,Cali,6049674739,
+5156.0,oficina secundaria,carrera 789 #12-34,Antioquia,Cali,6059423516,2018/05/05
+7133.0,sucursal sur,calle 321 #54-76,Valle del Cauca,Bogotá,6066990141,2015/12/09
+0.0,oficina central,avenida 654 #87-09,Atlántico,Barranquilla,6010470830,2014/01/12
+1666.0,oficina central,calle 321 #54-76,Valle del Cauca,Bogotá,6062577100,
+638.0,oficina central,avenida 654 #87-09,Antioquia,BARRANQUILLA,6072270873,2012/08/15
+5078.0,sucursal norte,calle 123 #45-67,Antioquia,MEDELLÍN,6022767494,2019/03/01
+2181.0,oficina central,calle 321 #54-76,Cundinamarca,Barranquilla,6064091128,2017/10/26
+2764.0,sucursal oeste,calle 321 #54-76,Cundinamarca,Bucaramanga,6056096070,
+2912.0,sucursal norte,avenida 456 #78-90,Cundinamarca,BUCARAMANGA,6075247328,2014/01/04
+4298.0,sucursal norte,calle 321 #54-76,Antioquia,MEDELLÍN,6018369104,2019/02/10
+-1.0,oficina de ventas,avenida 456 #78-90,Antioquia,Bucaramanga,6072012354,2016/08/06
+173.0,oficina central,avenida 654 #87-09,Santander,Barranquilla,6052646120,2019/04/26
+8286.0,sucursal norte,carrera 789 #12-34,Valle del Cauca,Bucaramanga,6055781971,2016/05/13
+3604.0,sucursal oeste,avenida 456 #78-90,Atlántico,MEDELLÍN,6095859072,2014/09/22
+3356.0,oficina regional,carrera 789 #12-34,Santander,BOGOTÁ,6063084540,2013/02/03
+6340.0,sucursal oeste,carrera 789 #12-34,Antioquia,Bogotá,604503514,2015/10/10
+2301.0,oficina de ventas,avenida 654 #87-09,Valle del Cauca,Bucaramanga,6097380124,
+4703.0,sucursal norte,carrera 789 #12-34,Antioquia,MEDELLÍN,6051692363,2018/02/01
+2194.0,sucursal este,calle 123 #45-67,Valle del Cauca,BARRANQUILLA,6047410672,2012/04/20
+6234.0,oficina regional,avenida 654 #87-09,Valle del Cauca,Medellín,6061450555,2011/07/27
+2587.0,oficina principal,carrera 789 #12-34,Atlántico,Bogotá,6031817906,2012/04/29
+3094.0,oficina central,avenida 654 #87-09,Atlántico,Medellín,6017149813,2013/11/09
+6707.0,sucursal oeste,calle 321 #54-76,Valle del Cauca,BARRANQUILLA,6081071159,2011/06/04
+1745.0,oficina principal,avenida 456 #78-90,Valle del Cauca,Barranquilla,6077370447,
+9243.0,sucursal norte,calle 321 #54-76,Antioquia,Barranquilla,605374282,2014/08/10
+447.0,oficina secundaria,carrera 789 #12-34,Atlántico,BOGOTÁ,6064056748,2015/11/19
+7352.0,sucursal norte,avenida 456 #78-90,Santander,Bogotá,6098997460,
+8502.0,oficina secundaria,avenida 456 #78-90,Antioquia,Barranquilla,6052141305,
+1986.0,oficina local,calle 321 #54-76,Cundinamarca,BARRANQUILLA,6038577976,2017/08/08
+0.0,oficina local,calle 321 #54-76,Atlántico,Bogotá,6039283864,2011/11/26
+888.0,oficina secundaria,carrera 789 #12-34,Atlántico,Bucaramanga,6092022288,2018/08/19
+6665.0,oficina regional,calle 123 #45-67,Antioquia,Medellín,607090574,2014/11/08
+100.0,oficina central,carrera 789 #12-34,Santander,Bogotá,6094749046,
+5584.0,sucursal sur,calle 321 #54-76,Antioquia,Medellín,6011874746,
+4584.0,sucursal este,avenida 654 #87-09,Cundinamarca,Bucaramanga,6031803357,
+5154.0,oficina secundaria,calle 123 #45-67,Santander,Bogotá,6066554932,2016/08/11
+4180.0,oficina local,avenida 456 #78-90,Santander,Cali,6023817385,2013/08/28
+9985.0,sucursal norte,carrera 789 #12-34,Valle del Cauca,Barranquilla,6059096590,
+1632.0,oficina regional,carrera 789 #12-34,Antioquia,Cali,6096667483,
+5621.0,oficina secundaria,avenida 654 #87-09,Atlántico,BARRANQUILLA,6082137307,2012/07/06
+248.0,sucursal sur,carrera 789 #12-34,Santander,Bogotá,6031708575,
+5210.0,oficina principal,calle 321 #54-76,Santander,Bogotá,6032558861,2011/04/28
+5841.0,oficina local,carrera 789 #12-34,Valle del Cauca,Bogotá,6048409423,2018/10/27
+5744.0,sucursal oeste,carrera 789 #12-34,Valle del Cauca,Barranquilla,6012712333,
+3794.0,oficina central,avenida 456 #78-90,Cundinamarca,BARRANQUILLA,6024297683,2014/01/09
+5455.0,oficina de ventas,calle 321 #54-76,Santander,CALI,6068152597,2015/09/16
+9426.0,oficina central,calle 123 #45-67,Cundinamarca,Barranquilla,6032745949,2011/12/25
+7894.0,sucursal norte,avenida 654 #87-09,Valle del Cauca,Medellín,6012823379,
+6594.0,oficina de ventas,calle 321 #54-76,Cundinamarca,Medellín,6070566465,
+3903.0,sucursal sur,calle 123 #45-67,Santander,Barranquilla,6077152175,
+1186.0,sucursal sur,avenida 456 #78-90,Valle del Cauca,Barranquilla,6032258310,
+3225.0,oficina secundaria,avenida 456 #78-90,Cundinamarca,Bogotá,6079301586,
+7490.0,oficina secundaria,carrera 789 #12-34,Atlántico,Cali,6057987144,
+91.0,oficina principal,carrera 789 #12-34,Atlántico,Bogotá,6069184871,2016/05/12
+4623.0,oficina regional,calle 321 #54-76,Cundinamarca,Bucaramanga,6086280544,
+6637.0,oficina secundaria,carrera 789 #12-34,Valle del Cauca,BUCARAMANGA,6046281636,2019/11/05
+9977.0,oficina local,avenida 456 #78-90,Cundinamarca,Bogotá,602625969,2017/12/13
+3917.0,sucursal este,carrera 789 #12-34,Santander,Bucaramanga,6026613782,
+9300.0,sucursal oeste,avenida 456 #78-90,Antioquia,Cali,6073053303,
+5862.0,oficina central,avenida 456 #78-90,Valle del Cauca,Cali,6031046237,
+6849.0,oficina local,calle 321 #54-76,Santander,BOGOTÁ,6086473360,2012/06/03
+8110.0,oficina de ventas,carrera 789 #12-34,Valle del Cauca,MEDELLÍN,6075316142,2010/03/29
+5391.0,sucursal sur,carrera 789 #12-34,Atlántico,CALI,6031643674,2014/04/27
+8165.0,oficina principal,carrera 789 #12-34,Antioquia,Bucaramanga,6023280456,2019/03/05
+290.0,oficina secundaria,calle 321 #54-76,Atlántico,Medellín,6090832522,
+5906.0,oficina de ventas,calle 321 #54-76,Santander,BARRANQUILLA,6010071273,2010/09/22
+7887.0,oficina secundaria,calle 321 #54-76,Valle del Cauca,Barranquilla,6053446790,
+3398.0,sucursal sur,calle 123 #45-67,Santander,Cali,6079649513,2016/09/28
+7808.0,oficina de ventas,carrera 789 #12-34,Cundinamarca,CALI,6078964700,2016/03/04
+6731.0,sucursal este,avenida 654 #87-09,Cundinamarca,Bucaramanga,6020881221,
+1891.0,oficina regional,calle 123 #45-67,Valle del Cauca,Medellín,6022764568,
+4287.0,sucursal norte,avenida 654 #87-09,Antioquia,BARRANQUILLA,6016786824,2015/06/20
+8694.0,sucursal oeste,calle 321 #54-76,Valle del Cauca,Cali,6068037529,
+9119.0,oficina local,calle 123 #45-67,Valle del Cauca,Bucaramanga,601382687,2017/05/21
+56.0,oficina de ventas,calle 123 #45-67,Cundinamarca,Bucaramanga,6078354040,
+4428.0,oficina local,calle 321 #54-76,Santander,Bogotá,603063304,2015/07/26
+5391.0,oficina central,avenida 456 #78-90,Antioquia,Bogotá,6089784820,
+1257.0,oficina de ventas,calle 123 #45-67,Antioquia,MEDELLÍN,6010725748,2013/04/05
+1426.0,oficina local,calle 321 #54-76,Valle del Cauca,Bogotá,6054303723,2017/06/15
+7226.0,sucursal este,carrera 789 #12-34,Cundinamarca,Barranquilla,6075304890,2010/02/03
+325.0,sucursal este,avenida 456 #78-90,Santander,MEDELLÍN,6091622595,2019/02/15
+7604.0,sucursal oeste,avenida 456 #78-90,Valle del Cauca,BOGOTÁ,6037800887,2015/10/20
+5037.0,oficina secundaria,calle 321 #54-76,Valle del Cauca,Barranquilla,6037800638,
+-1.0,oficina de ventas,calle 123 #45-67,Cundinamarca,Barranquilla,6033008676,2019/03/28
+7546.0,oficina secundaria,avenida 456 #78-90,Valle del Cauca,Bucaramanga,603922948,2019/05/23
+5306.0,oficina de ventas,calle 321 #54-76,Santander,BARRANQUILLA,6086760005,2016/03/24
+7440.0,sucursal oeste,calle 123 #45-67,Cundinamarca,Barranquilla,6021206732,
+9103.0,oficina secundaria,avenida 456 #78-90,Atlántico,Bogotá,6029829025,
+1610.0,oficina de ventas,avenida 456 #78-90,Santander,Bucaramanga,6039282236,
+7545.0,oficina de ventas,avenida 654 #87-09,Antioquia,MEDELLÍN,6066418552,2010/10/21
+2109.0,sucursal oeste,avenida 654 #87-09,Santander,Cali,6094688378,2014/12/02
+9241.0,sucursal este,calle 123 #45-67,Santander,Bucaramanga,6097427018,2010/04/10
+2091.0,sucursal oeste,carrera 789 #12-34,Valle del Cauca,Medellín,6069835139,
+8186.0,sucursal oeste,calle 123 #45-67,Antioquia,BOGOTÁ,6080068438,2019/06/04
+1798.0,oficina de ventas,calle 321 #54-76,Atlántico,BARRANQUILLA,6045927981,2014/04/23
+5395.0,oficina de ventas,carrera 789 #12-34,Antioquia,Bogotá,6066331101,
+2093.0,oficina secundaria,avenida 654 #87-09,Valle del Cauca,Cali,6013104583,
+4328.0,oficina regional,calle 321 #54-76,Santander,MEDELLÍN,6021200908,2017/09/05
+7279.0,sucursal este,avenida 456 #78-90,Cundinamarca,CALI,6040867594,2018/03/17
+5492.0,oficina principal,avenida 654 #87-09,Atlántico,CALI,6015389209,2018/05/25
+7007.0,oficina central,avenida 456 #78-90,Santander,BUCARAMANGA,6096890141,2013/01/31
+7248.0,oficina principal,calle 123 #45-67,Cundinamarca,Barranquilla,6048998199,2016/05/17
+59.0,sucursal norte,calle 321 #54-76,Valle del Cauca,Medellín,6059894136,2014/06/23
+839.0,sucursal este,avenida 456 #78-90,Atlántico,Bucaramanga,6010013408,
+3124.0,oficina central,carrera 789 #12-34,Valle del Cauca,Cali,6091269740,
+5883.0,oficina principal,avenida 456 #78-90,Atlántico,Bogotá,604720980,2012/11/17
+2253.0,sucursal este,avenida 654 #87-09,Cundinamarca,Medellín,6089577314,
+6707.0,oficina local,calle 321 #54-76,Valle del Cauca,Barranquilla,6053555494,
+3683.0,oficina central,avenida 654 #87-09,Valle del Cauca,Barranquilla,6067362184,
+6584.0,oficina principal,avenida 654 #87-09,Cundinamarca,Cali,6057089783,
+878.0,sucursal norte,carrera 789 #12-34,Valle del Cauca,Barranquilla,6016917235,2013/08/10
+922.0,sucursal este,carrera 789 #12-34,Antioquia,BUCARAMANGA,6073807225,2015/07/16
+7183.0,oficina central,calle 321 #54-76,Valle del Cauca,Bogotá,6049097148,2013/08/15
+5675.0,oficina secundaria,calle 123 #45-67,Santander,Cali,6052783561,
+9797.0,oficina local,calle 321 #54-76,Cundinamarca,Bogotá,6035343715,2017/11/27
+5515.0,oficina principal,calle 123 #45-67,Antioquia,Bogotá,6062016287,2012/01/29
+9386.0,sucursal oeste,carrera 789 #12-34,Antioquia,Bucaramanga,6075333770,2017/06/09
+1306.0,oficina central,avenida 654 #87-09,Valle del Cauca,Bucaramanga,603301273,2010/11/05
+8172.0,sucursal sur,carrera 789 #12-34,Cundinamarca,BARRANQUILLA,6059401493,2010/12/15
+-1.0,sucursal este,avenida 456 #78-90,Santander,Barranquilla,6030915707,2013/06/15
+5492.0,sucursal este,carrera 789 #12-34,Atlántico,CALI,6077058387,2015/08/05
+2978.0,oficina de ventas,carrera 789 #12-34,Cundinamarca,Bucaramanga,6059496864,
+6386.0,sucursal sur,avenida 456 #78-90,Valle del Cauca,Bogotá,6087879301,
+5824.0,oficina secundaria,calle 321 #54-76,Valle del Cauca,Bucaramanga,6034314537,
+8147.0,sucursal sur,carrera 789 #12-34,Valle del Cauca,Medellín,6062085893,2014/02/05
+6858.0,sucursal sur,calle 321 #54-76,Antioquia,Barranquilla,6044773826,2015/04/14
+9297.0,oficina principal,carrera 789 #12-34,Valle del Cauca,BARRANQUILLA,6010777000,2011/02/07
+3060.0,oficina central,avenida 654 #87-09,Antioquia,BARRANQUILLA,6092777095,2013/01/29
+3676.0,oficina regional,calle 123 #45-67,Atlántico,CALI,6090507683,2014/12/18
+4254.0,sucursal oeste,calle 321 #54-76,Valle del Cauca,BARRANQUILLA,6088872918,2017/08/12
+682.0,oficina central,calle 123 #45-67,Valle del Cauca,Cali,6027908166,
+1198.0,oficina secundaria,calle 123 #45-67,Atlántico,Cali,6050376409,
+5834.0,oficina central,carrera 789 #12-34,Atlántico,Medellín,6066839007,
+192.0,sucursal oeste,calle 123 #45-67,Valle del Cauca,Medellín,6090608208,2014/01/12
+6855.0,oficina regional,calle 123 #45-67,Valle del Cauca,MEDELLÍN,6072998873,2015/06/25
+2488.0,oficina regional,calle 123 #45-67,Cundinamarca,Bucaramanga,602753211,2012/11/27
+999.0,sucursal oeste,avenida 654 #87-09,Santander,Bogotá,6084826613,2015/06/27
+5389.0,sucursal norte,avenida 456 #78-90,Santander,BUCARAMANGA,6042372482,2013/02/17
+2945.0,oficina secundaria,calle 321 #54-76,Valle del Cauca,BUCARAMANGA,6025960986,2015/09/16
+904.0,sucursal sur,avenida 654 #87-09,Santander,Barranquilla,6072429213,
+1190.0,sucursal oeste,calle 321 #54-76,Valle del Cauca,CALI,6027591553,2014/10/14
+6669.0,sucursal norte,avenida 456 #78-90,Santander,Medellín,6020050608,2017/12/12
+175.0,oficina local,calle 321 #54-76,Santander,Barranquilla,6066331002,
+1545.0,sucursal oeste,avenida 654 #87-09,Antioquia,Cali,6054621000,2019/10/11
+1743.0,oficina principal,calle 123 #45-67,Cundinamarca,MEDELLÍN,6097693772,2016/06/06
+6437.0,sucursal sur,avenida 654 #87-09,Santander,Cali,6063976285,
+8429.0,oficina local,calle 321 #54-76,Antioquia,MEDELLÍN,6087958708,2018/02/05
+1939.0,sucursal oeste,calle 123 #45-67,Atlántico,Bogotá,6033160096,
+8604.0,oficina secundaria,avenida 456 #78-90,Valle del Cauca,Cali,6082063737,
+6767.0,oficina regional,avenida 456 #78-90,Cundinamarca,Bogotá,6074442167,2014/12/04
+8447.0,sucursal norte,avenida 654 #87-09,Cundinamarca,BARRANQUILLA,6077918200,2017/02/04
+5850.0,oficina regional,calle 123 #45-67,Valle del Cauca,BARRANQUILLA,6092395020,2014/02/16
+0.0,sucursal este,calle 123 #45-67,Valle del Cauca,Cali,6048233353,2011/02/17
+2402.0,oficina de ventas,calle 321 #54-76,Santander,Barranquilla,6014185731,2016/09/14
+422.0,oficina principal,calle 321 #54-76,Cundinamarca,MEDELLÍN,6018477925,2015/03/11
+0.0,oficina central,carrera 789 #12-34,Santander,Bucaramanga,6015769317,2019/01/04
+3604.0,oficina regional,avenida 456 #78-90,Antioquia,Cali,605169521,2016/01/18
+6940.0,oficina principal,avenida 456 #78-90,Atlántico,CALI,6040649464,2012/05/08
+9996.0,oficina secundaria,carrera 789 #12-34,Santander,Barranquilla,6030356673,2019/10/29
+0.0,sucursal este,avenida 456 #78-90,Santander,Medellín,6099599841,2017/01/25
+2134.0,oficina secundaria,avenida 456 #78-90,Santander,Barranquilla,6095018814,
+0.0,oficina de ventas,avenida 456 #78-90,Cundinamarca,Barranquilla,6050514143,2016/01/10
+-1.0,sucursal este,carrera 789 #12-34,Valle del Cauca,Medellín,6034865111,2019/10/14
+8951.0,oficina secundaria,avenida 654 #87-09,Valle del Cauca,Barranquilla,6075943578,2012/07/12
+8711.0,oficina de ventas,calle 321 #54-76,Valle del Cauca,Cali,6079716875,
+1787.0,oficina central,calle 321 #54-76,Valle del Cauca,Cali,6071827507,2013/11/10
+1383.0,sucursal oeste,avenida 654 #87-09,Antioquia,Bogotá,6022839179,2015/06/09
+6066.0,oficina regional,avenida 654 #87-09,Atlántico,Medellín,6033283031,
+3514.0,sucursal sur,calle 321 #54-76,Atlántico,Medellín,6014651157,2014/01/05
+9375.0,oficina principal,avenida 456 #78-90,Cundinamarca,Barranquilla,6096189869,
+5797.0,oficina principal,avenida 654 #87-09,Cundinamarca,BUCARAMANGA,6041577919,2011/06/04
+6440.0,oficina secundaria,calle 123 #45-67,Santander,Barranquilla,6020659588,
+7857.0,oficina secundaria,carrera 789 #12-34,Antioquia,Barranquilla,6037033585,
+9167.0,oficina secundaria,calle 321 #54-76,Santander,Bucaramanga,6080054519,
+6857.0,oficina central,avenida 456 #78-90,Cundinamarca,Barranquilla,6051927565,2015/08/09
+4674.0,sucursal oeste,carrera 789 #12-34,Santander,Barranquilla,6019895312,
+907.0,oficina regional,avenida 456 #78-90,Santander,Bogotá,6043155687,
+5073.0,sucursal sur,avenida 654 #87-09,Valle del Cauca,Medellín,6018098580,
+8727.0,oficina regional,avenida 456 #78-90,CUNDINAMARCA,Bucaramanga,6034860980,2018/02/21
+2175.0,oficina secundaria,avenida 654 #87-09,Santander,Medellín,6092665751,
+8620.0,sucursal este,avenida 654 #87-09,CUNDINAMARCA,Bucaramanga,6092021454,2017/12/04
+3485.0,oficina principal,calle 321 #54-76,Cundinamarca,Barranquilla,6033006606,
+6580.0,sucursal este,calle 321 #54-76,Valle del Cauca,MEDELLÍN,6093935790,2011/06/04
+4209.0,oficina secundaria,calle 123 #45-67,Atlántico,Bogotá,6015882558,
+2116.0,oficina regional,avenida 456 #78-90,Atlántico,Cali,6053601265,2011/01/28
+7062.0,sucursal oeste,calle 321 #54-76,Atlántico,Bucaramanga,6068602178,2015/01/16
+4085.0,oficina principal,calle 321 #54-76,Santander,Bogotá,6016175383,2012/05/28
+9566.0,oficina secundaria,carrera 789 #12-34,Cundinamarca,BARRANQUILLA,6085920244,2013/05/04
+4648.0,oficina secundaria,calle 321 #54-76,Cundinamarca,Medellín,6019519507,2013/05/16
+7170.0,oficina de ventas,calle 123 #45-67,Antioquia,Bucaramanga,6065517791,2018/05/05
+1035.0,sucursal norte,avenida 654 #87-09,Cundinamarca,Medellín,6074623947,
+5968.0,oficina local,calle 321 #54-76,Santander,CALI,6089667797,2019/07/19
+2768.0,sucursal norte,carrera 789 #12-34,Atlántico,Bucaramanga,6095237103,
+0.0,oficina de ventas,avenida 456 #78-90,Valle del Cauca,Bogotá,6038456287,2010/11/23
+2800.0,oficina secundaria,calle 123 #45-67,Santander,Bucaramanga,6011877229,
+4687.0,sucursal sur,avenida 654 #87-09,Cundinamarca,Bogotá,6079309763,
+7574.0,sucursal norte,carrera 789 #12-34,Cundinamarca,Bogotá,6060834108,
+3042.0,sucursal norte,calle 123 #45-67,Santander,BARRANQUILLA,6025842462,2017/03/12
+7264.0,oficina principal,calle 123 #45-67,Santander,CALI,6021360528,2011/03/20
+3769.0,oficina de ventas,avenida 456 #78-90,Atlántico,BARRANQUILLA,6015830249,2010/12/23
+359.0,sucursal norte,avenida 654 #87-09,Valle del Cauca,Bucaramanga,6069661033,
+1026.0,oficina de ventas,avenida 456 #78-90,Santander,BARRANQUILLA,6049886947,2016/08/11
+4005.0,sucursal oeste,avenida 456 #78-90,Valle del Cauca,CALI,6073186365,2012/12/09
+1599.0,sucursal este,carrera 789 #12-34,Antioquia,Cali,6083974497,
+3996.0,oficina principal,calle 123 #45-67,CUNDINAMARCA,Cali,6040539419,2016/11/20
+5977.0,oficina central,avenida 456 #78-90,Atlántico,Bucaramanga,6089009492,
+6813.0,sucursal sur,calle 123 #45-67,Cundinamarca,Bucaramanga,6068261917,
+3387.0,oficina local,avenida 654 #87-09,Atlántico,CALI,6047532319,2010/08/28
+4778.0,oficina principal,calle 123 #45-67,Valle del Cauca,MEDELLÍN,6079818153,2016/01/11
+6300.0,sucursal este,calle 123 #45-67,Santander,Medellín,6020316597,2012/05/26
+6944.0,oficina de ventas,avenida 654 #87-09,Cundinamarca,Cali,6052840560,2019/03/05
+3680.0,sucursal norte,avenida 456 #78-90,Atlántico,Bucaramanga,6012008125,2012/08/29
+5701.0,oficina central,calle 321 #54-76,Antioquia,Cali,6053480308,
+7549.0,oficina local,avenida 456 #78-90,Atlántico,Medellín,6011707895,2017/01/05
+3442.0,sucursal este,avenida 654 #87-09,Atlántico,BUCARAMANGA,6043252975,2015/10/15
+1600.0,sucursal oeste,avenida 654 #87-09,Valle del Cauca,Bucaramanga,6035735061,2017/05/11
+5779.0,oficina de ventas,avenida 654 #87-09,Antioquia,BARRANQUILLA,6062578351,2010/08/14
+5793.0,oficina de ventas,calle 321 #54-76,Atlántico,Cali,6052265013,2011/08/27
+5887.0,oficina principal,calle 321 #54-76,Antioquia,Bucaramanga,6045339008,
+5225.0,oficina local,avenida 654 #87-09,Atlántico,Medellín,6024671352,
+9278.0,oficina secundaria,carrera 789 #12-34,Valle del Cauca,Cali,6046221203,
+6.0,oficina secundaria,calle 321 #54-76,Santander,CALI,6090186433,2014/03/13
+4533.0,oficina regional,calle 123 #45-67,Antioquia,Cali,6060925674,
+5384.0,sucursal sur,avenida 456 #78-90,Santander,Cali,6065298150,2015/11/21
+2449.0,oficina de ventas,avenida 654 #87-09,Antioquia,Bogotá,6070471029,
+526.0,sucursal sur,avenida 654 #87-09,Antioquia,Cali,6061526202,2012/06/03
+687.0,sucursal sur,avenida 456 #78-90,Antioquia,Barranquilla,6067746806,
+4183.0,sucursal norte,avenida 654 #87-09,Antioquia,Bucaramanga,6070522268,
+1539.0,sucursal oeste,calle 321 #54-76,Cundinamarca,BUCARAMANGA,6096004805,2011/03/26
+9286.0,oficina de ventas,avenida 456 #78-90,Atlántico,MEDELLÍN,6026591277,2011/04/23
+5148.0,oficina central,calle 321 #54-76,Valle del Cauca,CALI,6063973768,2013/11/13
+0.0,oficina local,calle 123 #45-67,Antioquia,Medellín,6051632554,2018/01/29
+6092.0,sucursal este,avenida 456 #78-90,Santander,Bogotá,6027331314,2019/06/09
+6982.0,oficina central,calle 321 #54-76,Valle del Cauca,BARRANQUILLA,6015541029,2016/07/13
+7520.0,sucursal norte,avenida 654 #87-09,Atlántico,BUCARAMANGA,6019964898,2010/08/05
+7884.0,sucursal oeste,avenida 654 #87-09,Santander,Bogotá,6042526262,
+2543.0,sucursal oeste,avenida 654 #87-09,Atlántico,Cali,6080409682,
+2487.0,sucursal este,calle 321 #54-76,Antioquia,Cali,6029842607,2017/03/14
+6628.0,oficina regional,calle 321 #54-76,Cundinamarca,Medellín,6081821856,2016/07/02
+3389.0,sucursal oeste,avenida 456 #78-90,Antioquia,BUCARAMANGA,6091507934,2019/04/02
+4112.0,oficina principal,calle 123 #45-67,Valle del Cauca,BUCARAMANGA,6035522304,2013/08/15
+329.0,oficina de ventas,avenida 456 #78-90,Antioquia,Medellín,6064214778,2017/07/02
+7175.0,sucursal norte,carrera 789 #12-34,Antioquia,Cali,6015249713,
+6430.0,sucursal norte,carrera 789 #12-34,Cundinamarca,BOGOTÁ,6075483762,2010/01/23
+3763.0,oficina secundaria,avenida 654 #87-09,Santander,BOGOTÁ,6085590967,2011/06/26
+7216.0,sucursal norte,avenida 456 #78-90,Cundinamarca,Medellín,6026300813,
+0.0,oficina regional,calle 321 #54-76,Valle del Cauca,Medellín,6012692435,2014/10/29
+5477.0,oficina secundaria,calle 123 #45-67,Cundinamarca,BUCARAMANGA,6067369491,2015/07/09
+2451.0,sucursal este,carrera 789 #12-34,Antioquia,CALI,6072269241,2014/06/29
+2684.0,sucursal oeste,calle 321 #54-76,Antioquia,BUCARAMANGA,6039364832,2012/04/08
+3634.0,sucursal este,avenida 654 #87-09,Santander,BOGOTÁ,6090116119,2019/07/26
+3185.0,oficina principal,carrera 789 #12-34,Valle del Cauca,Bucaramanga,6092741074,2012/01/27
+6215.0,oficina principal,calle 321 #54-76,Valle del Cauca,Medellín,6077286916,2014/05/25
+2872.0,sucursal este,avenida 654 #87-09,Antioquia,Medellín,6030057130,
+647.0,oficina secundaria,avenida 654 #87-09,Valle del Cauca,Bogotá,6025244742,2013/11/25
+4169.0,oficina secundaria,calle 321 #54-76,Valle del Cauca,Bogotá,6056059798,
+6017.0,sucursal norte,calle 321 #54-76,Santander,BUCARAMANGA,6041449203,2013/02/20
+6717.0,sucursal norte,calle 123 #45-67,Valle del Cauca,Cali,6010967127,
+5077.0,sucursal sur,carrera 789 #12-34,Cundinamarca,Barranquilla,6084408732,
+5762.0,oficina regional,avenida 654 #87-09,Valle del Cauca,BUCARAMANGA,6045148669,2014/06/30
+6246.0,sucursal este,avenida 654 #87-09,Atlántico,Cali,606323919,2016/03/21
+765.0,oficina local,calle 123 #45-67,Santander,Cali,6062462506,
+7462.0,oficina de ventas,avenida 654 #87-09,Antioquia,Barranquilla,604960806,2014/08/31
+6325.0,oficina secundaria,avenida 654 #87-09,Valle del Cauca,Bucaramanga,6052089434,
+5919.0,sucursal sur,calle 123 #45-67,Cundinamarca,Medellín,6018843979,
+9765.0,sucursal oeste,carrera 789 #12-34,Santander,Bogotá,6085057432,
+5664.0,sucursal sur,calle 321 #54-76,Atlántico,Medellín,6029134174,
+9879.0,oficina de ventas,carrera 789 #12-34,Santander,MEDELLÍN,6091108964,2013/12/30
+8331.0,sucursal sur,carrera 789 #12-34,Santander,BOGOTÁ,6084582771,2011/04/11
+2730.0,oficina de ventas,avenida 456 #78-90,Valle del Cauca,Bucaramanga,6013763344,
+195.0,oficina local,calle 321 #54-76,Antioquia,CALI,6092174837,2015/06/04
+7936.0,oficina local,carrera 789 #12-34,Cundinamarca,MEDELLÍN,6013073448,2018/11/07
+9602.0,oficina de ventas,avenida 456 #78-90,Atlántico,Bucaramanga,6015984696,
+2966.0,sucursal sur,calle 321 #54-76,Valle del Cauca,BARRANQUILLA,6054606391,2015/06/15
+1770.0,oficina local,calle 321 #54-76,Valle del Cauca,Barranquilla,6062336056,2019/01/21
+7526.0,oficina secundaria,avenida 456 #78-90,Antioquia,BUCARAMANGA,6044938965,2015/02/02
+2224.0,oficina local,avenida 654 #87-09,Antioquia,Cali,6085612769,
+3634.0,oficina regional,carrera 789 #12-34,Cundinamarca,Cali,6082846167,
+4787.0,sucursal este,calle 123 #45-67,Atlántico,Medellín,6087253864,2012/10/16
+5563.0,oficina regional,calle 123 #45-67,Valle del Cauca,MEDELLÍN,6015020438,2017/09/25
+9355.0,oficina secundaria,calle 123 #45-67,Cundinamarca,Cali,6077334663,
+1955.0,oficina central,calle 321 #54-76,Antioquia,Barranquilla,6078981189,2014/03/23
+8974.0,oficina regional,carrera 789 #12-34,Santander,MEDELLÍN,6086064507,2016/11/25
+2170.0,sucursal este,calle 321 #54-76,Cundinamarca,Cali,6031718051,2018/12/31
+8568.0,sucursal norte,calle 123 #45-67,Antioquia,Bogotá,6077085264,2017/03/14
+4962.0,sucursal oeste,calle 321 #54-76,Cundinamarca,Medellín,6059990777,2019/10/10
+5485.0,oficina de ventas,avenida 654 #87-09,Cundinamarca,Cali,6084901419,
+1335.0,sucursal oeste,avenida 456 #78-90,Santander,BUCARAMANGA,6023446524,2014/02/04
+8616.0,sucursal este,avenida 456 #78-90,Santander,Bucaramanga,6094748249,2013/02/02
+6873.0,oficina regional,carrera 789 #12-34,Santander,MEDELLÍN,6076633734,2012/08/14
+2037.0,oficina de ventas,avenida 456 #78-90,Santander,Bogotá,6010590515,
+1269.0,oficina de ventas,avenida 456 #78-90,Atlántico,Barranquilla,6086766329,2016/01/25
+7527.0,sucursal norte,calle 123 #45-67,Santander,Cali,6025336056,
+-1.0,oficina secundaria,calle 321 #54-76,Atlántico,Barranquilla,6070449053,2010/10/18
+9960.0,oficina principal,avenida 654 #87-09,Antioquia,Cali,6033020850,
+5812.0,sucursal oeste,avenida 654 #87-09,Valle del Cauca,Cali,6020998242,2018/12/14
+8426.0,oficina secundaria,avenida 654 #87-09,Cundinamarca,Barranquilla,6082201600,2018/06/16
+9037.0,oficina local,calle 321 #54-76,Atlántico,Medellín,6031461419,
+-1.0,sucursal norte,calle 123 #45-67,Santander,Barranquilla,6048511864,2014/10/30
+4442.0,oficina central,carrera 789 #12-34,Antioquia,Bogotá,6082353467,
+9738.0,oficina secundaria,avenida 654 #87-09,Atlántico,Bucaramanga,6093929364,
+6604.0,oficina principal,avenida 654 #87-09,Cundinamarca,Bogotá,6037360317,2017/09/02
+1458.0,oficina de ventas,carrera 789 #12-34,Valle del Cauca,CALI,6059594243,2017/05/12
+2177.0,oficina principal,calle 123 #45-67,Cundinamarca,MEDELLÍN,6088492182,2016/11/03
+5295.0,oficina principal,avenida 654 #87-09,Cundinamarca,Bogotá,6052792239,2019/12/21
+7029.0,sucursal oeste,avenida 456 #78-90,Atlántico,BARRANQUILLA,6040491496,2015/04/06
+4099.0,sucursal este,calle 123 #45-67,Antioquia,Cali,6012187748,

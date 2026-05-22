@@ -1,1001 +1,1001 @@
-id_colaboradora,cargo,cedula,id_oficina
-222.0,Desarrollador,4998094990,471
-105.0,Despachador,5103165140,338
-110.0,Soporte Técnico,2647377241,155
-142.0,Diseñador,5371459426, 221 
-385.0,Soporte Técnico,2280969278,28
-368.0,Gerente,6383562669, 388 
-128.0,Soporte Técnico,2930323993,453
--1.0,,invalid_cedula,12
-178.0,Soporte Técnico,2224355980, 330 
-0.0,,invalid_cedula,188
-72.0,Desarrollador,2287002745,118
-141.0,Diseñador,3367567978,290
--1.0,,invalid_cedula,192
-286.0,Despachador,2538878851,273
-497.0,Diseñador,7020140156,46
-196.0,Desarrollador,6107056016,8
-218.0,Desarrollador,8666201233,481
-51.0,Diseñador,1568052052, 421 
-385.0,Soporte Técnico,1488747091,341
-276.0,Desarrollador,4304685453,384
-470.0,Gerente,8381692221,116
-291.0,Diseñador,7797705087,372
-378.0,Desarrollador,2276074289, 478 
-0.0,,invalid_cedula,76
-345.0,Soporte Técnico,7671911317, 155 
-457.0,Diseñador,7576268178,311
-101.0,Gerente,5420679320,156
-102.0,Diseñador,2442153686,461
-50.0,Despachador,4101814943, 139 
-197.0,Despachador,1842035845,91
-77.0,Desarrollador,4079110014, 8 
-156.0,Desarrollador,1346288454,104
-164.0,Diseñador,3581290400, 475 
-472.0,Despachador,5004109410, 175 
-160.0,Diseñador,5129145539,332
-64.0,Despachador,1805992746,491
-352.0,Diseñador,6814050384, 442 
-480.0,Gerente,7660570078,15
-113.0,Despachador,3083457056,157
-350.0,Despachador,5496315433,186
-290.0,Despachador,7671437202,429
-287.0,Gerente,4374231786,256
-0.0,,invalid_cedula,170
-411.0,Gerente,6856971888,115
-233.0,Gerente,7661632065,306
-200.0,Desarrollador,6411188683,86
-,,invalid_cedula,347
-247.0,Desarrollador,9075703689,68
-442.0,Gerente,9423066821,215
-64.0,Diseñador,7303895449, 148 
-,,invalid_cedula,280
-423.0,Soporte Técnico,7529236632,331
-66.0,Diseñador,8332538021,232
-161.0,Gerente,8517622264, 232 
-317.0,Diseñador,9194354926,112
-263.0,Despachador,6965229523, 387 
-184.0,Gerente,3473316600,487
-130.0,Gerente,1697059645,239
-122.0,Gerente,3986599870,203
-204.0,Diseñador,4743317277, 66 
-84.0,Soporte Técnico,1932247014,440
-,,invalid_cedula,8
-457.0,Desarrollador,2163363527,5
-260.0,Diseñador,6425836436,1
-274.0,Desarrollador,7355479555,426
-455.0,Soporte Técnico,5958006640,67
-426.0,Despachador,6815611195,101
-55.0,Desarrollador,4775249963, 6 
-416.0,Desarrollador,3450893186,37
-435.0,Soporte Técnico,8925729435,303
-465.0,Gerente,8345191910, 377 
-0.0,,invalid_cedula,277
-187.0,Soporte Técnico,7327536442,345
-434.0,Diseñador,7013434140, 118 
-0.0,,invalid_cedula,17
-323.0,Desarrollador,4224882262, 467 
-254.0,Soporte Técnico,7791562072,260
-400.0,Diseñador,6471360837,395
-49.0,Diseñador,8849890489,469
-298.0,Soporte Técnico,4986816062,163
-394.0,Desarrollador,5083808741,239
-6.0,Gerente,5906082016,94
-0.0,,invalid_cedula,30
-117.0,Gerente,6461145117, 121 
-0.0,,invalid_cedula,104
-92.0,Gerente,1731459629,20
-218.0,Diseñador,9861131214,121
-174.0,Diseñador,5571406148,390
-84.0,Desarrollador,4668618575,414
-174.0,Diseñador,3864513371, 175 
-261.0,Diseñador,9017625599,386
-339.0,Soporte Técnico,7761384118, 427 
-200.0,Gerente,4194343661,379
-440.0,Soporte Técnico,7937176618,304
-401.0,Desarrollador,3276397858, 335 
-342.0,Soporte Técnico,5106124416,463
-0.0,,invalid_cedula,192
-194.0,Gerente,1901051902,72
-202.0,Diseñador,2851681486,126
-213.0,Desarrollador,5828161522,270
-209.0,Gerente,4652069925,306
-135.0,Gerente,1386412804,163
-311.0,Despachador,8056893727,145
-,,invalid_cedula,144
-44.0,Gerente,8575258574, 59 
-471.0,Soporte Técnico,1100770900, 453 
-104.0,Diseñador,4756029621, 334 
-287.0,Diseñador,8593840069,378
-13.0,Soporte Técnico,2734277255, 160 
-84.0,Diseñador,2252573059, 162 
-44.0,Diseñador,7167832811, 123 
-0.0,,invalid_cedula,408
-282.0,Despachador,3574022701,113
-414.0,Soporte Técnico,2457463906,185
-236.0,Soporte Técnico,4434148027,413
-304.0,Gerente,5493801797,78
-0.0,,invalid_cedula,247
-288.0,Soporte Técnico,3835138264,178
-447.0,Despachador,8870095878,364
-338.0,Desarrollador,5546378229,255
-19.0,Diseñador,7866411991,84
-289.0,Desarrollador,2372696085,134
-286.0,Gerente,6014536096,266
-95.0,Diseñador,2301357007,233
-,,invalid_cedula,239
-405.0,Diseñador,9370645119,487
-451.0,Gerente,3808667615,473
-220.0,Desarrollador,4225106495,136
-223.0,Soporte Técnico,8504893110,235
-483.0,Desarrollador,4284022679,123
-0.0,,invalid_cedula,80
-486.0,Diseñador,3615122189,65
-301.0,Desarrollador,8576604603,468
-484.0,Desarrollador,1684721644,301
-256.0,Desarrollador,4514948933,428
-198.0,Soporte Técnico,4364699454, 129 
-156.0,Soporte Técnico,9786817440,343
-78.0,Desarrollador,7181242546,107
-329.0,Despachador,5985823057,461
-482.0,Gerente,1209241141,194
--1.0,,invalid_cedula,332
-293.0,Despachador,7608705549,370
-383.0,Diseñador,3423747968, 419 
--1.0,,invalid_cedula,312
-213.0,Despachador,6888811209,406
-413.0,Desarrollador,1025339944, 10 
-44.0,Diseñador,8153203182,414
-292.0,Soporte Técnico,2317654605,35
-154.0,Desarrollador,4055140315, 361 
-352.0,Diseñador,1790931284,435
-229.0,Despachador,4912128489,291
-284.0,Diseñador,9684475521, 345 
-459.0,Soporte Técnico,5735255191,38
-478.0,Desarrollador,8226072950,470
-,,invalid_cedula,39
-146.0,Gerente,1558281755,32
--1.0,,invalid_cedula,343
-,,invalid_cedula,138
-152.0,Despachador,7814883566,476
-262.0,Desarrollador,1163530384,179
-18.0,Diseñador,6913889496,5
-490.0,Despachador,2075238290,295
-224.0,Despachador,7663074013,86
-211.0,Desarrollador,1083884272,249
-386.0,Diseñador,7468902422,479
-82.0,Despachador,1856360370,174
-192.0,Gerente,8799354282,326
-332.0,Gerente,8270731001,330
-223.0,Despachador,8180578608,37
-101.0,Desarrollador,9790887482,104
-465.0,Desarrollador,3789772760,414
-338.0,Desarrollador,8573850776,332
-363.0,Gerente,3980133358, 488 
-0.0,,invalid_cedula,360
-479.0,Desarrollador,4332444296,382
-195.0,Gerente,9428553884,174
--1.0,,invalid_cedula,56
-326.0,Soporte Técnico,5499257405,500
-355.0,Despachador,7863001525,314
--1.0,,invalid_cedula,123
-152.0,Despachador,7069367436,277
-251.0,Gerente,9500022270, 214 
-129.0,Soporte Técnico,1931462684,163
-40.0,Diseñador,4609048547,185
-464.0,Diseñador,9970165082, 122 
-78.0,Gerente,2138365569,331
-286.0,Diseñador,6172819845, 254 
-229.0,Desarrollador,6406298617,23
-228.0,Diseñador,3527983740,374
-223.0,Soporte Técnico,2704792213, 108 
-37.0,Despachador,7048471934, 275 
-190.0,Soporte Técnico,7954617896,57
-402.0,Gerente,9706084006, 117 
-42.0,Soporte Técnico,6812231759, 479 
-376.0,Gerente,5222721814,104
-281.0,Gerente,5965320898,471
-77.0,Soporte Técnico,4627090730, 121 
-272.0,Diseñador,9120596682,113
-110.0,Despachador,4743762429,349
-313.0,Desarrollador,8169723615,353
-498.0,Gerente,1784719959,152
-484.0,Despachador,5246432316, 378 
-251.0,Diseñador,7099020353,12
-189.0,Despachador,1867578767,485
-20.0,Soporte Técnico,9749823174,483
-305.0,Gerente,7936866143,207
-395.0,Soporte Técnico,6870782934,142
-382.0,Diseñador,8121877905,153
-52.0,Diseñador,5374435365,321
-430.0,Gerente,7749494526,290
-73.0,Soporte Técnico,5233115739,466
-417.0,Desarrollador,7431920569, 367 
-89.0,Despachador,8008040814,387
-495.0,Desarrollador,5595812273,125
-190.0,Desarrollador,5889681288,213
-74.0,Diseñador,9085032432, 322 
-54.0,Diseñador,8516598910,497
-53.0,Despachador,1122545793,123
-0.0,,invalid_cedula,378
-237.0,Diseñador,5305879115,102
-173.0,Soporte Técnico,4218545177,116
-180.0,Despachador,4274267064,488
-91.0,Despachador,7177310175,447
-272.0,Desarrollador,8747816062, 462 
-493.0,Gerente,9885686053, 276 
-89.0,Gerente,5845845001,100
-274.0,Gerente,6994064965, 232 
-295.0,Desarrollador,1496707113,496
-,,invalid_cedula,174
-272.0,Despachador,7329647872,16
-0.0,,invalid_cedula,71
-325.0,Despachador,5812918721,440
-265.0,Desarrollador,7187493147, 468 
-12.0,Gerente,7564973383,35
-137.0,Gerente,9983384051,71
-74.0,Diseñador,3574114458, 207 
-447.0,Gerente,9992349573,333
-59.0,Desarrollador,9632244572,400
-283.0,Soporte Técnico,8466069707,347
-429.0,Desarrollador,9447395252,341
-86.0,Soporte Técnico,3333398403,275
-268.0,Despachador,8677800704,132
-,,invalid_cedula,139
-478.0,Diseñador,5715156962,441
-359.0,Desarrollador,1104427684,366
-332.0,Diseñador,8339095829,229
-16.0,Diseñador,4108190592, 258 
-266.0,Gerente,8438830546,431
-156.0,Desarrollador,2119325613,109
-0.0,,invalid_cedula,310
-185.0,Desarrollador,1065127621,104
-60.0,Gerente,2234543837,262
-4.0,Despachador,7043428957,260
-426.0,Soporte Técnico,8143074703,365
-366.0,Gerente,9272581537,165
-240.0,Diseñador,5081688191,164
-275.0,Diseñador,2767206063,399
-98.0,Desarrollador,7401544521,362
-320.0,Desarrollador,4639111914,365
-139.0,Desarrollador,3955541467,497
-390.0,Diseñador,7091743311,454
-407.0,Soporte Técnico,5470926644, 97 
-8.0,Diseñador,8778626193,58
-0.0,,invalid_cedula,82
-10.0,Diseñador,4568635602,267
-182.0,Diseñador,1450537925,46
-345.0,Soporte Técnico,9030431632,265
-119.0,Diseñador,2184212474,33
-321.0,Desarrollador,3824200350,358
-306.0,Despachador,6350122333,347
-316.0,Soporte Técnico,2412997732,160
-489.0,Despachador,1546137838,332
-340.0,Gerente,8257029696,428
-295.0,Gerente,7119334922,202
-81.0,Desarrollador,2784453750,200
-357.0,Despachador,4234748308,196
-141.0,Despachador,8331208433,488
-,,invalid_cedula,280
-0.0,,invalid_cedula,342
-48.0,Desarrollador,2304568507,92
-168.0,Despachador,2958032395,353
-476.0,Diseñador,5456539805, 388 
-,,invalid_cedula,469
-413.0,Desarrollador,1764282178,408
-215.0,Diseñador,1790589453,458
-269.0,Soporte Técnico,2331850197,112
-486.0,Soporte Técnico,8716074585,195
-,,invalid_cedula,315
--1.0,,invalid_cedula,472
-367.0,Despachador,2008609693, 231 
--1.0,,invalid_cedula,231
-353.0,Despachador,5579183432,396
-76.0,Soporte Técnico,6070429655,125
-12.0,Desarrollador,4312428253,410
-327.0,Diseñador,9780566562, 243 
-376.0,Soporte Técnico,5037929578,270
-59.0,Despachador,4348568678,111
-302.0,Diseñador,6698294949,398
-424.0,Soporte Técnico,9361278680,499
-,,invalid_cedula,161
-59.0,Gerente,7658238146,232
-76.0,Despachador,8692968870,30
-490.0,Desarrollador,4848769905,486
-395.0,Diseñador,7400124108,377
-132.0,Desarrollador,8014727820,206
-214.0,Diseñador,4050656503,75
-25.0,Diseñador,8691321281,252
-307.0,Gerente,2431525836,282
-88.0,Desarrollador,6822361060,317
-470.0,Despachador,4610320880,116
--1.0,,invalid_cedula,371
-55.0,Soporte Técnico,8217258200, 159 
-228.0,Despachador,4821570320,113
-38.0,Desarrollador,6772305615,284
-16.0,Desarrollador,8661455454,392
-465.0,Soporte Técnico,8550541749,130
-283.0,Despachador,5019933751,357
-217.0,Despachador,7538979187,128
-,,invalid_cedula,137
-231.0,Desarrollador,6640441750,464
-260.0,Soporte Técnico,3568365079,276
-149.0,Desarrollador,3574874699,427
-97.0,Gerente,1984130790, 417 
-442.0,Soporte Técnico,6015763280,223
-442.0,Diseñador,4140847544,164
-217.0,Diseñador,3339765039, 430 
-442.0,Despachador,7791473155,5
-402.0,Gerente,9994149628,74
-452.0,Despachador,2904080574,226
-153.0,Diseñador,9532856454,78
-302.0,Desarrollador,8097928231,66
--1.0,,invalid_cedula,38
-41.0,Gerente,8683362409,335
-44.0,Gerente,4848881470,271
-293.0,Soporte Técnico,3977727254,389
-319.0,Despachador,3985291981,441
-66.0,Desarrollador,5491412991,232
-369.0,Gerente,2639966267,61
-49.0,Desarrollador,7970610085,173
-351.0,Diseñador,1740427036,173
-483.0,Desarrollador,2900358325,286
-433.0,Despachador,9069176915,138
-434.0,Desarrollador,5231673553,359
-234.0,Soporte Técnico,3291967405, 218 
-456.0,Gerente,6558765599,348
-243.0,Despachador,9039833994, 269 
-77.0,Soporte Técnico,6765801233,478
-378.0,Gerente,4934335499,54
-131.0,Soporte Técnico,6530579255, 319 
-398.0,Despachador,7536177386, 454 
-346.0,Diseñador,9502265770,169
-414.0,Desarrollador,4154891751,371
-15.0,Soporte Técnico,4310693431,491
-151.0,Gerente,3528189140, 182 
-286.0,Soporte Técnico,4960518763,248
-179.0,Gerente,4079293085, 471 
-255.0,Gerente,9890868418,18
-400.0,Diseñador,7294339338, 414 
-408.0,Desarrollador,6928582456,246
-135.0,Despachador,5209558620,411
-439.0,Soporte Técnico,1651667172,69
-84.0,Despachador,5498179617,290
-152.0,Diseñador,2713307559,128
-157.0,Despachador,8894343186,401
-476.0,Gerente,2258483076,43
-432.0,Despachador,2555753093,352
--1.0,,invalid_cedula,136
-364.0,Soporte Técnico,7854221444, 179 
-132.0,Soporte Técnico,1422496956,50
--1.0,,invalid_cedula,188
-282.0,Diseñador,7308038659,499
-205.0,Despachador,1154894019,439
-218.0,Desarrollador,2597249536,118
-0.0,,invalid_cedula,171
-459.0,Despachador,2613875801,66
-,,invalid_cedula,188
-320.0,Soporte Técnico,6880560679,69
-304.0,Soporte Técnico,5502511008,92
-164.0,Despachador,4772835454,6
-132.0,Diseñador,4034478881,144
-169.0,Desarrollador,5698930436,136
-271.0,Diseñador,8385265349,123
-463.0,Diseñador,6356026047,112
-71.0,Diseñador,5705197368,336
-476.0,Desarrollador,6724934416, 438 
-22.0,Gerente,5640258196,193
-,,invalid_cedula,334
-264.0,Diseñador,3149116449,212
-358.0,Desarrollador,4863040859, 202 
-231.0,Desarrollador,8474331973,391
-327.0,Diseñador,2126109340,479
-233.0,Gerente,8113021629,24
-147.0,Desarrollador,9691730340,133
-109.0,Soporte Técnico,9102175438, 2 
-240.0,Diseñador,8379383522, 36 
-108.0,Diseñador,7243596165,495
-486.0,Diseñador,9853574877,473
--1.0,,invalid_cedula,428
-124.0,Gerente,8919434387,236
-321.0,Soporte Técnico,6046187947,413
-310.0,Gerente,3078583460, 465 
-154.0,Gerente,4853133335,218
-320.0,Desarrollador,4267641905,489
-213.0,Gerente,5053359792,141
-122.0,Soporte Técnico,8898545051,225
-368.0,Desarrollador,2265129410,239
-266.0,Desarrollador,6101916231,466
-461.0,Desarrollador,8735342685,64
-434.0,Despachador,4458621216,417
-,,invalid_cedula,429
-87.0,Soporte Técnico,5779792503,158
-0.0,,invalid_cedula,397
-305.0,Soporte Técnico,6709119850,265
-437.0,Diseñador,9366501899,154
-2.0,Diseñador,6329940848, 472 
-133.0,Desarrollador,2765297878,442
-85.0,Despachador,4892291418,88
-237.0,Soporte Técnico,5347394680, 8 
-77.0,Soporte Técnico,7457054126,359
-98.0,Despachador,2550493855,188
-254.0,Despachador,8789911645, 96 
-420.0,Desarrollador,7744509996,266
-404.0,Despachador,5187062950,298
-383.0,Despachador,9281387160,61
-234.0,Diseñador,2284738154,69
-374.0,Desarrollador,2636247474,486
-261.0,Desarrollador,9895139024,421
-167.0,Diseñador,8792213872,427
-73.0,Desarrollador,6284460765, 53 
-0.0,,invalid_cedula,33
-463.0,Diseñador,1430778556,163
-340.0,Desarrollador,7007085168,235
-59.0,Diseñador,7446232530,130
-194.0,Gerente,8503368709,17
-64.0,Despachador,9419747582, 405 
-135.0,Gerente,7897114295,345
-267.0,Despachador,8828294588,257
-0.0,,invalid_cedula,177
-,,invalid_cedula,360
-97.0,Desarrollador,3185905428,58
-290.0,Desarrollador,9448446653,216
-79.0,Soporte Técnico,9713275159,376
-235.0,Desarrollador,6262762557,25
-182.0,Soporte Técnico,5188110545, 276 
-462.0,Diseñador,1336837457,442
-356.0,Soporte Técnico,2974789539,249
-37.0,Despachador,3426768375,415
-132.0,Diseñador,3973698168,152
-365.0,Diseñador,6028427528, 481 
-87.0,Soporte Técnico,9816055138,274
-476.0,Diseñador,5521704627,371
-178.0,Diseñador,6584860241,275
-175.0,Soporte Técnico,3113222468, 230 
-338.0,Soporte Técnico,7370401587,365
-25.0,Despachador,8754893076,422
-178.0,Soporte Técnico,3672121363,100
-248.0,Despachador,2347757105,179
-133.0,Gerente,2891405640,454
-154.0,Soporte Técnico,3730883383, 365 
-92.0,Despachador,6591865547,14
-0.0,,invalid_cedula,308
-,,invalid_cedula,36
-482.0,Desarrollador,4163344123,451
-191.0,Soporte Técnico,4922563034,103
-429.0,Despachador,7679600936,211
-468.0,Desarrollador,8336459788,172
-97.0,Desarrollador,9506440531,212
-23.0,Gerente,4799689955,390
-5.0,Desarrollador,4862412826,415
-93.0,Despachador,3196951298,92
-390.0,Desarrollador,6742578671,446
-192.0,Desarrollador,5031954653,152
-28.0,Despachador,4735021534,452
-395.0,Desarrollador,5446980732,127
-338.0,Despachador,9833099236,320
-409.0,Diseñador,3475589926, 469 
-0.0,,invalid_cedula,112
-223.0,Desarrollador,8370584803,83
-437.0,Gerente,9838963968,362
-226.0,Despachador,7494431294,411
-401.0,Diseñador,5394114757, 135 
-292.0,Despachador,8224343899,470
-323.0,Diseñador,3865195682,120
-92.0,Desarrollador,9458131415,140
-225.0,Diseñador,5143141986,82
-495.0,Gerente,2568245686, 150 
-429.0,Soporte Técnico,1463151478,424
-63.0,Gerente,5965637691, 357 
-139.0,Desarrollador,2462714304,209
-141.0,Desarrollador,3234086844,85
-80.0,Despachador,9539416248, 341 
-42.0,Diseñador,9617016011,106
-170.0,Soporte Técnico,4725017398, 103 
-272.0,Soporte Técnico,1088673929,20
-23.0,Despachador,2557658244,37
-337.0,Diseñador,7133621397, 234 
-318.0,Gerente,3745759845,431
-101.0,Gerente,2824437322,95
-0.0,,invalid_cedula,449
--1.0,,invalid_cedula,76
-413.0,Soporte Técnico,4718778850, 393 
-75.0,Despachador,5498409051,452
-186.0,Despachador,3547713550,477
-448.0,Desarrollador,2629396188,280
-91.0,Diseñador,9693974040,325
-129.0,Despachador,1079071197, 355 
-229.0,Gerente,6891872016,116
-196.0,Soporte Técnico,5275018324,128
-41.0,Soporte Técnico,5014467356,189
-368.0,Despachador,6356645413,385
-89.0,Diseñador,3225620676,150
-24.0,Diseñador,7888570009,162
-297.0,Despachador,4425564394,460
-247.0,Soporte Técnico,9718201293,379
-273.0,Despachador,6446793677,446
-202.0,Desarrollador,9582183023,28
-313.0,Desarrollador,9814344420,480
-374.0,Gerente,5143174512,230
-430.0,Desarrollador,6765948975,406
-134.0,Soporte Técnico,7937525111,260
-,,invalid_cedula,112
-40.0,Desarrollador,3836789771,465
-271.0,Desarrollador,1326250263,315
-1.0,Gerente,6143955206, 183 
-99.0,Despachador,4135336101,72
-127.0,Desarrollador,2751882438,285
-255.0,Diseñador,3687736670,500
-496.0,Despachador,5957496712,158
-444.0,Desarrollador,6030167067,171
-149.0,Despachador,7124848760, 16 
-0.0,,invalid_cedula,136
-193.0,Gerente,1642498636,29
-12.0,Diseñador,6780651631,93
-,,invalid_cedula,290
-473.0,Soporte Técnico,5339321441,266
-167.0,Despachador,2703587168, 408 
-33.0,Gerente,5919891910, 198 
-300.0,Soporte Técnico,3400572388,3
-320.0,Despachador,2417715430,151
-153.0,Despachador,4419623473,4
-307.0,Gerente,6980237350,103
-382.0,Soporte Técnico,3218403644,445
-33.0,Gerente,1783244613,268
-419.0,Gerente,1518678277,9
-22.0,Gerente,6261053040,219
-230.0,Gerente,1553019631,483
-293.0,Soporte Técnico,7347239545,233
-47.0,Desarrollador,8988262527,319
-321.0,Gerente,2805988422,49
-82.0,Diseñador,6286592612, 131 
-472.0,Gerente,5024499536,67
-304.0,Desarrollador,8640346028,142
-447.0,Despachador,5651262788,443
-3.0,Diseñador,4033305362,384
--1.0,,invalid_cedula,11
-244.0,Desarrollador,1683198197,159
-0.0,,invalid_cedula,301
-469.0,Desarrollador,4536731460, 287 
-361.0,Gerente,2312596457,275
-179.0,Gerente,8677298126,272
-170.0,Despachador,7154397534,189
-100.0,Diseñador,2754284458, 169 
-374.0,Soporte Técnico,4871244145, 136 
-197.0,Soporte Técnico,6847431914,219
-82.0,Desarrollador,3781880648,362
-478.0,Despachador,4038518810,327
-499.0,Gerente,6524440122,400
-333.0,Gerente,6146116589, 79 
-52.0,Gerente,9504224857,237
-286.0,Gerente,8258802965,446
-390.0,Despachador,8837115795,427
-66.0,Soporte Técnico,7786874823,209
-164.0,Despachador,2950939310,219
-63.0,Despachador,6032914655, 360 
-107.0,Diseñador,3097191573, 361 
-227.0,Diseñador,3744106548,479
-429.0,Soporte Técnico,5998153703,198
-492.0,Desarrollador,7618551908,247
-134.0,Despachador,7553111985,447
-206.0,Desarrollador,8721634556,301
-30.0,Gerente,4285024318,242
-42.0,Despachador,3931106302, 430 
-20.0,Diseñador,8146301335,385
-25.0,Gerente,5090044388,405
-316.0,Diseñador,8681749747,377
-395.0,Desarrollador,9911822959,298
-486.0,Gerente,6024352518, 120 
-12.0,Despachador,3421008798,135
-201.0,Soporte Técnico,9991448886,182
-349.0,Desarrollador,4166334334,486
-472.0,Despachador,6114998590,268
-63.0,Soporte Técnico,2166198563, 318 
-454.0,Despachador,6983054214,187
-428.0,Desarrollador,1570379952,73
-487.0,Soporte Técnico,1265949698,94
-56.0,Gerente,5378679305,349
-277.0,Soporte Técnico,2002457604,111
-444.0,Gerente,5047427823,304
-343.0,Desarrollador,8918569851,10
-115.0,Diseñador,8029478317,170
-438.0,Gerente,5781205472,276
--1.0,,invalid_cedula,417
-453.0,Soporte Técnico,4922543723,351
-0.0,,invalid_cedula,95
-472.0,Diseñador,2663564101,293
-121.0,Desarrollador,1477090088, 141 
-312.0,Diseñador,6620139076, 261 
-0.0,,invalid_cedula,241
-49.0,Despachador,6660087837, 162 
-104.0,Gerente,7416174028,280
-393.0,Gerente,4757898712,44
-340.0,Soporte Técnico,2525466688, 145 
-270.0,Desarrollador,1964076779,227
-,,invalid_cedula,2
-162.0,Soporte Técnico,6375421420, 450 
-240.0,Desarrollador,6901877837,16
-359.0,Soporte Técnico,4862121448, 228 
-319.0,Gerente,4868364744, 386 
-309.0,Soporte Técnico,3955049347,119
-374.0,Despachador,4780631006,150
-156.0,Diseñador,4238237877,491
-122.0,Diseñador,4707957473,361
-390.0,Diseñador,4147392274,73
-453.0,Gerente,4046098416,154
-61.0,Desarrollador,4221952342,59
-24.0,Diseñador,9367780567, 53 
-72.0,Despachador,5242996523,307
-362.0,Soporte Técnico,8897119892,187
-,,invalid_cedula,260
-332.0,Gerente,8674756414,166
-234.0,Despachador,2543027453, 10 
-128.0,Diseñador,7730848361,254
-57.0,Soporte Técnico,7251045777,326
-225.0,Soporte Técnico,9550894931, 151 
-7.0,Desarrollador,6882234572,81
-355.0,Gerente,7793323778, 63 
-334.0,Diseñador,7104351374,261
-149.0,Diseñador,7899842838,188
-96.0,Despachador,9845854237,41
-485.0,Despachador,5884516558,18
-271.0,Soporte Técnico,7544317223, 497 
-0.0,,invalid_cedula,379
-480.0,Diseñador,1701455523,175
-315.0,Desarrollador,5310609149,309
-244.0,Despachador,6092815546,46
-165.0,Despachador,3753366774,404
-0.0,,invalid_cedula,31
-371.0,Soporte Técnico,6559499802, 292 
-180.0,Desarrollador,7653350911,80
-165.0,Desarrollador,3313919410,89
-57.0,Gerente,4718223356,247
-457.0,Despachador,4692934119,124
-220.0,Desarrollador,5521481557, 150 
-431.0,Diseñador,2509486852,195
--1.0,,invalid_cedula,176
-275.0,Gerente,3111753708,446
-311.0,Gerente,9237737719, 86 
-413.0,Despachador,8036923386,357
-26.0,Soporte Técnico,5681347826,161
-117.0,Gerente,4633936421,476
--1.0,,invalid_cedula,116
-347.0,Soporte Técnico,9679487208,382
-363.0,Diseñador,4595199335,460
-485.0,Diseñador,3950202829,74
-209.0,Diseñador,8593814474, 466 
-308.0,Soporte Técnico,2515380210,211
-101.0,Gerente,9011902333,416
-258.0,Diseñador,3416571280,201
-332.0,Gerente,3250911373,358
-433.0,Diseñador,7304380654, 391 
-174.0,Gerente,1694438462,125
-361.0,Despachador,5027353128,429
-145.0,Gerente,2836549299,397
-312.0,Soporte Técnico,1922576459,497
-206.0,Desarrollador,7058736139,82
-230.0,Soporte Técnico,5795499304,189
-0.0,,invalid_cedula,433
-323.0,Gerente,1514028266,21
-15.0,Diseñador,9947339521,156
-409.0,Soporte Técnico,2173963132,242
-233.0,Diseñador,4720656488,104
-310.0,Gerente,5152244773,199
-323.0,Desarrollador,6080717824,216
-161.0,Despachador,4009368029,366
-445.0,Despachador,8445164166, 69 
-,,invalid_cedula,325
-65.0,Desarrollador,2026177857,462
-218.0,Gerente,2264610149,177
-426.0,Despachador,4106959950,455
-404.0,Desarrollador,7530899358, 419 
-102.0,Desarrollador,2867045896,440
-425.0,Despachador,2578472870,77
-249.0,Diseñador,6380703498,148
-421.0,Desarrollador,2334193948,70
-77.0,Diseñador,6560242250, 89 
-470.0,Gerente,2142593380,240
-378.0,Despachador,6434815249,300
-53.0,Desarrollador,1272587495,111
-192.0,Despachador,2535611190,403
-267.0,Gerente,1235760802,23
-344.0,Despachador,9145811043,178
-287.0,Desarrollador,3841086953,158
-276.0,Despachador,5697150344,219
-48.0,Gerente,9846322134,70
-413.0,Gerente,1997699023,388
-80.0,Despachador,9560778048,344
-1.0,Despachador,2391343524,14
-408.0,Gerente,7946743108,429
-260.0,Desarrollador,3052468317,402
-382.0,Despachador,9685820304,258
-344.0,Desarrollador,9635237148, 72 
-486.0,Diseñador,6847190694,119
-198.0,Gerente,8591168921,336
-492.0,Despachador,6442919088,127
-199.0,Despachador,7037943131,80
-0.0,,invalid_cedula,245
-465.0,Despachador,2295919441,472
-0.0,,invalid_cedula,425
-144.0,Gerente,9059199999,403
-265.0,Diseñador,2854652940,439
-191.0,Diseñador,2260298344, 6 
-35.0,Soporte Técnico,3552228773, 219 
-412.0,Despachador,6558989393,339
-179.0,Gerente,8224981564,311
-268.0,Desarrollador,7123563778,271
-26.0,Gerente,3976093149,174
-432.0,Diseñador,9182462572,397
-315.0,Soporte Técnico,2397900997, 12 
-0.0,,invalid_cedula,8
-234.0,Gerente,3161772523,37
-185.0,Desarrollador,7508883408, 346 
-250.0,Gerente,3416654162, 479 
-0.0,,invalid_cedula,63
-58.0,Diseñador,8404159533,163
-99.0,Gerente,6126835490,225
-468.0,Soporte Técnico,3802643506, 368 
-156.0,Despachador,5111293766, 21 
-167.0,Despachador,9868513782, 373 
-295.0,Soporte Técnico,3562682013, 11 
-328.0,Despachador,2578937250, 443 
-78.0,Soporte Técnico,8419610447,384
-249.0,Desarrollador,4864049833, 396 
-353.0,Gerente,1653060538, 439 
-367.0,Soporte Técnico,2957295427, 143 
-162.0,Desarrollador,5345488448,377
-,,invalid_cedula,383
-280.0,Desarrollador,2707332454, 75 
-437.0,Gerente,7430375722, 61 
-371.0,Diseñador,4550688404,414
-242.0,Despachador,4858678850,469
-105.0,Diseñador,3053677410,288
-377.0,Diseñador,4313855275, 48 
-460.0,Despachador,4444596399, 356 
-331.0,Soporte Técnico,6339419263,27
-75.0,Despachador,6060844049, 9 
-363.0,Despachador,6596678599,305
-497.0,Soporte Técnico,7306439467,25
-405.0,Despachador,9654394529,331
-99.0,Diseñador,1292156072,319
-47.0,Soporte Técnico,9893763938,161
-,,invalid_cedula,88
-158.0,Gerente,5683571132, 154 
-182.0,Despachador,3834323290, 275 
-162.0,Gerente,9097498773,29
-117.0,Gerente,7288606234,415
-423.0,Desarrollador,5785163213,203
-391.0,Despachador,4864112833, 179 
-486.0,Gerente,9544383603,40
-292.0,Soporte Técnico,5667084042,235
-17.0,Diseñador,5335795524, 365 
-419.0,Gerente,3744733714,280
-328.0,Soporte Técnico,1270888044,309
-240.0,Soporte Técnico,6684597205, 66 
-222.0,Diseñador,4404141747,494
-288.0,Desarrollador,6986850880,220
-370.0,Soporte Técnico,2642593454,32
-119.0,Desarrollador,3720263153,247
-227.0,Despachador,6249962126, 312 
-126.0,Diseñador,6583484023,184
-11.0,Diseñador,9709875562,399
-178.0,Gerente,9639426866,375
-367.0,Despachador,9857041029, 76 
-65.0,Despachador,9360516237, 342 
-17.0,Soporte Técnico,2851845057,282
-383.0,Despachador,7853059193,118
-492.0,Desarrollador,2778975172,264
-288.0,Desarrollador,7401595677,362
-,,invalid_cedula,266
-149.0,Despachador,4126696037,204
-424.0,Soporte Técnico,9347535793,110
-363.0,Gerente,9031635045,240
-287.0,Gerente,7057628291,359
-211.0,Soporte Técnico,2774876415, 497 
-371.0,Gerente,7342574454,63
-228.0,Soporte Técnico,2147018453,178
-61.0,Soporte Técnico,7911628438,255
-488.0,Desarrollador,5984889394,423
-258.0,Desarrollador,8746018901,268
-417.0,Gerente,4597399331,151
-412.0,Diseñador,8495526534,335
-61.0,Despachador,3733668233,336
-415.0,Desarrollador,9687240137,200
-273.0,Diseñador,4020321473,259
-418.0,Soporte Técnico,3403637421, 241 
-473.0,Desarrollador,5544751644,166
-48.0,Despachador,5383141126, 438 
-171.0,Despachador,9158293234,296
-294.0,Despachador,3226435586, 365 
--1.0,,invalid_cedula,441
-134.0,Diseñador,4667891587, 271 
-422.0,Despachador,5973648847,91
-143.0,Despachador,6423939152,474
-161.0,Soporte Técnico,6448695846,444
-344.0,Despachador,8801382537,261
-39.0,Desarrollador,2607865950,432
-442.0,Gerente,4347900647,108
-235.0,Despachador,6757775650, 155 
-253.0,Gerente,1372999798,367
-302.0,Desarrollador,7299455276,20
-204.0,Desarrollador,2801184003,281
-,,invalid_cedula,398
-360.0,Diseñador,6626686018,264
-410.0,Gerente,2198997364,440
-456.0,Soporte Técnico,5240646249, 53 
-185.0,Gerente,8013400425, 471 
-297.0,Despachador,6708162649,214
-372.0,Diseñador,9766540630,90
-156.0,Soporte Técnico,4982986329, 483 
-112.0,Despachador,8250573925,308
-244.0,Soporte Técnico,1336416493,386
-240.0,Diseñador,5856416325,450
-202.0,Despachador,8697249432,176
-81.0,Soporte Técnico,4439473926,115
-246.0,Soporte Técnico,5765047713,399
-395.0,Gerente,4547174316, 156 
-421.0,Despachador,9766119473, 207 
-272.0,Diseñador,9093590907,233
-257.0,Desarrollador,9282774888,201
-51.0,Gerente,3897808149, 231 
-11.0,Gerente,3846619449,209
-258.0,Diseñador,5142606189,270
-340.0,Despachador,1384283955, 160 
-359.0,Diseñador,9492363907,28
-47.0,Diseñador,8428948184,29
-143.0,Gerente,8563159610,53
-375.0,Diseñador,2512166244,321
-151.0,Gerente,4636870874, 374 
-254.0,Diseñador,1996876469,67
--1.0,,invalid_cedula,80
-206.0,Desarrollador,7096654626, 358 
--1.0,,invalid_cedula,18
-345.0,Despachador,7589297814, 45 
-34.0,Desarrollador,9242474107, 127 
--1.0,,invalid_cedula,37
-182.0,Diseñador,1867809280, 203 
-367.0,Desarrollador,1575234599,125
-,,invalid_cedula,456
-389.0,Diseñador,9730733381,373
-421.0,Gerente,3044519613,303
-500.0,Despachador,6455875301,186
-269.0,Desarrollador,1039541846, 380 
-414.0,Desarrollador,2663096266,326
-,,invalid_cedula,330
-427.0,Despachador,6603539312,414
-93.0,Desarrollador,7270589058, 27 
-483.0,Gerente,7300501544,64
-453.0,Despachador,9376402553,191
-109.0,Soporte Técnico,1008894471,84
-85.0,Despachador,5486632949,416
-366.0,Soporte Técnico,1336248804,356
-92.0,Gerente,3102556348,277
-0.0,,invalid_cedula,489
-,,invalid_cedula,105
-103.0,Gerente,2885233304,209
-194.0,Despachador,8090650796,388
-410.0,Diseñador,9021153544,41
-374.0,Gerente,3209725327,354
-224.0,Soporte Técnico,7049252900, 300 
-494.0,Despachador,1014872152,332
-166.0,Diseñador,2699496928,19
-44.0,Diseñador,7609864183,394
-273.0,Soporte Técnico,6176100536, 137 
-359.0,Diseñador,1693232832,452
-12.0,Despachador,3729290990,299
-0.0,,invalid_cedula,136
-32.0,Diseñador,2540401630,330
-325.0,Diseñador,8470791599,183
-445.0,Despachador,3776185975,141
-0.0,,invalid_cedula,269
-308.0,Despachador,2934606415,35
-,,invalid_cedula,91
-311.0,Despachador,3686887043,310
-121.0,Despachador,6365223335,483
-276.0,Diseñador,9337467724,478
-0.0,,invalid_cedula,372
-29.0,Soporte Técnico,6979704954,4
-9.0,Gerente,9409830745,151
-377.0,Soporte Técnico,5051142549, 248 
-10.0,Diseñador,6710508709,342
-475.0,Desarrollador,9253392566,142
-287.0,Desarrollador,1730782669,229
-494.0,Diseñador,1917618485,66
-236.0,Despachador,5355358876,95
-253.0,Diseñador,8884407891,271
-479.0,Desarrollador,1686831577, 337 
-416.0,Soporte Técnico,1899823388,230
-158.0,Gerente,2820565198,139
-371.0,Despachador,9688354778,171
-332.0,Desarrollador,3450640062, 297 
-419.0,Despachador,3084361790,81
-8.0,Desarrollador,4387775006,88
-279.0,Diseñador,1429554944,88
-412.0,Gerente,1391479034,116
-0.0,,invalid_cedula,466
-426.0,Soporte Técnico,2309181120,251
-238.0,Diseñador,8251789466,285
-258.0,Despachador,1970916815,64
-371.0,Desarrollador,2059976755,4
-461.0,Gerente,7473193532,78
-229.0,Desarrollador,6867448734,374
-490.0,Soporte Técnico,3345055358,349
-466.0,Diseñador,9016320328,475
-203.0,Despachador,9846052044,94
-119.0,Despachador,9575932768,350
-199.0,Diseñador,2531673071,288
-,,invalid_cedula,39
-238.0,Soporte Técnico,2652686971, 451 
-318.0,Despachador,1742268845,449
-390.0,Gerente,7853499321,274
-282.0,Soporte Técnico,6059181592,485
-364.0,Diseñador,8110774516, 170 
-452.0,Diseñador,5983426208,383
-18.0,Despachador,4934434077,326
-290.0,Despachador,6987754848,496
-140.0,Gerente,5260598704,13
-0.0,,invalid_cedula,365
-406.0,Desarrollador,1144787081, 156 
-448.0,Soporte Técnico,6370820924,352
-294.0,Diseñador,5852841551,274
-141.0,Desarrollador,3708035324,24
-0.0,,invalid_cedula,91
-68.0,Gerente,8550346527,188
-167.0,Diseñador,2876616767, 94 
-408.0,Gerente,8013805030,464
-321.0,Despachador,3540503745,396
-216.0,Despachador,8826489202,116
-260.0,Gerente,2235626500,230
-289.0,Diseñador,9953328278,74
-185.0,Diseñador,1156341572,270
-196.0,Despachador,3717407823,209
-432.0,Desarrollador,4240178083,58
-263.0,Gerente,8975318445,184
--1.0,,invalid_cedula,481
-187.0,Desarrollador,5309732025,110
-425.0,Soporte Técnico,6259381036,67
-248.0,Soporte Técnico,2083359347,150
-372.0,Despachador,1365529157,171
-289.0,Soporte Técnico,7399352646,120
-179.0,Diseñador,9520606336,179
-295.0,Gerente,3335111256,482
-16.0,Soporte Técnico,9102834169, 266 
-218.0,Soporte Técnico,4412707660,85
-467.0,Despachador,4188391597,299
-223.0,Desarrollador,7743261484, 212 
-499.0,Soporte Técnico,8863491028,363
-147.0,Diseñador,1641446460,406
-424.0,Despachador,3232012602,96
-220.0,Gerente,7116095888,464
-407.0,Diseñador,5292237830,171
-167.0,Gerente,5264566344,316
-479.0,Desarrollador,4608948785,437
-412.0,Gerente,6384916732,282
-60.0,Diseñador,5507399255,103
-118.0,Diseñador,9400292448,52
-132.0,Despachador,7284863970, 320 
-144.0,Despachador,8260914034,264
-47.0,Diseñador,3816413588, 218 
-458.0,Diseñador,4826382749,249
-460.0,Soporte Técnico,4718972398,441
-385.0,Despachador,1792952429,409
-137.0,Despachador,4677898376, 183 
-198.0,Gerente,2775537747,88
-64.0,Despachador,8563938561,422
-85.0,Despachador,4420035315, 491 
-0.0,,invalid_cedula,398
-274.0,Gerente,7422633056,100
-180.0,Desarrollador,5295350474,90
-255.0,Soporte Técnico,1920445139,422
-402.0,Desarrollador,5190821154, 109 
-127.0,Gerente,1458784613,331
-428.0,Diseñador,1988042422,425
-243.0,Gerente,8443373502,167
-148.0,Soporte Técnico,1679981170,334
--1.0,,invalid_cedula,129
-362.0,Gerente,9648408995,170
-,,invalid_cedula,452
-119.0,Gerente,7895332672,213
-490.0,Despachador,3659730712,217
-391.0,Despachador,3971589937, 274 
-9.0,Despachador,4504040244,255
+id_colaborador,nombre_colaborador,cargo,telefono,activo
+COL001,Carlos,GERENTE,6073593672,true
+COL002,Diana,DESARROLLADOR,6014175838,true
+COL003,Laura,Despachador,6093036026,false
+COL004, Pedro ,Desarrollador,6023392786,false
+COL005,Ana,Soporte Técnico,6026261882,true
+COL006,Juan,Soporte Técnico,6068681234,true
+COL007,Diana,GERENTE,6099119690,true
+COL008, Ana ,Soporte Técnico,6042215969,true
+COL009,Maria,DESARROLLADOR,6029115425,false
+COL010,Pedro,SOPORTE TÉCNICO,6028680526,true
+0,Juan,,6072118978,true
+COL012,Pedro,Soporte Técnico,603688696,true
+COL013,Diana,DISEÑADOR,6016063426,false
+COL014,Juan,Gerente,6051634920,false
+COL015,Luis,Desarrollador,6075268384,true
+COL016,Jorge,GERENTE,6070208514,false
+COL017, Maria ,Soporte Técnico,6080999162,false
+COL018,Diana,Gerente,603927355,true
+COL019,Carlos,Gerente,6027954597,true
+COL020, Juan ,Soporte Técnico,6079470536,false
+COL021, Laura ,Diseñador,6099358361,false
+COL022, Sofia ,Despachador,6090617256,false
+COL023, Carlos ,Despachador,6015864067,false
+COL024,Pedro,Gerente,603371454,false
+COL025,Juan,Soporte Técnico,6010429501,false
+COL026, Luis ,Soporte Técnico,6018051123,false
+COL027, Pedro ,Soporte Técnico,6083749151,false
+COL028,Juan,GERENTE,6075682013,true
+COL029,Pedro,Despachador,608876432,false
+COL030,Jorge,Despachador,601201051,true
+COL031,Ana,DESARROLLADOR,6097172779,false
+COL032, Diana ,Gerente,6065224535,true
+COL033,Diana,Diseñador,6084924561,false
+,Pedro,,6053695535,false
+COL035,Laura,Gerente,6087048661,false
+COL036,Ana,DISEÑADOR,6099622780,true
+COL037,Jorge,Soporte Técnico,606726441,false
+COL038,Luis,SOPORTE TÉCNICO,6055174153,true
+COL039,Maria,Despachador,605877512,true
+COL040, Jorge ,Despachador,6034527435,false
+COL041,Pedro,DISEÑADOR,6080239724,true
+COL042,Laura,DESARROLLADOR,6090706556,false
+COL043,Juan,Diseñador,6096698398,true
+COL044,Jorge,Diseñador,605843003,false
+COL045,Carlos,DISEÑADOR,6095579057,true
+COL046,Jorge,Desarrollador,604853096,true
+COL047,Jorge,GERENTE,6091588592,true
+COL048, Laura ,Diseñador,6016649146,true
+COL049,Carlos,Soporte Técnico,607059138,true
+COL050, Sofia ,Desarrollador,6010773491,true
+COL051, Laura ,Gerente,6088862434,true
+COL052,Ana,SOPORTE TÉCNICO,6037900971,false
+,Pedro,,6075885786,false
+COL054,Pedro,Gerente,6075977594,true
+COL055,Carlos,Gerente,6089114252,true
+COL056,Carlos,GERENTE,6079562777,false
+COL057,Laura,Diseñador,609749356,false
+COL058,Carlos,Diseñador,607279975,false
+COL059,Ana,Diseñador,6021149581,false
+COL060,Diana,DESARROLLADOR,6095029718,true
+COL061, Pedro ,Despachador,6036669397,false
+COL062,Laura,DESPACHADOR,6040605034,true
+,Carlos,,6051506891,false
+COL064,Juan,DESARROLLADOR,6027722777,true
+COL065,Luis,DISEÑADOR,6018844410,true
+COL066, Luis ,Soporte Técnico,6042394658,true
+COL067,Laura,Despachador,6027458886,true
+COL068,Sofia,Soporte Técnico,6084860699,false
+,Diana,,6049008654,false
+COL070,Maria,Desarrollador,603571481,false
+,Carlos,,6065578636,false
+COL072,Pedro,GERENTE,6026448410,false
+COL073, Carlos ,Soporte Técnico,6069678530,false
+COL074,Laura,Desarrollador,605934772,true
+COL075,Sofia,SOPORTE TÉCNICO,6014332621,true
+COL076,Juan,Despachador,6065286394,false
+COL077,Carlos,Despachador,6042306121,false
+COL078,Luis,GERENTE,6051833759,true
+COL079,Juan,Despachador,6020359106,false
+COL080,Laura,DESARROLLADOR,6052113399,false
+,Jorge,,6089151634,false
+COL082,Jorge,Despachador,609130701,false
+COL083,Sofia,Diseñador,601720357,true
+COL084, Sofia ,Diseñador,6034310258,true
+COL085, Pedro ,Soporte Técnico,6062916972,true
+,Diana,,6082850403,false
+COL087,Pedro,SOPORTE TÉCNICO,6066709331,false
+COL088,Carlos,Gerente,601527441,false
+COL089,Carlos,Desarrollador,6040891984,true
+COL090,Ana,Diseñador,601880265,true
+0,Maria,,6079991091,false
+COL092, Carlos ,Despachador,6081275952,false
+,Sofia,,6081732899,true
+COL094, Jorge ,Diseñador,6090991621,false
+COL095,Carlos,Soporte Técnico,6013494556,false
+COL096, Luis ,Desarrollador,6010166740,true
+COL097,Jorge,GERENTE,6048605743,false
+COL098, Diana ,Despachador,6013034964,true
+COL099,Carlos,GERENTE,6018104073,false
+COL100,Ana,Despachador,609905044,true
+,Sofia,,6038642608,true
+COL102, Jorge ,Desarrollador,6029183321,false
+,Sofia,,6079337812,false
+COL104, Maria ,Soporte Técnico,6081869432,false
+COL105,Diana,Diseñador,606431473,false
+COL106,Jorge,GERENTE,6074084150,true
+COL107,Laura,SOPORTE TÉCNICO,6049912865,true
+COL108,Jorge,GERENTE,6035258289,false
+COL109,Juan,DESARROLLADOR,6068718266,true
+COL110,Ana,Despachador,603894593,false
+COL111,Carlos,Gerente,609314140,true
+COL112,Laura,DESPACHADOR,6081293153,true
+COL113,Luis,Desarrollador,6019172613,false
+COL114,Ana,Soporte Técnico,604953373,true
+COL115,Pedro,Soporte Técnico,608168400,true
+COL116,Jorge,Desarrollador,6074471622,true
+COL117,Juan,DESPACHADOR,6031984202,true
+COL118,Laura,Despachador,6036080944,true
+COL119,Pedro,Gerente,602682150,false
+COL120,Juan,GERENTE,6053398321,false
+COL121, Carlos ,Soporte Técnico,6069031031,false
+COL122,Carlos,DESARROLLADOR,6027601024,true
+COL123,Sofia,SOPORTE TÉCNICO,6033683032,true
+COL124,Luis,SOPORTE TÉCNICO,6079974755,false
+COL125,Jorge,Despachador,603513731,false
+COL126,Sofia,Soporte Técnico,602873197,true
+COL127,Luis,Desarrollador,604717089,false
+COL128,Maria,SOPORTE TÉCNICO,6098426762,false
+COL129,Ana,DISEÑADOR,6072082874,false
+COL130,Carlos,Gerente,608000175,false
+COL131,Diana,DESARROLLADOR,6013092609,false
+,Juan,,6066052609,false
+COL133, Juan ,Gerente,6024391346,false
+COL134,Jorge,Diseñador,606425215,true
+,Sofia,,6058063525,false
+COL136,Sofia,DESARROLLADOR,6074759170,false
+COL137,Diana,Soporte Técnico,6013940484,true
+COL138,Ana,Gerente,601693128,true
+COL139, Carlos ,Diseñador,6063734513,false
+COL140,Jorge,Gerente,607939644,true
+COL141,Sofia,Diseñador,607663739,true
+COL142,Juan,GERENTE,6071004114,false
+COL143,Jorge,DISEÑADOR,6017306853,true
+0,Diana,,6026562179,false
+COL145,Luis,DESPACHADOR,6028342013,true
+COL146, Pedro ,Gerente,6019540923,true
+COL147,Laura,Desarrollador,607287439,true
+COL148, Maria ,Desarrollador,6059243839,false
+COL149, Juan ,Gerente,6083944548,false
+COL150,Juan,Diseñador,602048460,false
+COL151,Maria,Desarrollador,6070238861,false
+COL152,Juan,Gerente,609247252,false
+COL153,Pedro,GERENTE,6070562968,true
+COL154,Ana,Diseñador,608189559,false
+COL155,Pedro,Desarrollador,6064742147,true
+COL156,Pedro,DISEÑADOR,6066297037,false
+COL157,Ana,Soporte Técnico,6030187957,true
+0,Diana,,6086446674,true
+COL159,Juan,Desarrollador,6076792944,false
+COL160,Luis,DISEÑADOR,6084327914,true
+COL161,Sofia,Despachador,603508580,false
+COL162, Maria ,Gerente,6059866015,true
+COL163,Diana,Soporte Técnico,6024186737,false
+COL164,Juan,DESPACHADOR,6057429537,true
+COL165,Sofia,Soporte Técnico,607071899,true
+COL166,Carlos,Soporte Técnico,604320845,false
+COL167, Carlos ,Desarrollador,6079306611,false
+COL168,Carlos,DISEÑADOR,6098477221,false
+COL169,Carlos,Gerente,605149123,false
+COL170, Ana ,Soporte Técnico,6050409635,false
+COL171,Laura,Desarrollador,602291581,false
+,Maria,,6056522114,true
+COL173, Luis ,Gerente,6041929961,true
+COL174,Ana,DESPACHADOR,6019389989,true
+COL175,Pedro,DESARROLLADOR,6050246075,true
+COL176,Diana,Desarrollador,605530402,false
+COL177,Juan,DESARROLLADOR,6088106726,true
+COL178,Luis,DISEÑADOR,6026639866,true
+COL179,Carlos,Soporte Técnico,6088065077,false
+COL180,Laura,DESARROLLADOR,6070544440,false
+COL181,Luis,Diseñador,6075060975,true
+COL182, Ana ,Soporte Técnico,6050982590,true
+COL183, Jorge ,Desarrollador,6016211343,false
+COL184, Jorge ,Desarrollador,6085209996,true
+COL185,Juan,Gerente,6096560276,true
+COL186,Jorge,DESPACHADOR,6027253936,false
+COL187,Pedro,Soporte Técnico,6094163338,true
+,Sofia,,6099040144,false
+,Diana,,6069638223,false
+COL190, Luis ,Gerente,6016800909,true
+COL191, Diana ,Gerente,6076595963,false
+,Ana,,6068622075,false
+COL193,Pedro,Desarrollador,6045988573,false
+COL194, Carlos ,Desarrollador,6033947263,false
+COL195,Maria,Desarrollador,6068182652,false
+COL196, Sofia ,Gerente,6066328443,false
+COL197, Luis ,Diseñador,6034316026,false
+COL198,Luis,Gerente,6087751087,true
+COL199, Juan ,Despachador,6068834255,true
+COL200,Jorge,Despachador,6033301151,true
+COL201,Ana,SOPORTE TÉCNICO,6012915992,true
+COL202, Carlos ,Despachador,6087299135,false
+COL203, Luis ,Gerente,6030092746,true
+COL204,Carlos,GERENTE,6065502352,false
+COL205,Diana,Diseñador,6052262309,true
+COL206, Laura ,Soporte Técnico,6073856755,true
+COL207,Juan,DESARROLLADOR,6075849166,false
+COL208,Diana,DISEÑADOR,6022210085,true
+COL209,Laura,Despachador,6061207995,true
+COL210,Carlos,Soporte Técnico,606551552,false
+COL211,Carlos,DISEÑADOR,6057892143,true
+COL212, Diana ,Gerente,6020284155,false
+COL213,Maria,DESARROLLADOR,6088735339,false
+COL214,Pedro,Diseñador,602495507,true
+COL215,Luis,Despachador,603747458,true
+,Laura,,6064094331,true
+,Luis,,6094719334,false
+COL218,Diana,DESPACHADOR,6076506402,false
+0,Pedro,,6075942138,true
+COL220,Ana,Soporte Técnico,6068124114,false
+COL221,Sofia,SOPORTE TÉCNICO,6016743575,true
+COL222, Juan ,Desarrollador,6094952408,true
+COL223,Juan,DESARROLLADOR,6095140917,true
+COL224, Laura ,Soporte Técnico,6061079176,false
+,Juan,,6038682999,false
+COL226,Jorge,SOPORTE TÉCNICO,6086522895,false
+COL227,Pedro,DESARROLLADOR,6057540628,true
+COL228,Jorge,Despachador,6054550523,true
+COL229,Jorge,GERENTE,6099870082,true
+COL230,Diana,DESPACHADOR,6056829196,false
+COL231,Laura,Desarrollador,605746886,false
+COL232,Jorge,Desarrollador,609425622,true
+COL233,Pedro,GERENTE,6099814318,true
+COL234,Maria,DESPACHADOR,6030259894,true
+COL235, Luis ,Diseñador,6015434899,false
+COL236,Diana,DISEÑADOR,6055751147,true
+COL237,Maria,DESPACHADOR,6087368317,true
+0,Maria,,6044876982,false
+COL239, Diana ,Diseñador,6060233656,false
+COL240,Diana,Gerente,608114082,false
+COL241,Carlos,Desarrollador,602738910,true
+COL242,Sofia,Desarrollador,607190451,true
+COL243, Maria ,Soporte Técnico,6060867736,true
+COL244,Luis,Despachador,6015747576,true
+COL245,Maria,Soporte Técnico,604262427,true
+COL246,Pedro,Soporte Técnico,6020544088,false
+COL247,Laura,Diseñador,609261823,true
+COL248,Jorge,DESPACHADOR,6017288932,true
+COL249,Maria,Soporte Técnico,6072328343,true
+COL250, Diana ,Despachador,6053939252,false
+COL251,Pedro,Despachador,601090296,false
+COL252, Pedro ,Soporte Técnico,6053282494,true
+COL253,Jorge,Gerente,6041489425,false
+COL254,Juan,Desarrollador,6044051697,false
+COL255,Jorge,DESARROLLADOR,6086946653,false
+COL256,Luis,Despachador,607617574,true
+COL257,Juan,Soporte Técnico,6061807490,false
+COL258,Diana,Diseñador,6055840410,true
+COL259,Maria,DISEÑADOR,6037406677,true
+COL260,Pedro,Despachador,6026964461,true
+COL261, Ana ,Diseñador,6092030544,true
+COL262,Luis,Soporte Técnico,6041207084,false
+COL263,Diana,DESPACHADOR,6047551517,true
+COL264,Maria,SOPORTE TÉCNICO,6038755621,false
+COL265,Juan,DISEÑADOR,6084626213,true
+COL266,Maria,Soporte Técnico,6035243222,false
+COL267,Diana,Diseñador,605452454,false
+COL268,Juan,GERENTE,6095444378,false
+COL269,Luis,DESPACHADOR,6067135712,false
+,Carlos,,6053528972,false
+COL271,Luis,Gerente,6054139271,false
+COL272, Carlos ,Despachador,6026050209,true
+0,Pedro,,6036125314,false
+COL274,Juan,Gerente,6099639047,false
+COL275,Diana,SOPORTE TÉCNICO,6043924429,false
+COL276,Sofia,GERENTE,6027707193,false
+,Pedro,,6072054708,false
+COL278, Sofia ,Despachador,6097735033,true
+COL279,Diana,Desarrollador,6044520746,true
+COL280, Carlos ,Gerente,6065110205,true
+COL281,Carlos,DESARROLLADOR,6019305444,false
+COL282,Jorge,DISEÑADOR,6022807776,false
+COL283,Ana,Gerente,608040413,true
+COL284,Carlos,Despachador,604571067,true
+COL285,Pedro,DISEÑADOR,6021022811,true
+COL286,Pedro,SOPORTE TÉCNICO,6037299997,true
+COL287, Juan ,Soporte Técnico,6045770313,false
+COL288,Juan,Soporte Técnico,6085964370,true
+COL289, Diana ,Soporte Técnico,6075164872,true
+COL290,Diana,GERENTE,6056162766,false
+COL291, Jorge ,Despachador,6071511793,false
+COL292, Juan ,Gerente,6040390006,false
+COL293,Diana,Despachador,603155927,false
+COL294,Ana,Desarrollador,6014689037,true
+COL295, Diana ,Desarrollador,6042244579,true
+COL296,Laura,Desarrollador,6053805678,true
+COL297, Sofia ,Soporte Técnico,6079362284,false
+COL298,Ana,SOPORTE TÉCNICO,6052622621,true
+COL299,Sofia,Desarrollador,6051606465,false
+COL300, Maria ,Desarrollador,6075521681,true
+COL301,Luis,Soporte Técnico,608792971,false
+COL302,Ana,DISEÑADOR,6064483296,true
+COL303,Luis,Gerente,6048190444,false
+COL304,Sofia,Diseñador,6037658437,false
+COL305,Luis,GERENTE,6089384239,false
+COL306,Sofia,Soporte Técnico,6053416254,true
+COL307,Ana,SOPORTE TÉCNICO,6045278415,false
+COL308,Juan,DESARROLLADOR,6049441304,true
+COL309,Sofia,Desarrollador,6058393338,true
+COL310,Laura,Despachador,604917074,true
+COL311,Laura,SOPORTE TÉCNICO,6054636053,true
+COL312,Jorge,Gerente,6093030867,true
+COL313,Carlos,Gerente,6018497712,true
+COL314,Luis,DESARROLLADOR,6019206056,false
+COL315, Pedro ,Desarrollador,6086558186,true
+COL316,Pedro,DISEÑADOR,6089720367,true
+COL317,Carlos,Despachador,607946791,false
+COL318,Carlos,DESPACHADOR,6099193624,false
+COL319,Juan,Desarrollador,6090923022,false
+COL320,Sofia,Desarrollador,6088874393,false
+COL321,Ana,GERENTE,6026822367,false
+COL322,Jorge,DISEÑADOR,6054400930,true
+COL323,Laura,Diseñador,6058731334,true
+COL324,Maria,Soporte Técnico,6072428963,false
+COL325,Carlos,Soporte Técnico,608260248,false
+COL326,Sofia,DISEÑADOR,6061364474,true
+COL327,Sofia,Soporte Técnico,6043408813,false
+COL328,Maria,Diseñador,6040410355,true
+COL329,Ana,GERENTE,6013345098,true
+COL330,Diana,Desarrollador,6086438512,true
+COL331,Pedro,DISEÑADOR,6039348058,false
+COL332, Carlos ,Desarrollador,6082870551,false
+COL333,Sofia,DESPACHADOR,6072376625,true
+,Maria,,6017373662,true
+COL335,Sofia,Despachador,6052907234,true
+COL336,Diana,DESPACHADOR,6071939183,false
+COL337,Diana,DISEÑADOR,6074172079,true
+COL338,Laura,Gerente,6017522647,false
+COL339, Diana ,Desarrollador,6048492667,false
+COL340,Sofia,DISEÑADOR,6030746147,false
+COL341,Juan,Despachador,604580115,true
+COL342,Sofia,Diseñador,602263816,false
+COL343,Jorge,DESPACHADOR,6027455434,true
+COL344, Juan ,Soporte Técnico,6065645223,true
+,Sofia,,6051481865,false
+COL346, Jorge ,Diseñador,6094117270,true
+COL347,Maria,SOPORTE TÉCNICO,6073982767,false
+COL348,Maria,DISEÑADOR,6060007423,false
+COL349,Laura,Desarrollador,6069842326,false
+COL350,Laura,Diseñador,603022083,false
+,Ana,,6082605821,true
+COL352,Juan,Diseñador,601330550,true
+COL353,Laura,Despachador,605004729,false
+COL354,Carlos,DESPACHADOR,6028824928,false
+COL355,Jorge,Despachador,602451264,true
+COL356, Pedro ,Gerente,6049655356,true
+COL357,Diana,DISEÑADOR,6046870118,true
+COL358,Juan,DISEÑADOR,6014540320,true
+COL359, Pedro ,Soporte Técnico,6015103855,false
+COL360,Luis,DESPACHADOR,6062327295,true
+COL361,Ana,DESPACHADOR,6056241780,false
+COL362,Maria,DISEÑADOR,6099646076,false
+,Ana,,6072641731,true
+,Ana,,6048493438,false
+COL365,Luis,GERENTE,6092340771,true
+COL366,Juan,DESPACHADOR,6035268424,false
+COL367,Laura,Soporte Técnico,6080500438,false
+COL368, Luis ,Desarrollador,6051339248,true
+COL369,Carlos,DESPACHADOR,6060941497,true
+0,Juan,,6042456782,false
+COL371,Pedro,SOPORTE TÉCNICO,6071494856,false
+COL372,Pedro,Soporte Técnico,603844196,false
+COL373,Diana,Diseñador,6051629900,true
+COL374,Pedro,SOPORTE TÉCNICO,6030494381,true
+COL375,Ana,DISEÑADOR,6087583457,false
+COL376,Diana,DESPACHADOR,6056121069,true
+COL377,Juan,Desarrollador,6097488735,false
+COL378,Carlos,Soporte Técnico,6083504489,true
+COL379, Carlos ,Soporte Técnico,6044123480,true
+COL380,Ana,Desarrollador,6064189515,true
+COL381,Diana,SOPORTE TÉCNICO,6054180410,true
+0,Jorge,,6077368317,false
+COL383, Ana ,Soporte Técnico,6051604329,false
+COL384, Carlos ,Gerente,6011038067,false
+COL385,Maria,SOPORTE TÉCNICO,6092745034,true
+COL386,Pedro,Diseñador,6075095956,false
+COL387, Juan ,Soporte Técnico,6069807835,true
+COL388, Ana ,Soporte Técnico,6028545020,false
+,Pedro,,6061597056,false
+COL390,Jorge,DISEÑADOR,6065157213,false
+COL391,Pedro,Soporte Técnico,607978807,false
+COL392,Pedro,Diseñador,604742402,false
+COL393,Laura,Soporte Técnico,605676012,true
+COL394,Laura,GERENTE,6045271869,false
+COL395,Ana,DISEÑADOR,6099034190,false
+COL396, Maria ,Gerente,6012374730,true
+,Diana,,6021762647,true
+COL398, Pedro ,Diseñador,6057922138,true
+COL399,Ana,SOPORTE TÉCNICO,6011753351,false
+COL400, Carlos ,Despachador,6093717261,false
+COL401, Jorge ,Soporte Técnico,6020248329,false
+COL402,Juan,SOPORTE TÉCNICO,6056527902,false
+COL403,Sofia,DESARROLLADOR,6090879591,false
+COL404,Laura,DESPACHADOR,6021256178,false
+COL405,Diana,Despachador,604132968,false
+COL406,Sofia,Gerente,6065195708,false
+COL407,Luis,Soporte Técnico,604773349,true
+,Sofia,,6061606066,false
+COL409,Laura,Diseñador,603851979,true
+COL410,Sofia,Soporte Técnico,607545784,true
+COL411,Juan,Soporte Técnico,606773493,true
+COL412,Diana,DISEÑADOR,6093616446,false
+COL413,Maria,Desarrollador,604859684,true
+COL414,Pedro,Desarrollador,605021099,true
+COL415, Diana ,Desarrollador,6026333980,true
+,Laura,,6053741661,true
+COL417,Luis,GERENTE,6097012376,true
+COL418,Ana,GERENTE,6083808918,true
+COL419,Laura,Gerente,603831799,false
+,Carlos,,6062992635,false
+,Luis,,6020427640,true
+COL422,Maria,DESPACHADOR,6088722986,false
+COL423,Maria,DESARROLLADOR,6062028830,true
+COL424,Diana,SOPORTE TÉCNICO,6056101166,false
+COL425,Maria,Soporte Técnico,602228691,false
+COL426,Juan,Despachador,6071466947,true
+COL427,Maria,GERENTE,6053648413,true
+COL428,Ana,DISEÑADOR,6056674643,false
+COL429,Maria,Despachador,6097314213,true
+COL430,Juan,GERENTE,6087856182,true
+COL431, Sofia ,Soporte Técnico,6087521550,true
+COL432,Juan,DESARROLLADOR,6088984670,false
+COL433, Maria ,Desarrollador,6017113134,false
+COL434,Jorge,GERENTE,6052772554,true
+COL435, Laura ,Soporte Técnico,6070642826,false
+COL436, Ana ,Desarrollador,6050971732,false
+,Ana,,6033103396,true
+COL438,Juan,SOPORTE TÉCNICO,6050970915,true
+COL439,Jorge,SOPORTE TÉCNICO,6091702530,true
+COL440,Diana,Despachador,6026091019,false
+,Luis,,6035842962,true
+COL442,Carlos,Soporte Técnico,6080931662,false
+COL443,Maria,DESPACHADOR,6023721575,false
+COL444,Ana,GERENTE,6095896744,false
+COL445,Carlos,Desarrollador,6091168728,false
+COL446,Pedro,Desarrollador,6010056308,true
+COL447,Maria,Soporte Técnico,6021240016,true
+COL448,Luis,Despachador,6031773327,false
+COL449,Diana,Soporte Técnico,6099450750,false
+COL450, Pedro ,Soporte Técnico,6081568354,true
+COL451, Jorge ,Gerente,6075549788,false
+COL452,Jorge,DESPACHADOR,6030054226,false
+COL453, Ana ,Soporte Técnico,6079703533,false
+COL454, Carlos ,Desarrollador,6032051526,false
+COL455, Ana ,Desarrollador,6060470975,true
+,Jorge,,6083138227,true
+COL457,Sofia,DISEÑADOR,6019245857,false
+COL458,Ana,Soporte Técnico,608279679,true
+COL459,Maria,Soporte Técnico,603398554,true
+COL460,Pedro,Desarrollador,6095990044,false
+COL461,Ana,Gerente,609511111,false
+,Maria,,6050024682,true
+COL463,Maria,DESARROLLADOR,6028380662,true
+COL464,Laura,DESPACHADOR,6062930937,false
+COL465, Sofia ,Despachador,6083636066,false
+COL466,Carlos,GERENTE,6035210249,false
+COL467, Ana ,Soporte Técnico,6037185497,false
+COL468,Luis,DESARROLLADOR,6036841096,true
+COL469,Sofia,Soporte Técnico,605363694,true
+COL470,Juan,DESPACHADOR,6082523858,true
+COL471,Carlos,Diseñador,6088065191,false
+COL472,Diana,Soporte Técnico,607802363,false
+COL473, Pedro ,Despachador,6079650401,false
+COL474, Jorge ,Gerente,6090047312,true
+COL475, Laura ,Soporte Técnico,6056521818,false
+COL476,Sofia,GERENTE,6070203313,false
+COL477,Jorge,Soporte Técnico,604105062,false
+COL478,Diana,Despachador,6029329185,false
+COL479,Laura,Diseñador,606927827,true
+COL480,Maria,Gerente,605774052,false
+COL481, Maria ,Soporte Técnico,6060013874,false
+,Ana,,6017048961,true
+COL483,Juan,DISEÑADOR,6047627197,false
+COL484,Maria,Despachador,6069094600,false
+COL485,Laura,Despachador,606514663,false
+COL486,Maria,Desarrollador,603203474,true
+COL487,Diana,SOPORTE TÉCNICO,6013323211,true
+COL488, Ana ,Diseñador,6094083080,true
+COL489,Diana,DISEÑADOR,6014278320,false
+COL490,Pedro,Desarrollador,607604401,true
+COL491, Pedro ,Desarrollador,6051536824,true
+COL492,Juan,Soporte Técnico,602613350,true
+COL493, Pedro ,Soporte Técnico,6015096548,false
+COL494,Juan,DESPACHADOR,6081840079,false
+COL495, Maria ,Gerente,6029141769,false
+COL496,Sofia,GERENTE,6049865204,false
+COL497,Luis,Diseñador,6044007040,true
+COL498,Luis,Despachador,6035735371,false
+COL499,Ana,Diseñador,609487242,false
+COL500,Maria,Desarrollador,608140133,false
+COL501,Sofia,DESARROLLADOR,6077330864,false
+COL502,Luis,Despachador,602199764,true
+COL503,Ana,DESARROLLADOR,6036025818,false
+COL504,Laura,Soporte Técnico,6061468675,true
+COL505,Jorge,GERENTE,6056964880,false
+COL506,Juan,SOPORTE TÉCNICO,6078612489,true
+COL507, Ana ,Soporte Técnico,6038175306,true
+COL508,Sofia,Soporte Técnico,6013247863,false
+0,Sofia,,6074896000,true
+COL510,Carlos,Despachador,606559332,true
+COL511, Ana ,Soporte Técnico,6021095243,false
+COL512, Luis ,Gerente,6047719540,false
+COL513,Maria,GERENTE,6068199566,false
+COL514,Maria,SOPORTE TÉCNICO,6064835074,false
+COL515,Luis,DISEÑADOR,6098832610,false
+COL516,Laura,GERENTE,6099782833,false
+COL517,Sofia,Desarrollador,608248679,false
+COL518,Luis,Desarrollador,6090569909,true
+COL519,Pedro,Diseñador,6072718338,true
+COL520, Laura ,Soporte Técnico,6057663788,false
+COL521,Juan,Soporte Técnico,601425219,false
+COL522,Jorge,GERENTE,6073689609,true
+COL523,Maria,DISEÑADOR,6077703880,false
+COL524,Maria,DESARROLLADOR,6025153767,false
+COL525, Carlos ,Despachador,6082451032,false
+COL526, Sofia ,Gerente,6049971287,false
+COL527,Ana,Despachador,605744968,true
+COL528, Diana ,Despachador,6059482402,true
+COL529,Ana,DESPACHADOR,6045237657,true
+COL530, Diana ,Despachador,6036410809,true
+COL531,Pedro,SOPORTE TÉCNICO,6046910061,false
+COL532,Laura,Desarrollador,601161839,false
+COL533,Sofia,Despachador,6075772261,true
+COL534,Carlos,Diseñador,6067752448,false
+COL535,Jorge,DESARROLLADOR,6017362138,true
+COL536,Luis,DESPACHADOR,6070541756,true
+COL537,Laura,DESPACHADOR,6068036109,true
+COL538,Juan,Desarrollador,602493769,false
+COL539,Maria,Diseñador,604689077,false
+COL540,Pedro,DESPACHADOR,6086143320,false
+0,Luis,,6056201072,true
+0,Pedro,,6018169815,true
+COL543,Luis,Gerente,6055659231,true
+COL544, Sofia ,Soporte Técnico,6057754216,false
+COL545, Luis ,Soporte Técnico,6076190490,true
+,Luis,,6072870079,true
+COL547,Luis,Soporte Técnico,607377734,false
+COL548, Luis ,Desarrollador,6047355098,false
+COL549,Sofia,Soporte Técnico,6079732349,true
+,Pedro,,6068983033,false
+COL551,Jorge,DESPACHADOR,6017259610,true
+COL552, Diana ,Desarrollador,6063380161,false
+COL553,Sofia,Despachador,609017308,true
+COL554, Diana ,Desarrollador,6052467141,false
+COL555,Pedro,Soporte Técnico,6018268719,false
+COL556,Juan,Diseñador,6070788784,true
+COL557, Luis ,Soporte Técnico,6054755577,false
+COL558, Luis ,Desarrollador,6082770825,true
+COL559,Jorge,DISEÑADOR,6026124867,true
+COL560,Pedro,Diseñador,603903799,true
+COL561,Pedro,Desarrollador,6019525115,true
+COL562,Maria,SOPORTE TÉCNICO,6012865591,false
+COL563, Carlos ,Diseñador,6019131804,true
+COL564,Diana,Despachador,6023966992,false
+COL565,Luis,DISEÑADOR,6054920759,true
+COL566,Sofia,Desarrollador,6035160926,false
+COL567,Jorge,SOPORTE TÉCNICO,6029977227,true
+COL568, Maria ,Soporte Técnico,6084893038,false
+COL569,Ana,GERENTE,6084086950,false
+COL570,Diana,Soporte Técnico,6081441627,false
+COL571,Ana,DESARROLLADOR,6037079829,true
+COL572,Diana,SOPORTE TÉCNICO,6052907474,false
+COL573, Ana ,Diseñador,6066565636,false
+COL574,Pedro,SOPORTE TÉCNICO,6025448803,false
+COL575, Laura ,Despachador,6099440785,false
+COL576,Pedro,Despachador,609996232,false
+COL577,Diana,DESARROLLADOR,6045117154,false
+COL578,Diana,Gerente,6067644040,false
+COL579, Laura ,Desarrollador,6034850593,false
+COL580,Diana,Desarrollador,6083434349,false
+COL581,Pedro,DESARROLLADOR,6040817118,true
+COL582,Sofia,DESARROLLADOR,6023833252,true
+COL583, Diana ,Despachador,6042691011,false
+,Pedro,,6055121511,true
+COL585, Carlos ,Gerente,6070555337,true
+0,Sofia,,6090703508,true
+COL587,Ana,Soporte Técnico,6023836390,true
+COL588,Maria,GERENTE,6019786981,false
+COL589,Jorge,GERENTE,6031848705,true
+COL590,Luis,Despachador,609689975,false
+COL591,Maria,Desarrollador,6022502173,true
+COL592,Diana,Diseñador,6046757927,true
+COL593,Pedro,SOPORTE TÉCNICO,6071472063,true
+COL594,Maria,Gerente,6096935815,false
+COL595,Diana,Gerente,6080649508,true
+COL596, Jorge ,Soporte Técnico,6044394501,false
+COL597,Luis,GERENTE,6055431738,false
+COL598,Carlos,Desarrollador,6048240104,false
+COL599,Laura,Soporte Técnico,6041148243,true
+COL600, Diana ,Desarrollador,6041054066,true
+COL601,Luis,DISEÑADOR,6082731785,false
+COL602,Carlos,SOPORTE TÉCNICO,6081318274,false
+0,Pedro,,6098059506,true
+COL604,Carlos,Gerente,608770635,true
+COL605,Juan,DESPACHADOR,6058315712,true
+COL606,Carlos,DESARROLLADOR,6023468853,false
+COL607,Luis,Despachador,605131849,false
+COL608,Juan,Despachador,6022464165,true
+COL609,Sofia,DESARROLLADOR,6027910786,false
+0,Sofia,,6030077465,false
+COL611,Diana,SOPORTE TÉCNICO,6058821304,false
+COL612,Pedro,Despachador,604042561,false
+COL613,Luis,Diseñador,607524215,true
+,Luis,,6030861650,true
+COL615, Juan ,Despachador,6026498358,true
+COL616,Diana,SOPORTE TÉCNICO,6092260211,true
+COL617, Carlos ,Despachador,6021828077,false
+COL618,Luis,Soporte Técnico,6070097902,true
+COL619,Diana,Soporte Técnico,6045725769,false
+COL620,Juan,GERENTE,6093000991,true
+COL621,Ana,Desarrollador,604021450,true
+COL622,Juan,Desarrollador,6022821735,false
+COL623,Jorge,DESARROLLADOR,6095979122,true
+COL624,Pedro,Despachador,602339192,true
+COL625,Sofia,DESPACHADOR,6021941597,true
+COL626,Jorge,DESPACHADOR,6014902024,true
+COL627, Carlos ,Desarrollador,6023213193,false
+COL628,Luis,Soporte Técnico,6055160007,false
+COL629,Diana,DESARROLLADOR,6040765243,false
+COL630, Laura ,Desarrollador,6065791517,true
+COL631,Luis,SOPORTE TÉCNICO,6027774457,true
+COL632,Jorge,Gerente,602926696,true
+COL633,Jorge,Despachador,606792095,false
+COL634,Maria,Soporte Técnico,6021789561,false
+COL635, Jorge ,Despachador,6090785822,false
+COL636,Laura,Despachador,6047918641,false
+COL637,Ana,Soporte Técnico,604587532,true
+COL638, Maria ,Soporte Técnico,6089947861,false
+COL639,Laura,Desarrollador,6019597692,false
+COL640,Carlos,Gerente,6046524092,false
+COL641,Ana,DESARROLLADOR,6069079246,false
+,Diana,,6028349213,false
+COL643,Ana,GERENTE,6040099334,true
+COL644,Pedro,SOPORTE TÉCNICO,6077748361,true
+COL645,Luis,Gerente,604183763,true
+COL646,Ana,DESPACHADOR,6079337515,false
+COL647,Jorge,Soporte Técnico,6032853981,false
+COL648, Diana ,Despachador,6097389000,true
+COL649,Carlos,DISEÑADOR,6078758457,true
+0,Diana,,6078000169,true
+COL651,Pedro,Diseñador,6047099483,true
+COL652,Pedro,Soporte Técnico,606012400,true
+COL653,Ana,Soporte Técnico,603767292,false
+COL654,Diana,Soporte Técnico,607840640,true
+COL655,Sofia,Diseñador,603645190,false
+COL656,Sofia,Despachador,6025968854,false
+COL657,Diana,GERENTE,6095763959,false
+COL658,Luis,DESARROLLADOR,6034525649,true
+COL659,Juan,Despachador,6011776010,false
+COL660, Laura ,Despachador,6062502913,false
+COL661,Carlos,Desarrollador,6010594066,false
+,Laura,,6048198436,true
+COL663,Jorge,Gerente,6035419436,false
+COL664,Pedro,Despachador,6042427141,true
+COL665,Jorge,GERENTE,6026426285,true
+COL666,Juan,Desarrollador,607152033,true
+COL667, Ana ,Desarrollador,6014642977,true
+COL668,Diana,Desarrollador,6068734362,false
+COL669,Ana,DISEÑADOR,6022345166,false
+COL670,Ana,Desarrollador,6036386244,true
+COL671,Laura,DESARROLLADOR,6082941315,true
+COL672, Laura ,Diseñador,6049597050,false
+COL673, Diana ,Diseñador,6089123663,true
+COL674,Ana,DESPACHADOR,6093579335,true
+COL675,Luis,Despachador,6092587974,true
+0,Juan,,6089225426,true
+COL677,Maria,Desarrollador,6086905456,false
+COL678, Maria ,Desarrollador,6023883720,false
+COL679,Maria,Gerente,6081965455,false
+COL680, Ana ,Soporte Técnico,6099287265,false
+COL681,Luis,Desarrollador,6059320406,false
+,Jorge,,6097866217,false
+COL683,Laura,Desarrollador,6081017619,true
+COL684,Maria,Desarrollador,6071974938,false
+COL685,Jorge,DESPACHADOR,6041724950,true
+COL686,Diana,DISEÑADOR,6095753925,false
+,Diana,,6043595381,true
+COL688, Maria ,Despachador,6051543560,true
+COL689,Laura,DISEÑADOR,6064749202,false
+COL690,Sofia,Diseñador,6057950777,false
+COL691, Ana ,Despachador,6030150442,false
+COL692,Pedro,Gerente,604592168,true
+COL693,Sofia,Despachador,6016270219,true
+COL694,Sofia,Desarrollador,607427710,true
+COL695, Maria ,Diseñador,6039754874,false
+,Ana,,6041982233,false
+COL697, Laura ,Diseñador,6051742790,false
+COL698, Luis ,Despachador,6075480279,false
+COL699,Maria,DISEÑADOR,6058888442,false
+COL700,Jorge,Diseñador,6023961365,false
+COL701, Ana ,Diseñador,6032378996,false
+COL702,Carlos,Desarrollador,6035688291,true
+COL703,Luis,GERENTE,6084875234,false
+COL704,Diana,DESPACHADOR,6064526389,true
+COL705,Sofia,Despachador,6016340645,false
+COL706,Ana,SOPORTE TÉCNICO,6070437225,false
+COL707,Maria,Diseñador,607745782,true
+COL708,Laura,Soporte Técnico,6029350619,true
+COL709,Ana,Gerente,6071581850,true
+COL710,Juan,DISEÑADOR,6023422865,false
+COL711, Carlos ,Desarrollador,6044788397,true
+COL712,Pedro,Desarrollador,603715276,false
+COL713,Laura,GERENTE,6033764631,true
+COL714,Carlos,Despachador,601495103,true
+0,Maria,,6072646986,true
+COL716,Jorge,GERENTE,6027166874,false
+COL717,Maria,Diseñador,6022688343,true
+COL718,Pedro,DESPACHADOR,6030526718,true
+COL719,Pedro,DESARROLLADOR,6043521897,true
+COL720,Maria,DISEÑADOR,6051858716,true
+COL721,Jorge,DESPACHADOR,6016225099,true
+COL722,Diana,Desarrollador,608958001,false
+COL723,Luis,Gerente,6059257918,true
+0,Carlos,,6011607121,true
+,Maria,,6073858810,false
+COL726,Pedro,SOPORTE TÉCNICO,6019838394,false
+COL727, Laura ,Gerente,6085442896,false
+COL728,Sofia,DESPACHADOR,6089714042,true
+COL729,Luis,Gerente,605595034,false
+,Maria,,6013536565,false
+,Maria,,6094806910,false
+COL732,Laura,GERENTE,6021093606,true
+COL733,Pedro,GERENTE,6038489977,true
+COL734,Laura,Soporte Técnico,602370881,true
+COL735,Luis,Despachador,6093300810,false
+COL736, Carlos ,Soporte Técnico,6013381912,false
+COL737,Jorge,DISEÑADOR,6060828678,true
+COL738,Maria,SOPORTE TÉCNICO,6090792630,false
+COL739, Maria ,Soporte Técnico,6034037344,true
+COL740,Luis,SOPORTE TÉCNICO,6017564112,false
+COL741,Jorge,Despachador,6066224021,false
+COL742, Laura ,Soporte Técnico,6031392637,false
+COL743,Maria,Soporte Técnico,6072359165,true
+COL744,Ana,DESARROLLADOR,6061721754,false
+COL745, Pedro ,Gerente,6035512862,false
+COL746, Ana ,Gerente,6098334282,false
+COL747,Ana,Gerente,609725035,true
+COL748,Luis,Soporte Técnico,6042159247,true
+COL749,Ana,DISEÑADOR,6033704766,true
+COL750,Juan,GERENTE,6032480162,true
+COL751, Luis ,Soporte Técnico,6074159286,true
+COL752, Luis ,Diseñador,6044762408,true
+COL753,Pedro,Diseñador,6013300016,true
+COL754,Ana,Gerente,6062093907,true
+COL755,Luis,DESARROLLADOR,6052522496,false
+COL756,Carlos,DESARROLLADOR,6098671025,true
+,Pedro,,6023348484,false
+COL758, Juan ,Soporte Técnico,6058572691,false
+COL759,Laura,SOPORTE TÉCNICO,6084862352,true
+COL760,Carlos,DESARROLLADOR,6047767341,true
+COL761,Carlos,Desarrollador,609349444,true
+,Carlos,,6044312801,false
+COL763,Pedro,Soporte Técnico,6089016799,true
+COL764,Pedro,GERENTE,6042521886,true
+COL765,Sofia,SOPORTE TÉCNICO,6062704090,false
+,Laura,,6033067523,true
+COL767,Carlos,DISEÑADOR,6051081654,true
+COL768,Luis,Diseñador,6099928695,true
+COL769,Carlos,DISEÑADOR,6058559267,true
+COL770, Maria ,Diseñador,6017208251,true
+COL771,Juan,DISEÑADOR,6069805099,false
+COL772,Diana,Desarrollador,609735669,true
+COL773,Ana,DESPACHADOR,6060675721,true
+,Juan,,6076768198,true
+COL775, Carlos ,Diseñador,6073538603,true
+COL776,Laura,DESARROLLADOR,6077325263,true
+COL777, Diana ,Despachador,6064505755,true
+COL778,Jorge,DISEÑADOR,6065170626,false
+COL779,Pedro,DISEÑADOR,6028669630,false
+COL780,Pedro,Despachador,6021243100,true
+COL781, Jorge ,Diseñador,6035588693,false
+COL782, Jorge ,Desarrollador,6084950121,false
+COL783,Laura,DESPACHADOR,6036943101,true
+COL784,Diana,SOPORTE TÉCNICO,6012295312,true
+COL785,Sofia,Soporte Técnico,606296340,true
+COL786, Pedro ,Despachador,6062421355,false
+COL787,Diana,DESPACHADOR,6061950246,true
+COL788,Carlos,Diseñador,601291854,false
+COL789,Diana,DESPACHADOR,6066526835,true
+COL790,Ana,DESARROLLADOR,6047972223,false
+COL791,Jorge,Despachador,607898826,true
+COL792,Maria,DESARROLLADOR,6092858909,false
+COL793, Ana ,Gerente,6024011818,true
+COL794,Diana,GERENTE,6012432128,true
+,Juan,,6077946344,true
+COL796,Sofia,DISEÑADOR,6059092571,true
+COL797,Pedro,Desarrollador,6019743803,false
+COL798,Carlos,DISEÑADOR,6078700569,false
+COL799,Laura,Diseñador,605666008,true
+0,Diana,,6062717288,false
+COL801, Maria ,Diseñador,6076849843,true
+COL802,Pedro,SOPORTE TÉCNICO,6042968707,false
+COL803, Luis ,Soporte Técnico,6046403941,false
+COL804,Carlos,Gerente,6084777885,false
+COL805,Pedro,Diseñador,6094805267,false
+COL806,Carlos,Soporte Técnico,6093255840,false
+COL807, Sofia ,Desarrollador,6019524709,false
+COL808, Ana ,Soporte Técnico,6020658274,true
+COL809,Maria,Despachador,609169035,true
+COL810,Maria,Gerente,605284577,false
+COL811,Ana,Diseñador,601334326,false
+COL812,Laura,DISEÑADOR,6049469956,false
+,Jorge,,6026621703,false
+COL814,Laura,DESPACHADOR,6068122516,false
+COL815,Juan,DESPACHADOR,6082598591,false
+COL816,Pedro,DISEÑADOR,6088986213,false
+COL817,Carlos,DESARROLLADOR,6070676657,false
+COL818,Juan,DESPACHADOR,6090541777,false
+COL819,Juan,DESPACHADOR,6092384057,false
+COL820, Luis ,Despachador,6082856392,false
+COL821,Maria,Desarrollador,6075293233,false
+COL822,Ana,DISEÑADOR,6095727023,false
+COL823, Maria ,Desarrollador,6053721270,false
+COL824,Laura,GERENTE,6047653668,true
+COL825,Diana,GERENTE,6065725194,true
+COL826,Laura,Despachador,607291925,true
+COL827,Carlos,DESPACHADOR,6049071878,false
+,Pedro,,6061088450,true
+COL829,Diana,GERENTE,6022245821,true
+COL830,Maria,DISEÑADOR,6027183166,true
+COL831,Pedro,Desarrollador,6043650536,false
+COL832,Sofia,DISEÑADOR,6088456114,false
+COL833,Jorge,Desarrollador,6012099281,false
+COL834, Ana ,Diseñador,6098139576,false
+COL835,Laura,Diseñador,6028194866,false
+0,Maria,,6073631033,false
+COL837,Laura,Soporte Técnico,6066638022,true
+COL838,Luis,Soporte Técnico,608632703,true
+COL839, Juan ,Gerente,6050861105,true
+COL840, Laura ,Desarrollador,6098244784,false
+COL841,Carlos,Gerente,605553497,false
+COL842,Diana,DESPACHADOR,6053016694,false
+COL843,Sofia,Despachador,604883802,true
+COL844,Diana,Gerente,6011979083,true
+0,Sofia,,6066362540,false
+COL846, Sofia ,Desarrollador,6092820076,false
+0,Maria,,6072296389,false
+COL848, Ana ,Despachador,6013927206,false
+COL849,Jorge,Soporte Técnico,6014531045,false
+COL850,Ana,Soporte Técnico,607076022,false
+COL851,Carlos,SOPORTE TÉCNICO,6067141584,false
+COL852,Pedro,Diseñador,6058648078,true
+COL853,Jorge,DESARROLLADOR,6014723947,false
+COL854,Luis,DESARROLLADOR,6041067114,false
+COL855,Luis,Despachador,6034470349,false
+COL856, Laura ,Despachador,6054565938,true
+COL857,Ana,DESPACHADOR,6068728431,true
+COL858,Laura,Diseñador,6053011012,false
+COL859,Sofia,Desarrollador,608954996,true
+COL860,Juan,DISEÑADOR,6061157788,false
+COL861,Juan,Desarrollador,6043363834,false
+COL862,Luis,Desarrollador,6061838049,false
+COL863,Carlos,GERENTE,6065214926,false
+COL864,Juan,Diseñador,6013474067,false
+,Jorge,,6063278607,false
+COL866,Luis,Diseñador,6080454526,false
+COL867,Diana,Despachador,6079310565,true
+COL868,Juan,Desarrollador,609026857,false
+COL869, Pedro ,Despachador,6026828173,false
+COL870,Sofia,Diseñador,609352074,true
+COL871,Carlos,Desarrollador,6015497712,false
+COL872, Luis ,Soporte Técnico,6051973779,true
+COL873,Jorge,Diseñador,6048323579,true
+COL874,Carlos,DESPACHADOR,6053754420,false
+COL875,Juan,Diseñador,609232648,true
+COL876,Diana,SOPORTE TÉCNICO,6095065689,true
+COL877,Sofia,DESARROLLADOR,6043529933,true
+COL878,Jorge,Diseñador,605594766,false
+COL879, Maria ,Diseñador,6011630806,false
+COL880,Maria,Gerente,602092870,true
+COL881,Jorge,Diseñador,6031220061,true
+COL882,Carlos,DESPACHADOR,6018531282,true
+COL883,Diana,SOPORTE TÉCNICO,6023916493,true
+COL884, Maria ,Desarrollador,6087020156,true
+COL885,Juan,Desarrollador,601788168,false
+COL886,Juan,GERENTE,6043385526,false
+COL887,Maria,Gerente,601741965,true
+COL888,Sofia,Gerente,6014556801,false
+COL889,Carlos,Soporte Técnico,6059132874,false
+COL890, Maria ,Desarrollador,6015725022,false
+COL891,Maria,Gerente,6064845869,true
+COL892,Juan,Despachador,6080189406,true
+COL893,Maria,Soporte Técnico,605557355,true
+COL894,Juan,Despachador,6018591135,false
+,Maria,,6057346032,true
+COL896,Diana,Desarrollador,603603570,true
+COL897,Pedro,DESPACHADOR,6023262403,true
+COL898,Carlos,SOPORTE TÉCNICO,6085166389,false
+COL899,Juan,Diseñador,6024619401,false
+COL900,Maria,Soporte Técnico,605222649,true
+COL901,Carlos,DESPACHADOR,6018305479,true
+COL902,Jorge,SOPORTE TÉCNICO,6020151668,true
+COL903,Maria,Desarrollador,6069344435,false
+COL904,Diana,SOPORTE TÉCNICO,6037338090,true
+COL905, Jorge ,Despachador,6044697503,false
+COL906,Carlos,Soporte Técnico,608329359,true
+COL907,Jorge,Soporte Técnico,606853467,false
+COL908,Juan,GERENTE,6035310217,true
+COL909,Sofia,DESPACHADOR,6060303657,true
+COL910, Diana ,Diseñador,6085809163,true
+COL911,Sofia,DISEÑADOR,6064077825,false
+,Maria,,6038138721,true
+COL913, Ana ,Diseñador,6065627117,true
+COL914, Sofia ,Gerente,6011618904,true
+COL915,Jorge,GERENTE,6046857257,true
+COL916,Diana,Gerente,608855039,false
+COL917,Laura,SOPORTE TÉCNICO,6050048835,true
+COL918,Laura,Despachador,603524276,true
+COL919,Maria,GERENTE,6028016580,true
+COL920,Jorge,Desarrollador,605288079,true
+COL921,Sofia,Soporte Técnico,603998095,false
+COL922,Laura,DESPACHADOR,6015510531,true
+,Juan,,6067448308,false
+COL924,Diana,Diseñador,6039068760,false
+COL925,Ana,DISEÑADOR,6036135027,false
+COL926,Sofia,DESPACHADOR,6033784787,true
+COL927,Juan,GERENTE,6076649528,false
+COL928,Juan,DESPACHADOR,6085557040,true
+COL929,Laura,Soporte Técnico,6079889620,true
+COL930,Juan,Despachador,609301081,false
+COL931,Maria,Soporte Técnico,605657552,false
+COL932,Juan,Diseñador,609685084,false
+COL933,Sofia,Gerente,609206264,true
+COL934,Carlos,GERENTE,6067614268,false
+COL935,Carlos,DISEÑADOR,6016890996,false
+COL936,Juan,DISEÑADOR,6073786974,false
+COL937,Ana,DISEÑADOR,6040868451,true
+COL938,Juan,DESPACHADOR,6050321007,true
+COL939,Ana,Soporte Técnico,6096235359,true
+COL940,Maria,Soporte Técnico,6043613875,false
+COL941,Ana,DESPACHADOR,6087641415,true
+COL942,Carlos,DESPACHADOR,6096787031,false
+COL943,Juan,Gerente,6013957627,true
+COL944,Ana,Despachador,605092672,false
+COL945,Laura,Diseñador,605259563,false
+COL946, Sofia ,Desarrollador,6026807948,false
+COL947,Pedro,DESARROLLADOR,6062775490,true
+COL948, Sofia ,Gerente,6012736243,false
+COL949,Jorge,Diseñador,6091614746,false
+COL950,Pedro,DESARROLLADOR,6074818386,false
+COL951,Laura,Diseñador,6011723059,true
+COL952,Diana,GERENTE,6031261125,true
+COL953, Juan ,Desarrollador,6098267859,true
+,Diana,,6098584240,false
+COL955,Jorge,Soporte Técnico,605473492,false
+COL956,Sofia,DISEÑADOR,6057487382,true
+COL957, Maria ,Desarrollador,6027435013,true
+COL958, Luis ,Gerente,6037019186,false
+COL959,Laura,Diseñador,6092441391,true
+COL960,Ana,Despachador,6050731158,false
+COL961,Maria,Soporte Técnico,605930862,true
+0,Carlos,,6071409588,true
+COL963,Diana,Soporte Técnico,603448114,true
+COL964,Maria,Despachador,6094291424,true
+COL965,Maria,DESPACHADOR,6028671165,false
+COL966, Juan ,Gerente,6042905559,true
+,Jorge,,6085047201,true
+COL968,Jorge,GERENTE,6016875000,false
+COL969,Laura,Gerente,6015586922,true
+COL970, Juan ,Gerente,6060229554,false
+COL971,Carlos,SOPORTE TÉCNICO,6026342641,false
+COL972,Diana,Gerente,602301171,false
+,Laura,,6028363549,false
+COL974, Luis ,Diseñador,6074539601,false
+COL975, Diana ,Soporte Técnico,6057136795,true
+COL976,Luis,Gerente,609701594,true
+COL977, Pedro ,Gerente,6017184802,false
+COL978,Carlos,Despachador,602909367,false
+COL979,Laura,SOPORTE TÉCNICO,6070357718,false
+COL980,Sofia,DISEÑADOR,6088668860,true
+COL981,Diana,Gerente,606114200,false
+COL982,Luis,Despachador,6017774035,false
+,Sofia,,6057142935,false
+COL984,Sofia,Gerente,6075640800,true
+0,Pedro,,6078289487,false
+COL986,Pedro,Gerente,601322147,false
+COL987,Diana,DESARROLLADOR,6035617554,true
+COL988,Carlos,DESARROLLADOR,6078278736,true
+COL989,Juan,Despachador,6091748191,true
+COL990,Sofia,SOPORTE TÉCNICO,6072512716,true
+COL991,Juan,SOPORTE TÉCNICO,6071024673,false
+COL992,Ana,DESARROLLADOR,6051610132,false
+COL993,Laura,GERENTE,6055797331,false
+COL994, Sofia ,Desarrollador,6047450478,true
+0,Carlos,,6084136230,true
+COL996,Juan,DISEÑADOR,6079418698,false
+COL997,Juan,Gerente,601442145,false
+COL998,Pedro,GERENTE,6039041333,false
+COL999, Juan ,Gerente,6050932667,true
+COL1000,Luis,Soporte Técnico,6047029256,true

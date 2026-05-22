@@ -3,32 +3,29 @@ import pandas as pd
 
 def limpiar_datos(data_frame_sucio):
 
-    data_frame_limpio = data_frame_sucio.copy()
+    df = data_frame_sucio.copy()
 
-    # 1. Limpiar las columnas string del data frame
-    columnas_texto = ["id_sucursal","id_cliente","direccion","departament","ciudad","contacto","codigo_casa_mx"]
+    # 1. Limpiar columnas de texto solo si existen
+    columnas_texto = ["id_sucursal", "nombre_sucursal", "direccion_sucursal", "telefono_sucursal", "activo"]
+
     for columna in columnas_texto:
-        data_frame_limpio[columna] = (
-            data_frame_limpio[columna].astype("string").str.strip().str.lower()
-        )
+        if columna in df.columns:
+            df[columna] = df[columna].astype("string").str.strip().str.lower()
 
+    # 2. Validar activo solo si existe
+    if "activo" in df.columns:
+        df["activo"] = df["activo"].where(df["activo"].isin({"true", "false"}), pd.NA)
 
-    # 1.1 Definir valore de string esperados
-    valores_validos_aliados = ["Farmatodo", "Copidrogas", "Drogas la rebaja", "Drogueria pepos"]
-    data_frame_limpio["aliado"] = data_frame_limpio["aliados"].where(
+    # 3. Validar que id_sucursal no esté vacío
+    if "id_sucursal" in df.columns:
+        df = df[df["id_sucursal"].notna()]
+        df = df[df["id_sucursal"] != ""]
 
-        data_frame_limpio["aliados"].isin(valores_validos_aliados), pd.NA
-    )
+    # 4. Eliminar nulos en campos obligatorios
+    columnas_obligatorias = [c for c in ["id_sucursal", "nombre_sucursal", "direccion_sucursal"] if c in df.columns]
+    df = df.dropna(subset=columnas_obligatorias)
 
-    # 4 Eliminar registros que tengan datos obligatorios vacios
-    columnas_obligatorias=["id_sucursal","id_cliente","direccion","departament","ciudad","contacto","codigo_casa_mx"]
-    data_frame_limpio=data_frame_limpio.dropna(subset=columnas_obligatorias)
+    # 5. Eliminar duplicados
+    df = df.drop_duplicates()
 
-    # 5 Eliminar registros duplicados
-    data_frame_limpio=data_frame_limpio.drop_duplicates()   
-
-    return data_frame_limpio
-
-
-
-
+    return df

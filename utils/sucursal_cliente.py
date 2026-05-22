@@ -1,25 +1,36 @@
 import random
-from datetime import datetime, timedelta
 
 
-def generar_sucursal_cliente(numeroClientes):
+def generar_sucursal_cliente(numero_sucursales):
 
-    listaClientes = ["Farmatodo", "Copidrogas", "Drogas la rebaja", "Drogueria pepos"]
-    codigosClientes = ["FAR01", "COP02", "REB03", "PEP04"]
-    ciudades = ["Medellín", "Bogotá", "Cali", "Cartagena"]
-    direcciones = ["Calle 123", "Avenida 456", "Carrera 789", "Transversal 321"]
-    clientes = []
+    nombres  = ["Sucursal Norte", "Sucursal Sur", "Sucursal Este", "Sucursal Oeste", "Sucursal Central"]
+    direcciones = ["Calle 123 #45-67", "Avenida 456 #78-90", "Carrera 789 #12-34", "Calle 321 #54-76"]
+    telefonos   = ["6011234567", "6027654321", "6039876543", "6041234567"]
+    activos     = ["true", "false"]
 
-    fechaInicial = datetime(2023, 1, 1)
-    for i in range(numeroClientes):
-        cliente = {
-            "id_sucursal": random.choice(listaClientes) + str(i),
-            "id_cliente": random.randint(0, 1000000),
-            "direccion": random.choice(direcciones),
-            "departament": codigosClientes[i % len(codigosClientes)],
-            "ciudad": random.choice(ciudades),
-            "contacto": random.choice(listaClientes),
-            "codigo_casa_mx": random.randint(100000, 999999),
+    sucursales = []
+
+    for i in range(numero_sucursales):
+        sucursal = {
+            "id_sucursal"      : f"SUC{str(i + 1).zfill(3)}",
+            "nombre_sucursal"  : random.choice(nombres),
+            "direccion_sucursal": random.choice(direcciones),
+            "telefono_sucursal": random.choice(telefonos),
+            "activo"           : random.choice(activos)
         }
-        clientes.append(cliente)
-    return clientes
+
+        probabilidad = random.random()
+
+        if probabilidad < 0.1:
+            sucursal["id_sucursal"]       = random.choice([None, "", "0"])
+            sucursal["nombre_sucursal"]   = None
+        elif probabilidad < 0.3:
+            sucursal["nombre_sucursal"]   = " " + sucursal["nombre_sucursal"] + " "
+        elif probabilidad < 0.6:
+            sucursal["direccion_sucursal"] = sucursal["direccion_sucursal"].upper()
+        elif probabilidad < 0.8:
+            sucursal["telefono_sucursal"] = f"60{random.randint(1000000, 9999999)}"
+
+        sucursales.append(sucursal)
+
+    return sucursales
